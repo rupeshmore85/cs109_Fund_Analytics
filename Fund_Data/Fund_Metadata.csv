@@ -1,0 +1,1272 @@
+,Fund_Name,Fund_Family,Fund_Ticker,Benchmark_Index
+0,Vanguard 500 Index Inv,Vanguard,VFINX,S&P 500 TR USD
+1,Vanguard Balanced Index Inv,Vanguard,VBINX,Morningstar Moderate Target Risk
+2,Vanguard CA Interm-Term Tax-Exempt Inv,Vanguard,VCAIX,Barclays Municipal TR USD
+3,Vanguard CA Long-Term Tax-Exempt Inv,Vanguard,VCITX,Barclays Municipal TR USD
+4,Vanguard Capital Opportunity Inv,Vanguard,VHCOX,S&P 500 TR USD
+5,Vanguard Capital Value Inv,Vanguard,VCVLX,S&P 500 TR USD
+6,Vanguard Convertible Securities Inv,Vanguard,VCVSX,Morningstar Moderate Target Risk
+7,Vanguard Developed Markets Idx Admiral,Vanguard,VTMGX,MSCI ACWI Ex USA NR USD
+8,Vanguard Diversified Equity Inv,Vanguard,VDEQX,S&P 500 TR USD
+9,Vanguard Dividend Growth Inv,Vanguard,VDIGX,S&P 500 TR USD
+10,Vanguard Emerg Mkts Govt Bd Idx Investor,Vanguard,VGOVX,Barclays US Agg Bond TR USD
+11,Vanguard Emerg Mkts Sel Stk Inv,Vanguard,VMMSX,MSCI ACWI Ex USA NR USD
+12,Vanguard Emerging Mkts Stock Idx Inv,Vanguard,VEIEX,MSCI ACWI Ex USA NR USD
+13,Vanguard Energy Inv,Vanguard,VGENX,MSCI ACWI NR USD
+14,Vanguard Equity-Income Inv,Vanguard,VEIPX,S&P 500 TR USD
+15,Vanguard European Stock Index Inv,Vanguard,VEURX,MSCI ACWI Ex USA NR USD
+16,Vanguard Explorer Inv,Vanguard,VEXPX,S&P 500 TR USD
+17,Vanguard Explorer Value Inv,Vanguard,VEVFX,S&P 500 TR USD
+18,Vanguard Extended Dur Treas Idx I,Vanguard,VEDTX,Barclays US Agg Bond TR USD
+19,Vanguard Extended Market Idx Inv,Vanguard,VEXMX,S&P 500 TR USD
+20,Vanguard FTSE All-Wld ex-US SmCp Idx I,Vanguard,VFSNX,MSCI ACWI Ex USA NR USD
+21,Vanguard FTSE Social Index Inv,Vanguard,VFTSX,S&P 500 TR USD
+22,Vanguard Global Equity Inv,Vanguard,VHGEX,MSCI ACWI Ex USA NR USD
+23,Vanguard Global ex-US Rel Est Idx Inv,Vanguard,VGXRX,MSCI ACWI NR USD
+24,Vanguard Global Minimum Volatility Admr,Vanguard,VMNVX,MSCI ACWI Ex USA NR USD
+25,Vanguard GNMA Inv,Vanguard,VFIIX,Barclays US Agg Bond TR USD
+26,Vanguard Growth &amp; Income Inv,Vanguard,VQNPX,S&P 500 TR USD
+27,Vanguard Growth Index Inv,Vanguard,VIGRX,S&P 500 TR USD
+28,Vanguard Health Care Inv,Vanguard,VGHCX,MSCI ACWI NR USD
+29,Vanguard High-Yield Corporate Inv,Vanguard,VWEHX,Barclays US Agg Bond TR USD
+30,Vanguard High-Yield Tax-Exempt,Vanguard,VWAHX,Barclays Municipal TR USD
+31,Vanguard Inflation-Protected Secs Inv,Vanguard,VIPSX,Barclays US Agg Bond TR USD
+32,Vanguard Institutional Index I,Vanguard,VINIX,S&P 500 TR USD
+33,Vanguard Instl Ttl Stk Mkt Idx InstlPls,Vanguard,VITPX,S&P 500 TR USD
+34,Vanguard Interm-Term Bond Index Inv,Vanguard,VBIIX,Barclays US Agg Bond TR USD
+35,Vanguard Interm-Term Invmt-Grade Inv,Vanguard,VFICX,Barclays US Agg Bond TR USD
+36,Vanguard Interm-Term Treasury Inv,Vanguard,VFITX,Barclays US Agg Bond TR USD
+37,Vanguard Interm-Term Tx-Ex Inv,Vanguard,VWITX,Barclays Municipal TR USD
+38,Vanguard International Explorer Inv,Vanguard,VINEX,MSCI ACWI Ex USA NR USD
+39,Vanguard International Growth Inv,Vanguard,VWIGX,MSCI ACWI Ex USA NR USD
+40,Vanguard International Value Inv,Vanguard,VTRIX,MSCI ACWI Ex USA NR USD
+41,Vanguard LifeStrategy Cnsrv Gr Inv,Vanguard,VSCGX,Morningstar Moderate Target Risk
+42,Vanguard LifeStrategy Growth Inv,Vanguard,VASGX,Morningstar Moderate Target Risk
+43,Vanguard LifeStrategy Income Inv,Vanguard,VASIX,Morningstar Moderate Target Risk
+44,Vanguard LifeStrategy Moderate Gr Inv,Vanguard,VSMGX,Morningstar Moderate Target Risk
+45,Vanguard Long-Term Bond Index Inv,Vanguard,VBLTX,Barclays US Agg Bond TR USD
+46,Vanguard Long-Term Corp Bond Idx I,Vanguard,VLCIX,Barclays US Agg Bond TR USD
+47,Vanguard Long-Term Govt Bond Idx I,Vanguard,VLGIX,Barclays US Agg Bond TR USD
+48,Vanguard Long-Term Investment-Grade Inv,Vanguard,VWESX,Barclays US Agg Bond TR USD
+49,Vanguard Long-Term Tax-Exempt,Vanguard,VWLTX,Barclays Municipal TR USD
+50,Vanguard Long-Term Treasury Inv,Vanguard,VUSTX,Barclays US Agg Bond TR USD
+51,Vanguard Ltd-Term Tx-Ex,Vanguard,VMLTX,Barclays Municipal TR USD
+52,Vanguard MA Tax-Exempt Inv,Vanguard,VMATX,Barclays Municipal TR USD
+53,Vanguard Managed Payout Investor,Vanguard,VPGDX,Morningstar Moderate Target Risk
+54,Vanguard Market Neutral I,Vanguard,VMNIX,Barclays US Agg Bond TR USD
+55,Vanguard Mid Cap Growth Inv,Vanguard,VMGRX,S&P 500 TR USD
+56,Vanguard Mid Cap Index I,Vanguard,VMCIX,S&P 500 TR USD
+57,Vanguard Morgan™ Growth Inv,Vanguard,VMRGX,S&P 500 TR USD
+58,Vanguard NJ Long-Term Tax-Exempt Inv,Vanguard,VNJTX,Barclays Municipal TR USD
+59,Vanguard NY Long-Term Tax-Exempt Inv,Vanguard,VNYTX,Barclays Municipal TR USD
+60,Vanguard OH Long-Term Tax-Exempt,Vanguard,VOHIX,Barclays Municipal TR USD
+61,Vanguard PA Long-Term Tax-Exempt Inv,Vanguard,VPAIX,Barclays Municipal TR USD
+62,Vanguard Pacific Stock Index Inv,Vanguard,VPACX,MSCI ACWI Ex USA NR USD
+63,Vanguard Precious Metals and Mining Inv,Vanguard,VGPMX,MSCI ACWI NR USD
+64,Vanguard PRIMECAP Core Inv,Vanguard,VPCCX,S&P 500 TR USD
+65,Vanguard PRIMECAP Inv,Vanguard,VPMCX,S&P 500 TR USD
+66,Vanguard REIT Index Inv,Vanguard,VGSIX,MSCI ACWI NR USD
+67,Vanguard Selected Value Inv,Vanguard,VASVX,S&P 500 TR USD
+68,Vanguard Short-Term Bond Index Inv,Vanguard,VBISX,Barclays US Agg Bond TR USD
+69,Vanguard Short-Term Corp Bd Idx I,Vanguard,VSTBX,Barclays US Agg Bond TR USD
+70,Vanguard Short-Term Federal Inv,Vanguard,VSGBX,Barclays US Agg Bond TR USD
+71,Vanguard Short-Term Investment-Grade Inv,Vanguard,VFSTX,Barclays US Agg Bond TR USD
+72,Vanguard Short-Term Treasury Inv,Vanguard,VFISX,Barclays US Agg Bond TR USD
+73,Vanguard Short-Term Tx-Ex,Vanguard,VWSTX,Barclays Municipal TR USD
+74,Vanguard Small Cap Growth Index Inv,Vanguard,VISGX,S&P 500 TR USD
+75,Vanguard Small Cap Index Inv,Vanguard,NAESX,S&P 500 TR USD
+76,Vanguard Small Cap Value Index Inv,Vanguard,VISVX,S&P 500 TR USD
+77,Vanguard STAR Inv,Vanguard,VGSTX,Morningstar Moderate Target Risk
+78,Vanguard Strategic Equity Inv,Vanguard,VSEQX,S&P 500 TR USD
+79,Vanguard Strategic Small-Cap Equity Inv,Vanguard,VSTCX,S&P 500 TR USD
+80,Vanguard Struct Large-Cap Eq InstlPlus,Vanguard,VSLPX,S&P 500 TR USD
+81,Vanguard Structured Broad Mkt InstlPlus,Vanguard,VSBPX,S&P 500 TR USD
+82,Vanguard Target Retirement 2010 Inv,Vanguard,VTENX,Morningstar Moderate Target Risk
+83,Vanguard Target Retirement 2015 Inv,Vanguard,VTXVX,Morningstar Moderate Target Risk
+84,Vanguard Target Retirement 2020 Inv,Vanguard,VTWNX,Morningstar Moderate Target Risk
+85,Vanguard Target Retirement 2025 Inv,Vanguard,VTTVX,Morningstar Moderate Target Risk
+86,Vanguard Target Retirement 2030 Inv,Vanguard,VTHRX,Morningstar Moderate Target Risk
+87,Vanguard Target Retirement 2035 Inv,Vanguard,VTTHX,Morningstar Moderate Target Risk
+88,Vanguard Target Retirement 2040 Inv,Vanguard,VFORX,Morningstar Moderate Target Risk
+89,Vanguard Target Retirement 2045 Inv,Vanguard,VTIVX,Morningstar Moderate Target Risk
+90,Vanguard Target Retirement 2050 Inv,Vanguard,VFIFX,Morningstar Moderate Target Risk
+91,Vanguard Target Retirement 2055 Inv,Vanguard,VFFVX,Morningstar Moderate Target Risk
+92,Vanguard Target Retirement 2060 Inv,Vanguard,VTTSX,Morningstar Moderate Target Risk
+93,Vanguard Target Retirement Income Inv,Vanguard,VTINX,Morningstar Moderate Target Risk
+94,Vanguard Tax-Managed Balanced Adm,Vanguard,VTMFX,Morningstar Moderate Target Risk
+95,Vanguard Tax-Managed Capital App I,Vanguard,VTCIX,S&P 500 TR USD
+96,Vanguard Tax-Managed Small Cap Adm,Vanguard,VTMSX,S&P 500 TR USD
+97,Vanguard Total Bond Market II Idx Inv,Vanguard,VTBIX,Barclays US Agg Bond TR USD
+98,Vanguard Total Bond Market Index Inv,Vanguard,VBMFX,Barclays US Agg Bond TR USD
+99,Vanguard Total Intl Bd Idx Institutional,Vanguard,VTIFX,Barclays US Agg Bond TR USD
+100,Vanguard Total Intl Stock Index Inv,Vanguard,VGTSX,MSCI ACWI Ex USA NR USD
+101,Vanguard Total Stock Mkt Idx Inv,Vanguard,VTSMX,S&P 500 TR USD
+102,Vanguard US Growth Inv,Vanguard,VWUSX,S&P 500 TR USD
+103,Vanguard US Value Inv,Vanguard,VUVLX,S&P 500 TR USD
+104,Vanguard Value Index Inv,Vanguard,VIVAX,S&P 500 TR USD
+105,Vanguard Wellesley® Income Inv,Vanguard,VWINX,Morningstar Moderate Target Risk
+106,Vanguard Wellington™ Inv,Vanguard,VWELX,Morningstar Moderate Target Risk
+107,Vanguard Windsor™ II Inv,Vanguard,VWNFX,S&P 500 TR USD
+108,Vanguard Windsor™ Inv,Vanguard,VWNDX,S&P 500 TR USD
+109,American Funds 2010 Trgt Date Retire A,American Funds,AAATX,Morningstar Moderate Target Risk
+110,American Funds 2015 Trgt Date Retire A,American Funds,AABTX,Morningstar Moderate Target Risk
+111,American Funds 2020 Trgt Date Retire A,American Funds,AACTX,Morningstar Moderate Target Risk
+112,American Funds 2025 Trgt Date Retire A,American Funds,AADTX,Morningstar Moderate Target Risk
+113,American Funds 2030 Trgt Date Retire A,American Funds,AAETX,Morningstar Moderate Target Risk
+114,American Funds 2035 Trgt Date Retire A,American Funds,AAFTX,Morningstar Moderate Target Risk
+115,American Funds 2040 Trgt Date Retire A,American Funds,AAGTX,Morningstar Moderate Target Risk
+116,American Funds 2045 Trgt Date Retire A,American Funds,AAHTX,Morningstar Moderate Target Risk
+117,American Funds 2050 Trgt Date Retire A,American Funds,AALTX,Morningstar Moderate Target Risk
+118,American Funds 2055 Trgt Date Retire A,American Funds,AAMTX,Morningstar Moderate Target Risk
+119,American Funds AMCAP A,American Funds,AMCPX,S&P 500 TR USD
+120,American Funds American Balanced A,American Funds,ABALX,Morningstar Moderate Target Risk
+121,American Funds American Hi Inc Tr A,American Funds,AHITX,Barclays US Agg Bond TR USD
+122,American Funds American Mutual A,American Funds,AMRMX,S&P 500 TR USD
+123,American Funds Balanced Port 529-A,American Funds,CBAAX,Morningstar Moderate Target Risk
+124,American Funds Bond Fund of Amer A,American Funds,ABNDX,Barclays US Agg Bond TR USD
+125,American Funds Capital Inc Bldr A,American Funds,CAIBX,Morningstar Moderate Target Risk
+126,American Funds Capital World Bond A,American Funds,CWBFX,Barclays US Agg Bond TR USD
+127,American Funds Capital World G/I A,American Funds,CWGIX,MSCI ACWI Ex USA NR USD
+128,American Funds College 2015 529-A,American Funds,CFFAX,Morningstar Moderate Target Risk
+129,American Funds College 2018 529-A,American Funds,CNEAX,Morningstar Moderate Target Risk
+130,American Funds College 2021 529-A,American Funds,CTOAX,Morningstar Moderate Target Risk
+131,American Funds College 2024 529-A,American Funds,CFTAX,Morningstar Moderate Target Risk
+132,American Funds College 2027 529-A,American Funds,CSTAX,Morningstar Moderate Target Risk
+133,American Funds College 2030 529-A,American Funds,CTHAX,Morningstar Moderate Target Risk
+134,American Funds College Enrollment 529-A,American Funds,CENAX,Barclays US Agg Bond TR USD
+135,American Funds Dvlpg Wld Gr&amp;Inc A,American Funds,DWGAX,MSCI ACWI Ex USA NR USD
+136,American Funds EuroPacific Gr A,American Funds,AEPGX,MSCI ACWI Ex USA NR USD
+137,American Funds Fundamental Invs A,American Funds,ANCFX,S&P 500 TR USD
+138,American Funds Global Balanced 529A,American Funds,CBFAX,Morningstar Moderate Target Risk
+139,American Funds Global Gr Port 529-A,American Funds,CPGAX,MSCI ACWI Ex USA NR USD
+140,American Funds Gr and Inc Port 529-A,American Funds,CGNAX,Morningstar Moderate Target Risk
+141,American Funds Growth Fund of Amer A,American Funds,AGTHX,S&P 500 TR USD
+142,American Funds Growth Portfolio 529-A,American Funds,CGPAX,MSCI ACWI Ex USA NR USD
+143,American Funds Inc Fund of Amer A,American Funds,AMECX,Morningstar Moderate Target Risk
+144,American Funds Income Portfolio A,American Funds,INPAX,Morningstar Moderate Target Risk
+145,American Funds Interm Bond Fd of Amer A,American Funds,AIBAX,Barclays US Agg Bond TR USD
+146,American Funds Intl Gr And Inc 529A,American Funds,CGIAX,MSCI ACWI Ex USA NR USD
+147,American Funds Invmt Co of Amer A,American Funds,AIVSX,S&P 500 TR USD
+148,American Funds Ltd-Term Tx-Ex Bd A,American Funds,LTEBX,Barclays Municipal TR USD
+149,American Funds Mortgage 529A,American Funds,CMFAX,Barclays US Agg Bond TR USD
+150,American Funds New Economy A,American Funds,ANEFX,S&P 500 TR USD
+151,American Funds New Perspective A,American Funds,ANWPX,MSCI ACWI Ex USA NR USD
+152,American Funds New World A,American Funds,NEWFX,MSCI ACWI Ex USA NR USD
+153,American Funds Preservation Port A,American Funds,PPVAX,Barclays US Agg Bond TR USD
+154,American Funds Shrt-Term Tx-Exmpt Bd A,American Funds,ASTEX,Barclays Municipal TR USD
+155,American Funds SMALLCAP World A,American Funds,SMCWX,MSCI ACWI Ex USA NR USD
+156,American Funds ST Bd Fd of America A,American Funds,ASBAX,Barclays US Agg Bond TR USD
+157,American Funds Tax-Exempt Bond A,American Funds,AFTEX,Barclays Municipal TR USD
+158,American Funds Tax-Exempt CA A,American Funds,TAFTX,Barclays Municipal TR USD
+159,American Funds Tax-Exempt Fund of NY A,American Funds,NYAAX,Barclays Municipal TR USD
+160,American Funds Tax-Exempt MD A,American Funds,TMMDX,Barclays Municipal TR USD
+161,American Funds Tax-Exempt Presv Port A,American Funds,TEPAX,Barclays Municipal TR USD
+162,American Funds Tax-Exempt VA A,American Funds,TFVAX,Barclays Municipal TR USD
+163,American Funds Tx-Advtg Inc A,American Funds,TAIAX,Morningstar Moderate Target Risk
+164,American Funds US Government Sec A,American Funds,AMUSX,Barclays US Agg Bond TR USD
+165,American Funds Washington Mutual A,American Funds,AWSHX,S&P 500 TR USD
+166,American High-Income Municipal Bond A,American Funds,AMHIX,Barclays Municipal TR USD
+167,PIMCO All Asset All Authority Inst,PIMCO Funds,PAUIX,Morningstar Moderate Target Risk
+168,PIMCO All Asset Instl,PIMCO Funds,PAAIX,Morningstar Moderate Target Risk
+169,PIMCO Balanced Income A,PIMCO Funds,PBIAX,Morningstar Moderate Target Risk
+170,PIMCO CA Intermediate Muni Bd Instl,PIMCO Funds,PCIMX,Barclays Municipal TR USD
+171,PIMCO CA Sh Dur Municipal Income A,PIMCO Funds,PCDAX,Barclays Municipal TR USD
+172,PIMCO California Municipal Bond A,PIMCO Funds,PCTTX,Barclays Municipal TR USD
+173,PIMCO CommoditiesPLUS® Strategy A,PIMCO Funds,PCLAX,Morningstar Long-Only Commodity TR
+174,PIMCO Commodity Real Ret Strat Instl,PIMCO Funds,PCRIX,Morningstar Long-Only Commodity TR
+175,PIMCO Convertible Instl,PIMCO Funds,PFCIX,Morningstar Moderate Target Risk
+176,PIMCO Credit Absolute Return A,PIMCO Funds,PZCRX,Barclays US Agg Bond TR USD
+177,PIMCO Diversified Inc A,PIMCO Funds,PDVAX,Barclays US Agg Bond TR USD
+178,PIMCO Dividend and Income Builder A,PIMCO Funds,PQIZX,Morningstar Moderate Target Risk
+179,PIMCO EM Fdmtl IndexPLUS AR Strat Instl,PIMCO Funds,PEFIX,MSCI ACWI Ex USA NR USD
+180,PIMCO Emerg Mkts Full Spectrum Bd A,PIMCO Funds,PFSSX,Barclays US Agg Bond TR USD
+181,PIMCO Emerging Local Bond Instl,PIMCO Funds,PELBX,Barclays US Agg Bond TR USD
+182,PIMCO Emerging Markets Bond A,PIMCO Funds,PAEMX,Barclays US Agg Bond TR USD
+183,PIMCO Emerging Markets Corp Bd Instl,PIMCO Funds,PEMIX,Barclays US Agg Bond TR USD
+184,PIMCO Emerging Markets Currency A,PIMCO Funds,PLMAX,BofAML USD LIBOR 3 Mon CM
+185,PIMCO Emerging Multi-Asset A,PIMCO Funds,PEAAX,Morningstar Moderate Target Risk
+186,PIMCO EMG Intl LowVol RAFI®-PLUS AR A,PIMCO Funds,PLVVX,MSCI ACWI Ex USA NR USD
+187,PIMCO EqS Pathfinder A,PIMCO Funds,PATHX,MSCI ACWI Ex USA NR USD
+188,PIMCO EqS® Dividend A,PIMCO Funds,PQDAX,MSCI ACWI Ex USA NR USD
+189,PIMCO EqS® Emerging Markets A,PIMCO Funds,PEQAX,MSCI ACWI Ex USA NR USD
+190,PIMCO EqS® Long/Short Institutional,PIMCO Funds,PMHIX,S&P 500 TR USD
+191,PIMCO Extended Duration Instl,PIMCO Funds,PEDIX,Barclays US Agg Bond TR USD
+192,PIMCO Floating Income A,PIMCO Funds,PFIAX,Barclays US Agg Bond TR USD
+193,PIMCO Foreign Bond (Unhedged) I,PIMCO Funds,PFUIX,Barclays US Agg Bond TR USD
+194,PIMCO Foreign Bond (USD-Hedged) I,PIMCO Funds,PFORX,Barclays US Agg Bond TR USD
+195,PIMCO Fundamental Advtg Abs Ret Strat I,PIMCO Funds,PFATX,Barclays US Agg Bond TR USD
+196,PIMCO Fundamental IndexPLUS AR A,PIMCO Funds,PIXAX,S&P 500 TR USD
+197,PIMCO Global Advantage Strategy Bd A,PIMCO Funds,PGSAX,Barclays US Agg Bond TR USD
+198,PIMCO Global Bond (Unhedged) Instl,PIMCO Funds,PIGLX,Barclays US Agg Bond TR USD
+199,PIMCO Global Bond (USD-Hedged) A,PIMCO Funds,PAIIX,Barclays US Agg Bond TR USD
+200,PIMCO Global Multi-Asset A,PIMCO Funds,PGMAX,Morningstar Moderate Target Risk
+201,PIMCO GNMA Instl,PIMCO Funds,PDMIX,Barclays US Agg Bond TR USD
+202,PIMCO High Yield Instl,PIMCO Funds,PHIYX,Barclays US Agg Bond TR USD
+203,PIMCO High Yield Municipal Bond A,PIMCO Funds,PYMAX,Barclays Municipal TR USD
+204,PIMCO High Yield Spectrum A,PIMCO Funds,PHSAX,Barclays US Agg Bond TR USD
+205,PIMCO Income A,PIMCO Funds,PONAX,Barclays US Agg Bond TR USD
+206,PIMCO Inflation Response Multi-Asst A,PIMCO Funds,PZRMX,Morningstar Moderate Target Risk
+207,PIMCO Intl Fdmtl IdxPLUS® AR Strat Instl,PIMCO Funds,PTSIX,MSCI ACWI Ex USA NR USD
+208,PIMCO Intl LwVol RAFI®-PLUS AR A,PIMCO Funds,PLVBX,MSCI ACWI Ex USA NR USD
+209,PIMCO Intl StkPLUS® AR Stra (Unhdgd) A,PIMCO Funds,PPUAX,MSCI ACWI Ex USA NR USD
+210,PIMCO Intl StksPLUS® AR Strat (USD-Hg) A,PIMCO Funds,PIPAX,MSCI ACWI Ex USA NR USD
+211,PIMCO Investment Grade Corp Bd Instl,PIMCO Funds,PIGIX,Barclays US Agg Bond TR USD
+212,PIMCO Long Duration Total Return Instl,PIMCO Funds,PLRIX,Barclays US Agg Bond TR USD
+213,PIMCO Long-Term Credit Institutional,PIMCO Funds,PTCIX,Barclays US Agg Bond TR USD
+214,PIMCO Long-Term US Government Instl,PIMCO Funds,PGOVX,Barclays US Agg Bond TR USD
+215,PIMCO Low Duration II Instl,PIMCO Funds,PLDTX,Barclays US Agg Bond TR USD
+216,PIMCO Low Duration III Instl,PIMCO Funds,PLDIX,Barclays US Agg Bond TR USD
+217,PIMCO Low Duration Instl,PIMCO Funds,PTLDX,Barclays US Agg Bond TR USD
+218,PIMCO LowVol RAFI®-PLUS AR A,PIMCO Funds,PXLVX,S&P 500 TR USD
+219,PIMCO Moderate Duration Instl,PIMCO Funds,PMDRX,Barclays US Agg Bond TR USD
+220,PIMCO Mortgage Opportunities A,PIMCO Funds,PMZAX,Barclays US Agg Bond TR USD
+221,PIMCO Mortgage-Backed Securities Instl,PIMCO Funds,PTRIX,Barclays US Agg Bond TR USD
+222,PIMCO Municipal Bond Instl,PIMCO Funds,PFMIX,Barclays Municipal TR USD
+223,PIMCO National Interm Muni Bond A,PIMCO Funds,PMNTX,Barclays Municipal TR USD
+224,PIMCO NY Municipal Instl,PIMCO Funds,PNYIX,Barclays Municipal TR USD
+225,PIMCO Real Estate Real Return Strategy A,PIMCO Funds,PETAX,MSCI ACWI NR USD
+226,PIMCO Real Return A,PIMCO Funds,PRTNX,Barclays US Agg Bond TR USD
+227,PIMCO Real Return Asset Instl,PIMCO Funds,PRAIX,Barclays US Agg Bond TR USD
+228,PIMCO RealRetirement 2015 A,PIMCO Funds,PTNYX,Morningstar Moderate Target Risk
+229,PIMCO RealRetirement 2020 A,PIMCO Funds,PTYAX,Morningstar Moderate Target Risk
+230,PIMCO RealRetirement 2025 A,PIMCO Funds,PENZX,Morningstar Moderate Target Risk
+231,PIMCO RealRetirement 2030 A,PIMCO Funds,PEHAX,Morningstar Moderate Target Risk
+232,PIMCO RealRetirement 2035 A,PIMCO Funds,PIVAX,Morningstar Moderate Target Risk
+233,PIMCO RealRetirement 2040 A,PIMCO Funds,POFAX,Morningstar Moderate Target Risk
+234,PIMCO RealRetirement 2045 A,PIMCO Funds,PFZAX,Morningstar Moderate Target Risk
+235,PIMCO RealRetirement 2050 A,PIMCO Funds,PFYAX,Morningstar Moderate Target Risk
+236,PIMCO RealRetirement Inc&amp;Distrbtn A,PIMCO Funds,PTNAX,Morningstar Moderate Target Risk
+237,PIMCO Senior Floating Rate A,PIMCO Funds,PSRZX,Barclays US Agg Bond TR USD
+238,PIMCO Short Asset Investment A,PIMCO Funds,PAIAX,Barclays US Agg Bond TR USD
+239,PIMCO Short-Duration Muni Income Inst,PIMCO Funds,PSDIX,Barclays Municipal TR USD
+240,PIMCO Short-Term Instl,PIMCO Funds,PTSHX,Barclays US Agg Bond TR USD
+241,PIMCO Sm Co Fdmtl IdxPLUS® AR Strat Inst,PIMCO Funds,PCFIX,S&P 500 TR USD
+242,PIMCO Small Cap StocksPLUS® AR Strt Inst,PIMCO Funds,PSCSX,S&P 500 TR USD
+243,PIMCO StocksPLUS Absolute Return Instl,PIMCO Funds,PSPTX,S&P 500 TR USD
+244,PIMCO StocksPLUS AR Short Strat Instl,PIMCO Funds,PSTIX,S&P 500 TR USD
+245,PIMCO StocksPLUS Instl,PIMCO Funds,PSTKX,S&P 500 TR USD
+246,PIMCO StocksPLUS Long Duration Instl,PIMCO Funds,PSLDX,Morningstar Moderate Target Risk
+247,PIMCO Tax Managed Real Return A,PIMCO Funds,PTXAX,Barclays Municipal TR USD
+248,PIMCO Total Return II Instl,PIMCO Funds,PMBIX,Barclays US Agg Bond TR USD
+249,PIMCO Total Return III Instl,PIMCO Funds,PTSAX,Barclays US Agg Bond TR USD
+250,PIMCO Total Return Instl,PIMCO Funds,PTTRX,Barclays US Agg Bond TR USD
+251,PIMCO Total Return IV A,PIMCO Funds,PTUZX,Barclays US Agg Bond TR USD
+252,PIMCO TRENDS Managed Futures Strat A,PIMCO Funds,PQTAX,Credit Suisse Mgd Futures Liquid TR USD
+253,PIMCO Unconstrained Bond A,PIMCO Funds,PUBAX,Barclays US Agg Bond TR USD
+254,PIMCO Unconstrained Tax Managed Bd A,PIMCO Funds,ATMAX,Barclays US Agg Bond TR USD
+255,PIMCO Wldwd Fdmtl Advtg AR Strat Instl,PIMCO Funds,PWWIX,Barclays US Agg Bond TR USD
+256,T. Rowe Price Africa &amp; Middle East,T. Rowe Price,TRAMX,MSCI ACWI Ex USA NR USD
+257,T. Rowe Price Asia Opportunities Advisor,T. Rowe Price,PAAOX,MSCI ACWI Ex USA NR USD
+258,T. Rowe Price Balanced,T. Rowe Price,RPBAX,Morningstar Moderate Target Risk
+259,T. Rowe Price Blue Chip Growth,T. Rowe Price,TRBCX,S&P 500 TR USD
+260,T. Rowe Price CA Tax-Free Bond,T. Rowe Price,PRXCX,Barclays Municipal TR USD
+261,T. Rowe Price Capital Appreciation,T. Rowe Price,PRWCX,Morningstar Moderate Target Risk
+262,T. Rowe Price Capital Opportunity,T. Rowe Price,PRCOX,S&P 500 TR USD
+263,T. Rowe Price Corporate Income,T. Rowe Price,PRPIX,Barclays US Agg Bond TR USD
+264,T. Rowe Price Credit Opportunities Adv,T. Rowe Price,PAOPX,Barclays US Agg Bond TR USD
+265,T. Rowe Price Diversified Mid Cap Growth,T. Rowe Price,PRDMX,S&P 500 TR USD
+266,T. Rowe Price Diversified Sm Cap Growth,T. Rowe Price,PRDSX,S&P 500 TR USD
+267,T. Rowe Price Dividend Growth,T. Rowe Price,PRDGX,S&P 500 TR USD
+268,T. Rowe Price Emerg Mkts Lcl Ccy Bd Adv,T. Rowe Price,PAELX,Barclays US Agg Bond TR USD
+269,T. Rowe Price Emerging Europe Fund,T. Rowe Price,TREMX,MSCI ACWI Ex USA NR USD
+270,T. Rowe Price Emerging Markets Bond,T. Rowe Price,PREMX,Barclays US Agg Bond TR USD
+271,T. Rowe Price Emerging Markets Stock,T. Rowe Price,PRMSX,MSCI ACWI Ex USA NR USD
+272,T. Rowe Price Emerging Mkts Corp Bd Adv,T. Rowe Price,PACEX,Barclays US Agg Bond TR USD
+273,T. Rowe Price Equity Income,T. Rowe Price,PRFDX,S&P 500 TR USD
+274,T. Rowe Price Equity Index 500,T. Rowe Price,PREIX,S&P 500 TR USD
+275,T. Rowe Price European Stock,T. Rowe Price,PRESX,MSCI ACWI Ex USA NR USD
+276,T. Rowe Price Extended Equity Market Idx,T. Rowe Price,PEXMX,S&P 500 TR USD
+277,T. Rowe Price Financial Services,T. Rowe Price,PRISX,MSCI ACWI NR USD
+278,T. Rowe Price Floating Rate Adv,T. Rowe Price,PAFRX,Barclays US Agg Bond TR USD
+279,T. Rowe Price GA Tax-Free Bond,T. Rowe Price,GTFBX,Barclays Municipal TR USD
+280,T. Rowe Price Glbl Gr Stock Adv Cl,T. Rowe Price,PAGLX,MSCI ACWI Ex USA NR USD
+281,T. Rowe Price Global Allocation Advisor,T. Rowe Price,PAFGX,Morningstar Moderate Target Risk
+282,T. Rowe Price Global Industrials,T. Rowe Price,RPGIX,MSCI ACWI NR USD
+283,T. Rowe Price Global Real Estate Adv,T. Rowe Price,PAGEX,MSCI ACWI NR USD
+284,T. Rowe Price Global Stock,T. Rowe Price,PRGSX,MSCI ACWI Ex USA NR USD
+285,T. Rowe Price Global Technology,T. Rowe Price,PRGTX,MSCI ACWI NR USD
+286,T. Rowe Price GNMA,T. Rowe Price,PRGMX,Barclays US Agg Bond TR USD
+287,T. Rowe Price Growth &amp; Income,T. Rowe Price,PRGIX,S&P 500 TR USD
+288,T. Rowe Price Growth Stock,T. Rowe Price,PRGFX,S&P 500 TR USD
+289,T. Rowe Price Health Sciences,T. Rowe Price,PRHSX,MSCI ACWI NR USD
+290,T. Rowe Price High-Yield,T. Rowe Price,PRHYX,Barclays US Agg Bond TR USD
+291,T. Rowe Price Inflation Protected Bd,T. Rowe Price,PRIPX,Barclays US Agg Bond TR USD
+292,T. Rowe Price Inst Africa &amp; Middle East,T. Rowe Price,TRIAX,MSCI ACWI Ex USA NR USD
+293,T. Rowe Price Inst Concentrated Intl Eq,T. Rowe Price,RPICX,MSCI ACWI Ex USA NR USD
+294,T. Rowe Price Institutional Crdt Opps,T. Rowe Price,TRXPX,Barclays US Agg Bond TR USD
+295,T. Rowe Price Instl Core Plus,T. Rowe Price,TICPX,Barclays US Agg Bond TR USD
+296,T. Rowe Price Instl Emerging Mkts Bond,T. Rowe Price,TREBX,Barclays US Agg Bond TR USD
+297,T. Rowe Price Instl Emerging Mkts Eq,T. Rowe Price,IEMFX,MSCI ACWI Ex USA NR USD
+298,T. Rowe Price Instl Floating Rate,T. Rowe Price,RPIFX,Barclays US Agg Bond TR USD
+299,T. Rowe Price Instl Glbl Focused Gr Eq,T. Rowe Price,TRGSX,MSCI ACWI Ex USA NR USD
+300,T. Rowe Price Instl Glbl Gr Eq,T. Rowe Price,RPIGX,MSCI ACWI Ex USA NR USD
+301,T. Rowe Price Instl Glbl Mult-Sect Bd Fd,T. Rowe Price,RPGMX,Barclays US Agg Bond TR USD
+302,T. Rowe Price Instl Glbl Val Eq,T. Rowe Price,PRIGX,MSCI ACWI Ex USA NR USD
+303,T. Rowe Price Instl High Yield,T. Rowe Price,TRHYX,Barclays US Agg Bond TR USD
+304,T. Rowe Price Instl Intl Bond,T. Rowe Price,RPIIX,Barclays US Agg Bond TR USD
+305,T. Rowe Price Instl Intl Cor Eq,T. Rowe Price,TRCEX,MSCI ACWI Ex USA NR USD
+306,T. Rowe Price Instl Intl Growth Equity,T. Rowe Price,PRFEX,MSCI ACWI Ex USA NR USD
+307,T. Rowe Price Instl Large Cap Core Gr,T. Rowe Price,TPLGX,S&P 500 TR USD
+308,T. Rowe Price Instl Large Cap Growth,T. Rowe Price,TRLGX,S&P 500 TR USD
+309,T. Rowe Price Instl Large Cap Value,T. Rowe Price,TILCX,S&P 500 TR USD
+310,T. Rowe Price Instl Lng Dur Crdt,T. Rowe Price,RPLCX,Barclays US Agg Bond TR USD
+311,T. Rowe Price Instl Mid-Cap Equity Gr,T. Rowe Price,PMEGX,S&P 500 TR USD
+312,T. Rowe Price Instl Small-Cap Stock,T. Rowe Price,TRSSX,S&P 500 TR USD
+313,T. Rowe Price Instl US Structured Rsrch,T. Rowe Price,TRISX,S&P 500 TR USD
+314,T. Rowe Price International Bond,T. Rowe Price,RPIBX,Barclays US Agg Bond TR USD
+315,T. Rowe Price International Discovery,T. Rowe Price,PRIDX,MSCI ACWI Ex USA NR USD
+316,T. Rowe Price International Eq Index,T. Rowe Price,PIEQX,MSCI ACWI Ex USA NR USD
+317,T. Rowe Price International Stock Fd,T. Rowe Price,PRITX,MSCI ACWI Ex USA NR USD
+318,T. Rowe Price Intl Gr &amp; Inc,T. Rowe Price,TRIGX,MSCI ACWI Ex USA NR USD
+319,T. Rowe Price Japan,T. Rowe Price,PRJPX,MSCI ACWI Ex USA NR USD
+320,T. Rowe Price Latin America,T. Rowe Price,PRLAX,MSCI ACWI Ex USA NR USD
+321,T. Rowe Price MD Short-Term Tax-Free,T. Rowe Price,PRMDX,Barclays Municipal TR USD
+322,T. Rowe Price MD Tax-Free Bond,T. Rowe Price,MDXBX,Barclays Municipal TR USD
+323,T. Rowe Price Media &amp; Telecommunications,T. Rowe Price,PRMTX,MSCI ACWI NR USD
+324,T. Rowe Price Mid-Cap Growth,T. Rowe Price,RPMGX,S&P 500 TR USD
+325,T. Rowe Price Mid-Cap Value,T. Rowe Price,TRMCX,S&P 500 TR USD
+326,T. Rowe Price New America Growth,T. Rowe Price,PRWAX,S&P 500 TR USD
+327,T. Rowe Price New Asia,T. Rowe Price,PRASX,MSCI ACWI Ex USA NR USD
+328,T. Rowe Price New Era,T. Rowe Price,PRNEX,MSCI ACWI NR USD
+329,T. Rowe Price New Horizons,T. Rowe Price,PRNHX,S&P 500 TR USD
+330,T. Rowe Price New Income,T. Rowe Price,PRCIX,Barclays US Agg Bond TR USD
+331,T. Rowe Price NJ Tax-Free Bond,T. Rowe Price,NJTFX,Barclays Municipal TR USD
+332,T. Rowe Price NY Tax-Free Bond,T. Rowe Price,PRNYX,Barclays Municipal TR USD
+333,T. Rowe Price Overseas Stock,T. Rowe Price,TROSX,MSCI ACWI Ex USA NR USD
+334,T. Rowe Price Personal Strat Balanced,T. Rowe Price,TRPBX,Morningstar Moderate Target Risk
+335,T. Rowe Price Personal Strat Growth,T. Rowe Price,TRSGX,Morningstar Moderate Target Risk
+336,T. Rowe Price Personal Strat Income,T. Rowe Price,PRSIX,Morningstar Moderate Target Risk
+337,T. Rowe Price Real Assets,T. Rowe Price,PRAFX,MSCI ACWI NR USD
+338,T. Rowe Price Real Estate,T. Rowe Price,TRREX,MSCI ACWI NR USD
+339,T. Rowe Price Retirement 2005,T. Rowe Price,TRRFX,Morningstar Moderate Target Risk
+340,T. Rowe Price Retirement 2010,T. Rowe Price,TRRAX,Morningstar Moderate Target Risk
+341,T. Rowe Price Retirement 2015,T. Rowe Price,TRRGX,Morningstar Moderate Target Risk
+342,T. Rowe Price Retirement 2020,T. Rowe Price,TRRBX,Morningstar Moderate Target Risk
+343,T. Rowe Price Retirement 2025,T. Rowe Price,TRRHX,Morningstar Moderate Target Risk
+344,T. Rowe Price Retirement 2030,T. Rowe Price,TRRCX,Morningstar Moderate Target Risk
+345,T. Rowe Price Retirement 2035,T. Rowe Price,TRRJX,Morningstar Moderate Target Risk
+346,T. Rowe Price Retirement 2040,T. Rowe Price,TRRDX,Morningstar Moderate Target Risk
+347,T. Rowe Price Retirement 2045,T. Rowe Price,TRRKX,Morningstar Moderate Target Risk
+348,T. Rowe Price Retirement 2050 Adv,T. Rowe Price,PARFX,Morningstar Moderate Target Risk
+349,T. Rowe Price Retirement 2055,T. Rowe Price,TRRNX,Morningstar Moderate Target Risk
+350,T. Rowe Price Retirement 2060 Advisor,T. Rowe Price,TRRYX,Morningstar Moderate Target Risk
+351,T. Rowe Price Retirement Income,T. Rowe Price,TRRIX,Morningstar Moderate Target Risk
+352,T. Rowe Price Science &amp; Tech,T. Rowe Price,PRSCX,MSCI ACWI NR USD
+353,T. Rowe Price Short-Term Bond,T. Rowe Price,PRWBX,Barclays US Agg Bond TR USD
+354,T. Rowe Price Small-Cap Stock,T. Rowe Price,OTCFX,S&P 500 TR USD
+355,T. Rowe Price Small-Cap Value,T. Rowe Price,PRSVX,S&P 500 TR USD
+356,T. Rowe Price Spectrum Growth,T. Rowe Price,PRSGX,S&P 500 TR USD
+357,T. Rowe Price Spectrum Income,T. Rowe Price,RPSIX,Barclays US Agg Bond TR USD
+358,T. Rowe Price Spectrum International,T. Rowe Price,PSILX,MSCI ACWI Ex USA NR USD
+359,T. Rowe Price Strategic Income Adv,T. Rowe Price,PRSAX,Barclays US Agg Bond TR USD
+360,T. Rowe Price Summit Municipal Inc,T. Rowe Price,PRINX,Barclays Municipal TR USD
+361,T. Rowe Price Summit Municipal Intm,T. Rowe Price,PRSMX,Barclays Municipal TR USD
+362,T. Rowe Price Target Retire 2005 Advisor,T. Rowe Price,PANRX,Morningstar Moderate Target Risk
+363,T. Rowe Price Target Retire 2010 Advisor,T. Rowe Price,PAERX,Morningstar Moderate Target Risk
+364,T. Rowe Price Target Retire 2015 Advisor,T. Rowe Price,PAHRX,Morningstar Moderate Target Risk
+365,T. Rowe Price Target Retire 2020 Advisor,T. Rowe Price,PAIRX,Morningstar Moderate Target Risk
+366,T. Rowe Price Target Retire 2025 Advisor,T. Rowe Price,PAJRX,Morningstar Moderate Target Risk
+367,T. Rowe Price Target Retire 2030 Advisor,T. Rowe Price,PAKRX,Morningstar Moderate Target Risk
+368,T. Rowe Price Target Retire 2035 Advisor,T. Rowe Price,PATVX,Morningstar Moderate Target Risk
+369,T. Rowe Price Target Retire 2040 Advisor,T. Rowe Price,PAHHX,Morningstar Moderate Target Risk
+370,T. Rowe Price Target Retire 2045 Advisor,T. Rowe Price,PAFFX,Morningstar Moderate Target Risk
+371,T. Rowe Price Target Retire 2050 Advisor,T. Rowe Price,PAOFX,Morningstar Moderate Target Risk
+372,T. Rowe Price Target Retire 2055 Advisor,T. Rowe Price,PAFTX,Morningstar Moderate Target Risk
+373,T. Rowe Price Target Retire 2060 Adv,T. Rowe Price,TRTGX,Morningstar Moderate Target Risk
+374,T. Rowe Price Tax-Efficient Equity,T. Rowe Price,PREFX,S&P 500 TR USD
+375,T. Rowe Price Tax-Free High Yield,T. Rowe Price,PRFHX,Barclays Municipal TR USD
+376,T. Rowe Price Tax-Free Income Inv,T. Rowe Price,PRTAX,Barclays Municipal TR USD
+377,T. Rowe Price Tax-Free Shrt-Interm,T. Rowe Price,PRFSX,Barclays Municipal TR USD
+378,T. Rowe Price Total Equity Market Idx,T. Rowe Price,POMIX,S&P 500 TR USD
+379,T. Rowe Price U.S. Bond Enhanced Index,T. Rowe Price,PBDIX,Barclays US Agg Bond TR USD
+380,T. Rowe Price Ultra Short-Term Bond,T. Rowe Price,TRBUX,Barclays US Agg Bond TR USD
+381,T. Rowe Price US Large-Cap Core Adv,T. Rowe Price,PAULX,S&P 500 TR USD
+382,T. Rowe Price US Treasury Interm,T. Rowe Price,PRTIX,Barclays US Agg Bond TR USD
+383,T. Rowe Price US Treasury Long-Term,T. Rowe Price,PRULX,Barclays US Agg Bond TR USD
+384,T. Rowe Price VA Tax-Free Bond,T. Rowe Price,PRVAX,Barclays Municipal TR USD
+385,T. Rowe Price Value,T. Rowe Price,TRVLX,S&P 500 TR USD
+386,JPMorgan Alternative Strategies A,JP Morgan,JASAX,Morningstar Moderate Target Risk
+387,JPMorgan Asia Pacific A,JP Morgan,JAPFX,MSCI ACWI Ex USA NR USD
+388,JPMorgan CA Tax Free Bond Instl,JP Morgan,JPICX,Barclays Municipal TR USD
+389,JPMorgan China Region A,JP Morgan,JCHAX,MSCI ACWI Ex USA NR USD
+390,JPMorgan Commodities Strategy A,JP Morgan,CSAFX,Morningstar Long-Only Commodity TR
+391,JPMorgan Core Bond Select,JP Morgan,WOBDX,Barclays US Agg Bond TR USD
+392,JPMorgan Core Plus Bond A,JP Morgan,ONIAX,Barclays US Agg Bond TR USD
+393,JPMorgan Corporate Bond A,JP Morgan,CBRAX,Barclays US Agg Bond TR USD
+394,JPMorgan Current Income Institutional,JP Morgan,JPCIX,Barclays US Agg Bond TR USD
+395,JPMorgan Disciplined Equity Instl,JP Morgan,JPIEX,S&P 500 TR USD
+396,JPMorgan Diversified Instl,JP Morgan,JPDVX,Morningstar Moderate Target Risk
+397,JPMorgan Diversified Real Return A,JP Morgan,JRNAX,Morningstar Moderate Target Risk
+398,JPMorgan Dynamic Growth A,JP Morgan,DGAAX,S&P 500 TR USD
+399,JPMorgan Dynamic Small Cap Growth A,JP Morgan,VSCOX,S&P 500 TR USD
+400,JPMorgan Emerging Economies A,JP Morgan,JEEAX,MSCI ACWI Ex USA NR USD
+401,JPMorgan Emerging Markets Debt Sel,JP Morgan,JEMDX,Barclays US Agg Bond TR USD
+402,JPMorgan Emerging Mkts Eq Instl,JP Morgan,JMIEX,MSCI ACWI Ex USA NR USD
+403,JPMorgan Emerging Mkts Lcl Ccy Dbt A,JP Morgan,JECAX,Barclays US Agg Bond TR USD
+404,JPMorgan Equity Focus A,JP Morgan,JPFAX,S&P 500 TR USD
+405,JPMorgan Equity Income Select,JP Morgan,HLIEX,S&P 500 TR USD
+406,JPMorgan Equity Index Select,JP Morgan,HLEIX,S&P 500 TR USD
+407,JPMorgan Floating Rate Income A,JP Morgan,JPHAX,Barclays US Agg Bond TR USD
+408,JPMorgan Global Allocation A,JP Morgan,GAOAX,Morningstar Moderate Target Risk
+409,JPMorgan Global Bond Opportunities A,JP Morgan,GBOAX,Barclays US Agg Bond TR USD
+410,JPMorgan Global Equity Income A,JP Morgan,JEIAX,MSCI ACWI Ex USA NR USD
+411,JPMorgan Global Natural Resources A,JP Morgan,JGNAX,MSCI ACWI NR USD
+412,JPMorgan Global Research Enh Idx Select,JP Morgan,JEITX,MSCI ACWI Ex USA NR USD
+413,JPMorgan Government Bond Select,JP Morgan,HLGAX,Barclays US Agg Bond TR USD
+414,JPMorgan Growth &amp; Income A,JP Morgan,VGRIX,S&P 500 TR USD
+415,JPMorgan Growth Advantage A,JP Morgan,VHIAX,S&P 500 TR USD
+416,JPMorgan High Yield A,JP Morgan,OHYAX,Barclays US Agg Bond TR USD
+417,JPMorgan Income Builder A,JP Morgan,JNBAX,Morningstar Moderate Target Risk
+418,JPMorgan Inflation Managed Bond A,JP Morgan,JIMAX,Barclays US Agg Bond TR USD
+419,JPMorgan Intermediate Tax Free Bond Sel,JP Morgan,VSITX,Barclays Municipal TR USD
+420,JPMorgan International Currency Inc A,JP Morgan,JCIAX,BofAML USD LIBOR 3 Mon CM
+421,JPMorgan International Eq S,JP Morgan,VSIEX,MSCI ACWI Ex USA NR USD
+422,JPMorgan International Rsrch Enh Eq Sel,JP Morgan,OIEAX,MSCI ACWI Ex USA NR USD
+423,JPMorgan International Uncons Eq A,JP Morgan,IUAEX,MSCI ACWI Ex USA NR USD
+424,JPMorgan International Value I,JP Morgan,JNUSX,MSCI ACWI Ex USA NR USD
+425,JPMorgan Intl Opp Instl,JP Morgan,JPIOX,MSCI ACWI Ex USA NR USD
+426,JPMorgan Intrepid Advantage Sel,JP Morgan,JIISX,S&P 500 TR USD
+427,JPMorgan Intrepid America Sel,JP Morgan,JPIAX,S&P 500 TR USD
+428,JPMorgan Intrepid European A,JP Morgan,VEUAX,MSCI ACWI Ex USA NR USD
+429,JPMorgan Intrepid Growth Sel,JP Morgan,JPGSX,S&P 500 TR USD
+430,JPMorgan Intrepid International A,JP Morgan,JFTAX,MSCI ACWI Ex USA NR USD
+431,JPMorgan Intrepid Mid Cap Select,JP Morgan,WOOPX,S&P 500 TR USD
+432,JPMorgan Intrepid Value Select,JP Morgan,JPIVX,S&P 500 TR USD
+433,JPMorgan Investor Balanced A,JP Morgan,OGIAX,Morningstar Moderate Target Risk
+434,JPMorgan Investor Conservative Growth A,JP Morgan,OICAX,Morningstar Moderate Target Risk
+435,JPMorgan Investor Growth &amp; Income A,JP Morgan,ONGIX,Morningstar Moderate Target Risk
+436,JPMorgan Investor Growth A,JP Morgan,ONGAX,Morningstar Moderate Target Risk
+437,JPMorgan Large Cap Growth Select,JP Morgan,SEEGX,S&P 500 TR USD
+438,JPMorgan Large Cap Value Select,JP Morgan,HLQVX,S&P 500 TR USD
+439,JPMorgan Latin America A,JP Morgan,JLTAX,MSCI ACWI Ex USA NR USD
+440,JPMorgan Limited Duration Bd Sel,JP Morgan,HLGFX,Barclays US Agg Bond TR USD
+441,JPMorgan Managed Income Institutional,JP Morgan,JMGIX,Barclays US Agg Bond TR USD
+442,JPMorgan Market Expansion Enh Idx A,JP Morgan,OMEAX,S&P 500 TR USD
+443,JPMorgan Market Neutral A,JP Morgan,HSKAX,Barclays US Agg Bond TR USD
+444,JPMorgan Mid Cap Equity Select,JP Morgan,VSNGX,S&P 500 TR USD
+445,JPMorgan Mid Cap Growth Sel,JP Morgan,HLGEX,S&P 500 TR USD
+446,JPMorgan Mid Cap Value Instl,JP Morgan,FLMVX,S&P 500 TR USD
+447,JPMorgan Mortgage-Backed Securities A,JP Morgan,OMBAX,Barclays US Agg Bond TR USD
+448,JPMorgan Multi-Cap Market Neutral A,JP Morgan,OGNAX,Barclays US Agg Bond TR USD
+449,JPMorgan Multi-Sector Income A,JP Morgan,JSIAX,Barclays US Agg Bond TR USD
+450,JPMorgan Municipal Income Select,JP Morgan,HLTAX,Barclays Municipal TR USD
+451,JPMorgan NY Tax Free Bd Sel,JP Morgan,VINTX,Barclays Municipal TR USD
+452,JPMorgan OH Municipal Bond Select,JP Morgan,HLOMX,Barclays Municipal TR USD
+453,JPMorgan Real Return A,JP Morgan,RRNAX,Barclays US Agg Bond TR USD
+454,JPMorgan Realty Income Instl,JP Morgan,URTLX,MSCI ACWI NR USD
+455,JPMorgan Research Equity Long/Short A,JP Morgan,JLSAX,S&P 500 TR USD
+456,JPMorgan Research Market Neutral Instl,JP Morgan,JPMNX,Barclays US Agg Bond TR USD
+457,JPMorgan Sec Cptl US Cor Rl Estt Secs A,JP Morgan,CEEAX,MSCI ACWI NR USD
+458,JPMorgan Short Duration Bond Select,JP Morgan,HLLVX,Barclays US Agg Bond TR USD
+459,JPMorgan Short Duration High Yield A,JP Morgan,JSDHX,Barclays US Agg Bond TR USD
+460,JPMorgan Shrt-Interm Muni Bond A,JP Morgan,OSTAX,Barclays Municipal TR USD
+461,JPMorgan Small Cap Core Select,JP Morgan,VSSCX,S&P 500 TR USD
+462,JPMorgan Small Cap Equity A,JP Morgan,VSEAX,S&P 500 TR USD
+463,JPMorgan Small Cap Growth A,JP Morgan,PGSGX,S&P 500 TR USD
+464,JPMorgan Small Cap Value A,JP Morgan,PSOAX,S&P 500 TR USD
+465,JPMorgan SmartAllocation Equity A,JP Morgan,SAEAX,S&P 500 TR USD
+466,JPMorgan SmartAllocation Income A,JP Morgan,SAIAX,Barclays US Agg Bond TR USD
+467,JPMorgan SmartRetirement® 2015 A,JP Morgan,JSFAX,Morningstar Moderate Target Risk
+468,JPMorgan SmartRetirement® 2020 A,JP Morgan,JTTAX,Morningstar Moderate Target Risk
+469,JPMorgan SmartRetirement® 2025 A,JP Morgan,JNSAX,Morningstar Moderate Target Risk
+470,JPMorgan SmartRetirement® 2030 A,JP Morgan,JSMAX,Morningstar Moderate Target Risk
+471,JPMorgan SmartRetirement® 2035 A,JP Morgan,SRJAX,Morningstar Moderate Target Risk
+472,JPMorgan SmartRetirement® 2040 A,JP Morgan,SMTAX,Morningstar Moderate Target Risk
+473,JPMorgan SmartRetirement® 2045 A,JP Morgan,JSAAX,Morningstar Moderate Target Risk
+474,JPMorgan SmartRetirement® 2050 A,JP Morgan,JTSAX,Morningstar Moderate Target Risk
+475,JPMorgan SmartRetirement® 2055 A,JP Morgan,JFFAX,Morningstar Moderate Target Risk
+476,JPMorgan SmartRetirement® Blend 2015 R5,JP Morgan,JSBWX,Morningstar Moderate Target Risk
+477,JPMorgan SmartRetirement® Blend 2020 R5,JP Morgan,JBSRX,Morningstar Moderate Target Risk
+478,JPMorgan SmartRetirement® Blend 2025 R5,JP Morgan,JBBSX,Morningstar Moderate Target Risk
+479,JPMorgan SmartRetirement® Blend 2030 R5,JP Morgan,JRBBX,Morningstar Moderate Target Risk
+480,JPMorgan SmartRetirement® Blend 2035 R5,JP Morgan,JPBRX,Morningstar Moderate Target Risk
+481,JPMorgan SmartRetirement® Blend 2040 R5,JP Morgan,JOBBX,Morningstar Moderate Target Risk
+482,JPMorgan SmartRetirement® Blend 2045 R5,JP Morgan,JMBRX,Morningstar Moderate Target Risk
+483,JPMorgan SmartRetirement® Blend 2050 R5,JP Morgan,JNABX,Morningstar Moderate Target Risk
+484,JPMorgan SmartRetirement® Blend 2055 R5,JP Morgan,JTBBX,Morningstar Moderate Target Risk
+485,JPMorgan SmartRetirement® Blend Inc R5,JP Morgan,JIBBX,Morningstar Moderate Target Risk
+486,JPMorgan SmartRetirement® Income A,JP Morgan,JSRAX,Morningstar Moderate Target Risk
+487,JPMorgan Strategic Income Opps A,JP Morgan,JSOAX,Barclays US Agg Bond TR USD
+488,JPMorgan Tax Aware Equity Instl,JP Morgan,JPDEX,S&P 500 TR USD
+489,JPMorgan Tax Aware High Income A,JP Morgan,JTIAX,Barclays Municipal TR USD
+490,JPMorgan Tax Aware Income Opp A,JP Morgan,JTAAX,Barclays Municipal TR USD
+491,JPMorgan Tax Aware Real Return A,JP Morgan,TXRAX,Barclays Municipal TR USD
+492,JPMorgan Tax Aware Real Return SMA,JP Morgan,JTARX,Barclays Municipal TR USD
+493,JPMorgan Tax Free Bond A,JP Morgan,PMBAX,Barclays Municipal TR USD
+494,JPMorgan Total Emerging Markets A,JP Morgan,TMGGX,MSCI ACWI Ex USA NR USD
+495,JPMorgan Total Return A,JP Morgan,JMTAX,Barclays US Agg Bond TR USD
+496,JPMorgan Treasury &amp; Agency A,JP Morgan,OTABX,Barclays US Agg Bond TR USD
+497,JPMorgan US Dynamic Plus A,JP Morgan,JPSAX,S&P 500 TR USD
+498,JPMorgan US Equity Instl,JP Morgan,JMUEX,S&P 500 TR USD
+499,JPMorgan US Large Cap Core Plus A,JP Morgan,JLCAX,S&P 500 TR USD
+500,JPMorgan US Research Equity Plus A,JP Morgan,JEPAX,S&P 500 TR USD
+501,JPMorgan US Small Company Instl,JP Morgan,JUSSX,S&P 500 TR USD
+502,JPMorgan Value Advantage A,JP Morgan,JVAAX,S&P 500 TR USD
+503,Undiscovered Mgrs Behavioral Value Inst,JP Morgan,UBVLX,S&P 500 TR USD
+504,Fidelity,Fidelity Investments,FFIDX,S&P 500 TR USD
+505,Fidelity Advisor Asset Manager® 30% A,Fidelity Investments,FTAAX,Morningstar Moderate Target Risk
+506,Fidelity Advisor Asset Manager® 40% A,Fidelity Investments,FFNAX,Morningstar Moderate Target Risk
+507,Fidelity Advisor Asset Manager® 60% A,Fidelity Investments,FSAAX,Morningstar Moderate Target Risk
+508,Fidelity Advisor Freedom 2005® A,Fidelity Investments,FFAVX,Morningstar Moderate Target Risk
+509,Fidelity Advisor Freedom 2010® A,Fidelity Investments,FACFX,Morningstar Moderate Target Risk
+510,Fidelity Advisor Freedom 2015® A,Fidelity Investments,FFVAX,Morningstar Moderate Target Risk
+511,Fidelity Advisor Freedom 2020® A,Fidelity Investments,FDAFX,Morningstar Moderate Target Risk
+512,Fidelity Advisor Freedom 2025® A,Fidelity Investments,FATWX,Morningstar Moderate Target Risk
+513,Fidelity Advisor Freedom 2030® A,Fidelity Investments,FAFEX,Morningstar Moderate Target Risk
+514,Fidelity Advisor Freedom 2035® A,Fidelity Investments,FATHX,Morningstar Moderate Target Risk
+515,Fidelity Advisor Freedom 2040® A,Fidelity Investments,FAFFX,Morningstar Moderate Target Risk
+516,Fidelity Advisor Freedom 2045® A,Fidelity Investments,FFFZX,Morningstar Moderate Target Risk
+517,Fidelity Advisor Freedom 2050® A,Fidelity Investments,FFFLX,Morningstar Moderate Target Risk
+518,Fidelity Advisor Freedom 2055® A,Fidelity Investments,FHFAX,Morningstar Moderate Target Risk
+519,Fidelity Advisor Freedom Income® A,Fidelity Investments,FAFAX,Morningstar Moderate Target Risk
+520,Fidelity Advisor Income Repl 2016 A,Fidelity Investments,FRJAX,Morningstar Moderate Target Risk
+521,Fidelity Advisor Income Repl 2018 A,Fidelity Investments,FRKAX,Morningstar Moderate Target Risk
+522,Fidelity Advisor Income Repl 2020 A,Fidelity Investments,FILAX,Morningstar Moderate Target Risk
+523,Fidelity Advisor Income Repl 2022 A,Fidelity Investments,FRAMX,Morningstar Moderate Target Risk
+524,Fidelity Advisor Income Repl 2024 A,Fidelity Investments,FRNAX,Morningstar Moderate Target Risk
+525,Fidelity Advisor Income Repl 2026 A,Fidelity Investments,FIOAX,Morningstar Moderate Target Risk
+526,Fidelity Advisor Income Repl 2028 A,Fidelity Investments,FARPX,Morningstar Moderate Target Risk
+527,Fidelity Advisor Income Repl 2030 A,Fidelity Investments,FRQAX,Morningstar Moderate Target Risk
+528,Fidelity Advisor Income Repl 2032 A,Fidelity Investments,FIARX,Morningstar Moderate Target Risk
+529,Fidelity Advisor Income Repl 2034 A,Fidelity Investments,FARSX,Morningstar Moderate Target Risk
+530,Fidelity Advisor Income Repl 2036 A,Fidelity Investments,FURAX,Morningstar Moderate Target Risk
+531,Fidelity Advisor Income Repl 2038 A,Fidelity Investments,FARVX,Morningstar Moderate Target Risk
+532,Fidelity Advisor Income Repl 2040 A,Fidelity Investments,FARWX,Morningstar Moderate Target Risk
+533,Fidelity Advisor Income Repl 2042 A,Fidelity Investments,FARFX,Morningstar Moderate Target Risk
+534,Fidelity Advisor® Balanced T,Fidelity Investments,FAIGX,Morningstar Moderate Target Risk
+535,Fidelity Advisor® Biotechnology A,Fidelity Investments,FBTAX,MSCI ACWI NR USD
+536,Fidelity Advisor® Capital Development O,Fidelity Investments,FDETX,S&P 500 TR USD
+537,Fidelity Advisor® Communications Equip A,Fidelity Investments,FDMAX,MSCI ACWI NR USD
+538,Fidelity Advisor® Consumer Discret A,Fidelity Investments,FCNAX,MSCI ACWI NR USD
+539,Fidelity Advisor® Corporate Bond A,Fidelity Investments,FCBAX,Barclays US Agg Bond TR USD
+540,Fidelity Advisor® Diversified Intl A,Fidelity Investments,FDVAX,MSCI ACWI Ex USA NR USD
+541,Fidelity Advisor® Diversified Stock O,Fidelity Investments,FDESX,S&P 500 TR USD
+542,Fidelity Advisor® Dividend Growth A,Fidelity Investments,FADAX,S&P 500 TR USD
+543,Fidelity Advisor® Electronics A,Fidelity Investments,FELAX,MSCI ACWI NR USD
+544,Fidelity Advisor® EMEA A,Fidelity Investments,FMEAX,MSCI ACWI Ex USA NR USD
+545,Fidelity Advisor® Emerg Mkts Discv A,Fidelity Investments,FEDAX,MSCI ACWI Ex USA NR USD
+546,Fidelity Advisor® Emerging Asia A,Fidelity Investments,FEAAX,MSCI ACWI Ex USA NR USD
+547,Fidelity Advisor® Emerging Markets A,Fidelity Investments,FAMKX,MSCI ACWI Ex USA NR USD
+548,Fidelity Advisor® Emerging Markets Inc T,Fidelity Investments,FAEMX,Barclays US Agg Bond TR USD
+549,Fidelity Advisor® Energy T,Fidelity Investments,FAGNX,MSCI ACWI NR USD
+550,Fidelity Advisor® Equity Growth Instl,Fidelity Investments,EQPGX,S&P 500 TR USD
+551,Fidelity Advisor® Equity Income I,Fidelity Investments,EQPIX,S&P 500 TR USD
+552,Fidelity Advisor® Equity Value A,Fidelity Investments,FAVAX,S&P 500 TR USD
+553,Fidelity Advisor® Event Driven Opps A,Fidelity Investments,FCHSX,S&P 500 TR USD
+554,Fidelity Advisor® Financial Services A,Fidelity Investments,FAFDX,MSCI ACWI NR USD
+555,Fidelity Advisor® Floating Rate Hi Inc A,Fidelity Investments,FFRAX,Barclays US Agg Bond TR USD
+556,Fidelity Advisor® Glbl Capital Apprec A,Fidelity Investments,FGEAX,MSCI ACWI Ex USA NR USD
+557,Fidelity Advisor® Global Bond A,Fidelity Investments,FGBZX,Barclays US Agg Bond TR USD
+558,Fidelity Advisor® Global Cmdty Stk A,Fidelity Investments,FFGAX,MSCI ACWI NR USD
+559,Fidelity Advisor® Global Equity Inc A,Fidelity Investments,FBLYX,MSCI ACWI Ex USA NR USD
+560,Fidelity Advisor® Global High Income A,Fidelity Investments,FGHAX,Barclays US Agg Bond TR USD
+561,Fidelity Advisor® Global Strategies A,Fidelity Investments,FDASX,Morningstar Moderate Target Risk
+562,Fidelity Advisor® Growth &amp; Income A,Fidelity Investments,FGIRX,S&P 500 TR USD
+563,Fidelity Advisor® Growth Opps T,Fidelity Investments,FAGOX,S&P 500 TR USD
+564,Fidelity Advisor® Health Care A,Fidelity Investments,FACDX,MSCI ACWI NR USD
+565,Fidelity Advisor® High Income A,Fidelity Investments,FHIAX,Barclays US Agg Bond TR USD
+566,Fidelity Advisor® High Income Advtg A,Fidelity Investments,FAHDX,Barclays US Agg Bond TR USD
+567,Fidelity Advisor® Industrials A,Fidelity Investments,FCLAX,MSCI ACWI NR USD
+568,Fidelity Advisor® International Bond A,Fidelity Investments,FINWX,Barclays US Agg Bond TR USD
+569,Fidelity Advisor® International Growth A,Fidelity Investments,FIAGX,MSCI ACWI Ex USA NR USD
+570,Fidelity Advisor® International Value A,Fidelity Investments,FIVMX,MSCI ACWI Ex USA NR USD
+571,Fidelity Advisor® Intl Capital App A,Fidelity Investments,FCPAX,MSCI ACWI Ex USA NR USD
+572,Fidelity Advisor® Intl Sm Cap Opps A,Fidelity Investments,FOPAX,MSCI ACWI Ex USA NR USD
+573,Fidelity Advisor® Large Cap B,Fidelity Investments,FALHX,S&P 500 TR USD
+574,Fidelity Advisor® Leveraged Co Stk A,Fidelity Investments,FLSAX,S&P 500 TR USD
+575,Fidelity Advisor® Limited Term Bond I,Fidelity Investments,EFIPX,Barclays US Agg Bond TR USD
+576,Fidelity Advisor® Mega Cap Stock,Fidelity Investments,FGRTX,S&P 500 TR USD
+577,Fidelity Advisor® Mid Cap II A,Fidelity Investments,FIIAX,S&P 500 TR USD
+578,Fidelity Advisor® Muni Inc 2015 A,Fidelity Investments,FAMPX,Barclays Municipal TR USD
+579,Fidelity Advisor® Muni Inc 2017 A,Fidelity Investments,FAMMX,Barclays Municipal TR USD
+580,Fidelity Advisor® Muni Inc 2019 A,Fidelity Investments,FAPAX,Barclays Municipal TR USD
+581,Fidelity Advisor® Muni Inc 2021 A,Fidelity Investments,FOMAX,Barclays Municipal TR USD
+582,Fidelity Advisor® Muni Inc 2023 A,Fidelity Investments,FSODX,Barclays Municipal TR USD
+583,Fidelity Advisor® Municipal Income T,Fidelity Investments,FAHIX,Barclays Municipal TR USD
+584,Fidelity Advisor® New Insights A,Fidelity Investments,FNIAX,S&P 500 TR USD
+585,Fidelity Advisor® Overseas T,Fidelity Investments,FAERX,MSCI ACWI Ex USA NR USD
+586,Fidelity Advisor® Real Estate A,Fidelity Investments,FHEAX,MSCI ACWI NR USD
+587,Fidelity Advisor® Ser Equity-Income,Fidelity Investments,FLMLX,S&P 500 TR USD
+588,Fidelity Advisor® Ser Oppc Insights,Fidelity Investments,FAMGX,S&P 500 TR USD
+589,Fidelity Advisor® Ser Stk Sel Lg Cp Val,Fidelity Investments,FMMLX,S&P 500 TR USD
+590,Fidelity Advisor® Series Growth &amp; Income,Fidelity Investments,FMALX,S&P 500 TR USD
+591,Fidelity Advisor® Series Growth Opps,Fidelity Investments,FAOFX,S&P 500 TR USD
+592,Fidelity Advisor® Series Small Cap,Fidelity Investments,FSSFX,S&P 500 TR USD
+593,Fidelity Advisor® Short Dur Hi Inc A,Fidelity Investments,FSBHX,Barclays US Agg Bond TR USD
+594,Fidelity Advisor® Short Fxd-Inc T,Fidelity Investments,FASFX,Barclays US Agg Bond TR USD
+595,Fidelity Advisor® Small Cap A,Fidelity Investments,FSCDX,S&P 500 TR USD
+596,Fidelity Advisor® Small Cap Growth A,Fidelity Investments,FCAGX,S&P 500 TR USD
+597,Fidelity Advisor® Small Cap Value A,Fidelity Investments,FCVAX,S&P 500 TR USD
+598,Fidelity Advisor® Stock Selec Mid Cp B,Fidelity Investments,FMCBX,S&P 500 TR USD
+599,Fidelity Advisor® Strategic Div &amp; Inc® A,Fidelity Investments,FASDX,Morningstar Moderate Target Risk
+600,Fidelity Advisor® Strategic Income B,Fidelity Investments,FSINX,Barclays US Agg Bond TR USD
+601,Fidelity Advisor® Strategic Real Ret A,Fidelity Investments,FSRAX,Morningstar Moderate Target Risk
+602,Fidelity Advisor® Technology A,Fidelity Investments,FADTX,MSCI ACWI NR USD
+603,Fidelity Advisor® Total Emerg Mkts A,Fidelity Investments,FTEDX,MSCI ACWI Ex USA NR USD
+604,Fidelity Advisor® Total Intl Equity A,Fidelity Investments,FTAEX,MSCI ACWI Ex USA NR USD
+605,Fidelity Advisor® Utilities A,Fidelity Investments,FUGAX,MSCI ACWI NR USD
+606,Fidelity Advisor® Value A,Fidelity Investments,FAVFX,S&P 500 TR USD
+607,Fidelity Advisor® Value Leaders A,Fidelity Investments,FVLAX,S&P 500 TR USD
+608,Fidelity Advisor® Value Strategies T,Fidelity Investments,FASPX,S&P 500 TR USD
+609,Fidelity Asset Manager® 20%,Fidelity Investments,FASIX,Morningstar Moderate Target Risk
+610,Fidelity Asset Manager® 50%,Fidelity Investments,FASMX,Morningstar Moderate Target Risk
+611,Fidelity Asset Manager® 70%,Fidelity Investments,FASGX,Morningstar Moderate Target Risk
+612,Fidelity Asset Manager® 85%,Fidelity Investments,FAMRX,Morningstar Moderate Target Risk
+613,Fidelity Freedom K® 2005,Fidelity Investments,FFKVX,Morningstar Moderate Target Risk
+614,Fidelity Freedom K® 2010,Fidelity Investments,FFKCX,Morningstar Moderate Target Risk
+615,Fidelity Freedom K® 2015,Fidelity Investments,FKVFX,Morningstar Moderate Target Risk
+616,Fidelity Freedom K® 2020,Fidelity Investments,FFKDX,Morningstar Moderate Target Risk
+617,Fidelity Freedom K® 2025,Fidelity Investments,FKTWX,Morningstar Moderate Target Risk
+618,Fidelity Freedom K® 2030,Fidelity Investments,FFKEX,Morningstar Moderate Target Risk
+619,Fidelity Freedom K® 2035,Fidelity Investments,FKTHX,Morningstar Moderate Target Risk
+620,Fidelity Freedom K® 2040,Fidelity Investments,FFKFX,Morningstar Moderate Target Risk
+621,Fidelity Freedom K® 2045,Fidelity Investments,FFKGX,Morningstar Moderate Target Risk
+622,Fidelity Freedom K® 2050,Fidelity Investments,FFKHX,Morningstar Moderate Target Risk
+623,Fidelity Freedom K® 2055,Fidelity Investments,FDENX,Morningstar Moderate Target Risk
+624,Fidelity Freedom K® Income,Fidelity Investments,FFKAX,Morningstar Moderate Target Risk
+625,Fidelity Freedom® 2005,Fidelity Investments,FFFVX,Morningstar Moderate Target Risk
+626,Fidelity Freedom® 2010,Fidelity Investments,FFFCX,Morningstar Moderate Target Risk
+627,Fidelity Freedom® 2015,Fidelity Investments,FFVFX,Morningstar Moderate Target Risk
+628,Fidelity Freedom® 2020,Fidelity Investments,FFFDX,Morningstar Moderate Target Risk
+629,Fidelity Freedom® 2025,Fidelity Investments,FFTWX,Morningstar Moderate Target Risk
+630,Fidelity Freedom® 2030,Fidelity Investments,FFFEX,Morningstar Moderate Target Risk
+631,Fidelity Freedom® 2035,Fidelity Investments,FFTHX,Morningstar Moderate Target Risk
+632,Fidelity Freedom® 2040,Fidelity Investments,FFFFX,Morningstar Moderate Target Risk
+633,Fidelity Freedom® 2045,Fidelity Investments,FFFGX,Morningstar Moderate Target Risk
+634,Fidelity Freedom® 2050,Fidelity Investments,FFFHX,Morningstar Moderate Target Risk
+635,Fidelity Freedom® 2055,Fidelity Investments,FDEEX,Morningstar Moderate Target Risk
+636,Fidelity Freedom® Income,Fidelity Investments,FFFAX,Morningstar Moderate Target Risk
+637,Fidelity Freedom® Index 2005,Fidelity Investments,FJIFX,Morningstar Moderate Target Risk
+638,Fidelity Freedom® Index 2010,Fidelity Investments,FKIFX,Morningstar Moderate Target Risk
+639,Fidelity Freedom® Index 2015,Fidelity Investments,FLIFX,Morningstar Moderate Target Risk
+640,Fidelity Freedom® Index 2020,Fidelity Investments,FPIFX,Morningstar Moderate Target Risk
+641,Fidelity Freedom® Index 2025,Fidelity Investments,FQIFX,Morningstar Moderate Target Risk
+642,Fidelity Freedom® Index 2030,Fidelity Investments,FXIFX,Morningstar Moderate Target Risk
+643,Fidelity Freedom® Index 2035,Fidelity Investments,FIHFX,Morningstar Moderate Target Risk
+644,Fidelity Freedom® Index 2040,Fidelity Investments,FBIFX,Morningstar Moderate Target Risk
+645,Fidelity Freedom® Index 2045,Fidelity Investments,FIOFX,Morningstar Moderate Target Risk
+646,Fidelity Freedom® Index 2050,Fidelity Investments,FIPFX,Morningstar Moderate Target Risk
+647,Fidelity Freedom® Index 2055,Fidelity Investments,FDEWX,Morningstar Moderate Target Risk
+648,Fidelity Freedom® Index Income W,Fidelity Investments,FIKFX,Morningstar Moderate Target Risk
+649,Fidelity Spartan® 500 Index Inv,Fidelity Investments,FUSEX,S&P 500 TR USD
+650,Fidelity Spartan® EMkts Idx Advtg Instl,Fidelity Investments,FPADX,MSCI ACWI Ex USA NR USD
+651,Fidelity Spartan® Extended Mkt Index Inv,Fidelity Investments,FSEMX,S&P 500 TR USD
+652,Fidelity Spartan® Glb ex USIdxAdvtg®Inst,Fidelity Investments,FSGGX,MSCI ACWI Ex USA NR USD
+653,Fidelity Spartan® Infl-Prot Bd Idx FdAdI,Fidelity Investments,FIPDX,Barclays US Agg Bond TR USD
+654,Fidelity Spartan® Interm Tr Bd Idx Inv,Fidelity Investments,FIBIX,Barclays US Agg Bond TR USD
+655,Fidelity Spartan® International Idx Inv,Fidelity Investments,FSIIX,MSCI ACWI Ex USA NR USD
+656,Fidelity Spartan® L/T Tr Bd Idx Inv,Fidelity Investments,FLBIX,Barclays US Agg Bond TR USD
+657,Fidelity Spartan® Mid Cap Idx AdvtgInstl,Fidelity Investments,FSMDX,S&P 500 TR USD
+658,Fidelity Spartan® Real Estate Idx Instl,Fidelity Investments,FSRNX,MSCI ACWI NR USD
+659,Fidelity Spartan® S/T Tr Bd Idx Inv,Fidelity Investments,FSBIX,Barclays US Agg Bond TR USD
+660,Fidelity Spartan® Sm Cp Idx Advtg® Instl,Fidelity Investments,FSSNX,S&P 500 TR USD
+661,Fidelity Spartan® Total Market Idx Inv,Fidelity Investments,FSTMX,S&P 500 TR USD
+662,Fidelity Spartan® US Bond Idx Investor,Fidelity Investments,FBIDX,Barclays US Agg Bond TR USD
+663,Fidelity® Arizona Municipal Income,Fidelity Investments,FSAZX,Barclays Municipal TR USD
+664,Fidelity® Balanced,Fidelity Investments,FBALX,Morningstar Moderate Target Risk
+665,Fidelity® Blue Chip Growth,Fidelity Investments,FBGRX,S&P 500 TR USD
+666,Fidelity® Blue Chip Value,Fidelity Investments,FBCVX,S&P 500 TR USD
+667,Fidelity® California Ltd Trm Tax-Free Bd,Fidelity Investments,FCSTX,Barclays Municipal TR USD
+668,Fidelity® California Municipal Income,Fidelity Investments,FCTFX,Barclays Municipal TR USD
+669,Fidelity® Canada,Fidelity Investments,FICDX,MSCI ACWI Ex USA NR USD
+670,Fidelity® Capital &amp; Income,Fidelity Investments,FAGIX,Barclays US Agg Bond TR USD
+671,Fidelity® Capital Appreciation,Fidelity Investments,FDCAX,S&P 500 TR USD
+672,Fidelity® China Region,Fidelity Investments,FHKCX,MSCI ACWI Ex USA NR USD
+673,Fidelity® Connecticut Municipal Income,Fidelity Investments,FICNX,Barclays Municipal TR USD
+674,Fidelity® Conservative Inc Muni Bd Instl,Fidelity Investments,FMNDX,Barclays Municipal TR USD
+675,Fidelity® Conservative Income Bond Instl,Fidelity Investments,FCNVX,Barclays US Agg Bond TR USD
+676,Fidelity® Contrafund®,Fidelity Investments,FCNTX,S&P 500 TR USD
+677,Fidelity® Convertible Securities,Fidelity Investments,FCVSX,Morningstar Moderate Target Risk
+678,Fidelity® Disciplined Equity,Fidelity Investments,FDEQX,S&P 500 TR USD
+679,Fidelity® Diversified International,Fidelity Investments,FDIVX,MSCI ACWI Ex USA NR USD
+680,Fidelity® Dividend Growth,Fidelity Investments,FDGFX,S&P 500 TR USD
+681,Fidelity® Emerging Asia,Fidelity Investments,FSEAX,MSCI ACWI Ex USA NR USD
+682,Fidelity® Emerging Markets,Fidelity Investments,FEMKX,MSCI ACWI Ex USA NR USD
+683,Fidelity® Equity Dividend Income,Fidelity Investments,FEQTX,S&P 500 TR USD
+684,Fidelity® Equity-Income,Fidelity Investments,FEQIX,S&P 500 TR USD
+685,Fidelity® Europe,Fidelity Investments,FIEUX,MSCI ACWI Ex USA NR USD
+686,Fidelity® Event Driven Opportunities,Fidelity Investments,FARNX,S&P 500 TR USD
+687,Fidelity® Export &amp; Multinational,Fidelity Investments,FEXPX,S&P 500 TR USD
+688,Fidelity® Fifty®,Fidelity Investments,FFTYX,S&P 500 TR USD
+689,Fidelity® Focused High Income,Fidelity Investments,FHIFX,Barclays US Agg Bond TR USD
+690,Fidelity® Focused Stock,Fidelity Investments,FTQGX,S&P 500 TR USD
+691,Fidelity® Four-in-One Index,Fidelity Investments,FFNOX,Morningstar Moderate Target Risk
+692,Fidelity® Global Balanced,Fidelity Investments,FGBLX,Morningstar Moderate Target Risk
+693,Fidelity® Global Equity Income,Fidelity Investments,FGILX,MSCI ACWI Ex USA NR USD
+694,Fidelity® GNMA,Fidelity Investments,FGMNX,Barclays US Agg Bond TR USD
+695,Fidelity® Government Income,Fidelity Investments,FGOVX,Barclays US Agg Bond TR USD
+696,Fidelity® Growth &amp; Income Portfolio,Fidelity Investments,FGRIX,S&P 500 TR USD
+697,Fidelity® Growth Company,Fidelity Investments,FDGRX,S&P 500 TR USD
+698,Fidelity® Growth Discovery,Fidelity Investments,FDSVX,S&P 500 TR USD
+699,Fidelity® Growth Strategies,Fidelity Investments,FDEGX,S&P 500 TR USD
+700,Fidelity® High Income,Fidelity Investments,SPHIX,Barclays US Agg Bond TR USD
+701,Fidelity® Independence,Fidelity Investments,FDFFX,S&P 500 TR USD
+702,Fidelity® Inflation-Protected Bond,Fidelity Investments,FINPX,Barclays US Agg Bond TR USD
+703,Fidelity® Intermediate Bond,Fidelity Investments,FTHRX,Barclays US Agg Bond TR USD
+704,Fidelity® Intermediate Government Income,Fidelity Investments,FSTGX,Barclays US Agg Bond TR USD
+705,Fidelity® Intermediate Municipal Income,Fidelity Investments,FLTMX,Barclays Municipal TR USD
+706,Fidelity® International Capital Apprec,Fidelity Investments,FIVFX,MSCI ACWI Ex USA NR USD
+707,Fidelity® International Discovery,Fidelity Investments,FIGRX,MSCI ACWI Ex USA NR USD
+708,Fidelity® International Enhanced Index,Fidelity Investments,FIENX,MSCI ACWI Ex USA NR USD
+709,Fidelity® International Real Estate,Fidelity Investments,FIREX,MSCI ACWI NR USD
+710,Fidelity® International Small Cap,Fidelity Investments,FISMX,MSCI ACWI Ex USA NR USD
+711,Fidelity® Investment Grade Bond,Fidelity Investments,FBNDX,Barclays US Agg Bond TR USD
+712,Fidelity® Japan,Fidelity Investments,FJPNX,MSCI ACWI Ex USA NR USD
+713,Fidelity® Japan Smaller Companies,Fidelity Investments,FJSCX,MSCI ACWI Ex USA NR USD
+714,Fidelity® Large Cap Core Enhanced Index,Fidelity Investments,FLCEX,S&P 500 TR USD
+715,Fidelity® Large Cap Growth Enhanced Idx,Fidelity Investments,FLGEX,S&P 500 TR USD
+716,Fidelity® Large Cap Stock,Fidelity Investments,FLCSX,S&P 500 TR USD
+717,Fidelity® Large Cap Value Enhanced Index,Fidelity Investments,FLVEX,S&P 500 TR USD
+718,Fidelity® Latin America,Fidelity Investments,FLATX,MSCI ACWI Ex USA NR USD
+719,Fidelity® Leveraged Company Stock,Fidelity Investments,FLVCX,S&P 500 TR USD
+720,Fidelity® Limited Term Government,Fidelity Investments,FFXSX,Barclays US Agg Bond TR USD
+721,Fidelity® Limited Term Municipal Income,Fidelity Investments,FSTFX,Barclays Municipal TR USD
+722,Fidelity® Low-Priced Stock,Fidelity Investments,FLPSX,S&P 500 TR USD
+723,Fidelity® Magellan®,Fidelity Investments,FMAGX,S&P 500 TR USD
+724,Fidelity® Maryland Municipal Income,Fidelity Investments,SMDMX,Barclays Municipal TR USD
+725,Fidelity® Massachusetts Municipal Income,Fidelity Investments,FDMMX,Barclays Municipal TR USD
+726,Fidelity® Michigan Municipal Income,Fidelity Investments,FMHTX,Barclays Municipal TR USD
+727,Fidelity® Mid Cap Enhanced Index,Fidelity Investments,FMEIX,S&P 500 TR USD
+728,Fidelity® Mid Cap Value,Fidelity Investments,FSMVX,S&P 500 TR USD
+729,Fidelity® Mid-Cap Stock,Fidelity Investments,FMCSX,S&P 500 TR USD
+730,Fidelity® Minnesota Municipal Income,Fidelity Investments,FIMIX,Barclays Municipal TR USD
+731,Fidelity® Mortgage Securities,Fidelity Investments,FMSFX,Barclays US Agg Bond TR USD
+732,Fidelity® Municipal Income,Fidelity Investments,FHIGX,Barclays Municipal TR USD
+733,Fidelity® Nasdaq Composite Index®,Fidelity Investments,FNCMX,S&P 500 TR USD
+734,Fidelity® New Jersey Municipal Income,Fidelity Investments,FNJHX,Barclays Municipal TR USD
+735,Fidelity® New Markets Income,Fidelity Investments,FNMIX,Barclays US Agg Bond TR USD
+736,Fidelity® New Millennium,Fidelity Investments,FMILX,S&P 500 TR USD
+737,Fidelity® New York Municipal Income,Fidelity Investments,FTFMX,Barclays Municipal TR USD
+738,Fidelity® Nordic,Fidelity Investments,FNORX,MSCI ACWI Ex USA NR USD
+739,Fidelity® Ohio Municipal Income,Fidelity Investments,FOHFX,Barclays Municipal TR USD
+740,Fidelity® OTC Portfolio,Fidelity Investments,FOCPX,S&P 500 TR USD
+741,Fidelity® Overseas,Fidelity Investments,FOSFX,MSCI ACWI Ex USA NR USD
+742,Fidelity® Pacific Basin,Fidelity Investments,FPBFX,MSCI ACWI Ex USA NR USD
+743,Fidelity® Pennsylvania Municipal Income,Fidelity Investments,FPXTX,Barclays Municipal TR USD
+744,Fidelity® Puritan®,Fidelity Investments,FPURX,Morningstar Moderate Target Risk
+745,Fidelity® Real Estate Income,Fidelity Investments,FRIFX,MSCI ACWI NR USD
+746,Fidelity® Real Estate Investment Port,Fidelity Investments,FRESX,MSCI ACWI NR USD
+747,Fidelity® Select Air Transportation Port,Fidelity Investments,FSAIX,MSCI ACWI NR USD
+748,Fidelity® Select Automotive Port,Fidelity Investments,FSAVX,MSCI ACWI NR USD
+749,Fidelity® Select Banking Portfolio,Fidelity Investments,FSRBX,MSCI ACWI NR USD
+750,Fidelity® Select Biotechnology Portfolio,Fidelity Investments,FBIOX,MSCI ACWI NR USD
+751,Fidelity® Select Brokerage &amp; Invmt Mgmt,Fidelity Investments,FSLBX,MSCI ACWI NR USD
+752,Fidelity® Select Chemicals Portfolio,Fidelity Investments,FSCHX,MSCI ACWI NR USD
+753,Fidelity® Select Comms Equip Port,Fidelity Investments,FSDCX,MSCI ACWI NR USD
+754,Fidelity® Select Computers Portfolio,Fidelity Investments,FDCPX,MSCI ACWI NR USD
+755,Fidelity® Select Construction &amp; Hsg Port,Fidelity Investments,FSHOX,MSCI ACWI NR USD
+756,Fidelity® Select Consumer Discret Port,Fidelity Investments,FSCPX,MSCI ACWI NR USD
+757,Fidelity® Select Consumer Finance Port,Fidelity Investments,FSVLX,MSCI ACWI NR USD
+758,Fidelity® Select Consumer Staples Port,Fidelity Investments,FDFAX,MSCI ACWI NR USD
+759,Fidelity® Select Defense &amp; Aero Port,Fidelity Investments,FSDAX,MSCI ACWI NR USD
+760,Fidelity® Select Electronics Portfolio,Fidelity Investments,FSELX,MSCI ACWI NR USD
+761,Fidelity® Select Energy Portfolio,Fidelity Investments,FSENX,MSCI ACWI NR USD
+762,Fidelity® Select Energy Service Port,Fidelity Investments,FSESX,MSCI ACWI NR USD
+763,Fidelity® Select Envir and Alt Engy Port,Fidelity Investments,FSLEX,MSCI ACWI NR USD
+764,Fidelity® Select Financial Services Port,Fidelity Investments,FIDSX,MSCI ACWI NR USD
+765,Fidelity® Select Gold Portfolio,Fidelity Investments,FSAGX,MSCI ACWI NR USD
+766,Fidelity® Select Health Care Portfolio,Fidelity Investments,FSPHX,MSCI ACWI NR USD
+767,Fidelity® Select Industrial Equip Port,Fidelity Investments,FSCGX,MSCI ACWI NR USD
+768,Fidelity® Select Industrials Portfolio,Fidelity Investments,FCYIX,MSCI ACWI NR USD
+769,Fidelity® Select Insurance Port,Fidelity Investments,FSPCX,MSCI ACWI NR USD
+770,Fidelity® Select IT Services Portfolio,Fidelity Investments,FBSOX,MSCI ACWI NR USD
+771,Fidelity® Select Leisure Portfolio,Fidelity Investments,FDLSX,MSCI ACWI NR USD
+772,Fidelity® Select Materials Portfolio,Fidelity Investments,FSDPX,MSCI ACWI NR USD
+773,Fidelity® Select Medical Delivery Port,Fidelity Investments,FSHCX,MSCI ACWI NR USD
+774,Fidelity® Select Medical Equip &amp; Systems,Fidelity Investments,FSMEX,MSCI ACWI NR USD
+775,Fidelity® Select Multimedia Portfolio,Fidelity Investments,FBMPX,MSCI ACWI NR USD
+776,Fidelity® Select Natural Gas Portfolio,Fidelity Investments,FSNGX,MSCI ACWI NR USD
+777,Fidelity® Select Natural Resources Port,Fidelity Investments,FNARX,MSCI ACWI NR USD
+778,Fidelity® Select Pharmaceuticals Port,Fidelity Investments,FPHAX,MSCI ACWI NR USD
+779,Fidelity® Select Retailing Portfolio,Fidelity Investments,FSRPX,MSCI ACWI NR USD
+780,Fidelity® Select Software &amp; Comp Port,Fidelity Investments,FSCSX,MSCI ACWI NR USD
+781,Fidelity® Select Technology Portfolio,Fidelity Investments,FSPTX,MSCI ACWI NR USD
+782,Fidelity® Select Telecommunications Port,Fidelity Investments,FSTCX,MSCI ACWI NR USD
+783,Fidelity® Select Transportation,Fidelity Investments,FSRFX,MSCI ACWI NR USD
+784,Fidelity® Select Utilities Portfolio,Fidelity Investments,FSUTX,MSCI ACWI NR USD
+785,Fidelity® Select Wireless Portfolio,Fidelity Investments,FWRLX,MSCI ACWI NR USD
+786,Fidelity® Series 100 Index,Fidelity Investments,FOHIX,S&P 500 TR USD
+787,Fidelity® Series 1000 Value Index,Fidelity Investments,FIOOX,S&P 500 TR USD
+788,Fidelity® Series All-Sector Equity,Fidelity Investments,FSAEX,S&P 500 TR USD
+789,Fidelity® Series Blue Chip Growth,Fidelity Investments,FSBDX,S&P 500 TR USD
+790,Fidelity® Series Broad Market Opps,Fidelity Investments,FBMAX,S&P 500 TR USD
+791,Fidelity® Series Commodity Strategy,Fidelity Investments,FCSSX,Morningstar Long-Only Commodity TR
+792,Fidelity® Series Emerging Markets,Fidelity Investments,FEMSX,MSCI ACWI Ex USA NR USD
+793,Fidelity® Series Emerging Markets Debt,Fidelity Investments,FEDCX,Barclays US Agg Bond TR USD
+794,Fidelity® Series Equity-Income,Fidelity Investments,FNKLX,S&P 500 TR USD
+795,Fidelity® Series Floating Rate High Inc,Fidelity Investments,FFHCX,Barclays US Agg Bond TR USD
+796,Fidelity® Series Global ex US Index,Fidelity Investments,FSGEX,MSCI ACWI Ex USA NR USD
+797,Fidelity® Series Growth &amp; Income,Fidelity Investments,FGLGX,S&P 500 TR USD
+798,Fidelity® Series Growth Company,Fidelity Investments,FCGSX,S&P 500 TR USD
+799,Fidelity® Series High Income,Fidelity Investments,FSHNX,Barclays US Agg Bond TR USD
+800,Fidelity® Series Infl-Prtct Bd Idx,Fidelity Investments,FSIPX,Barclays US Agg Bond TR USD
+801,Fidelity® Series International Growth,Fidelity Investments,FIGSX,MSCI ACWI Ex USA NR USD
+802,Fidelity® Series International Sm Cap,Fidelity Investments,FSTSX,MSCI ACWI Ex USA NR USD
+803,Fidelity® Series International Value,Fidelity Investments,FINVX,MSCI ACWI Ex USA NR USD
+804,Fidelity® Series Intrinsic Oppos F,Fidelity Investments,FGLLX,MSCI ACWI Ex USA NR USD
+805,Fidelity® Series Investment Grade Bond,Fidelity Investments,FSIGX,Barclays US Agg Bond TR USD
+806,Fidelity® Series Opportunistic Insights,Fidelity Investments,FVWSX,S&P 500 TR USD
+807,Fidelity® Series Real Estate Equity,Fidelity Investments,FREDX,MSCI ACWI NR USD
+808,Fidelity® Series Real Estate Income,Fidelity Investments,FSREX,MSCI ACWI NR USD
+809,Fidelity® Series Small Cap Discovery,Fidelity Investments,FJACX,S&P 500 TR USD
+810,Fidelity® Series Small Cap Opps,Fidelity Investments,FSOPX,S&P 500 TR USD
+811,Fidelity® Series Stk Selec Lg Cp Val,Fidelity Investments,FBLEX,S&P 500 TR USD
+812,Fidelity® Short-Term Bond,Fidelity Investments,FSHBX,Barclays US Agg Bond TR USD
+813,Fidelity® Small Cap Discovery,Fidelity Investments,FSCRX,S&P 500 TR USD
+814,Fidelity® Small Cap Enhanced Index,Fidelity Investments,FCPEX,S&P 500 TR USD
+815,Fidelity® Small Cap Stock,Fidelity Investments,FSLCX,S&P 500 TR USD
+816,Fidelity® Stock Selec All Cp,Fidelity Investments,FDSSX,S&P 500 TR USD
+817,Fidelity® Stock Selec Lg Cp Val,Fidelity Investments,FSLVX,S&P 500 TR USD
+818,Fidelity® Stock Selector Small Cap,Fidelity Investments,FDSCX,S&P 500 TR USD
+819,Fidelity® Strategic Income,Fidelity Investments,FSICX,Barclays US Agg Bond TR USD
+820,Fidelity® Tax-Free Bond,Fidelity Investments,FTABX,Barclays Municipal TR USD
+821,Fidelity® Telecom and Utilities,Fidelity Investments,FIUIX,MSCI ACWI NR USD
+822,Fidelity® Total Bond,Fidelity Investments,FTBFX,Barclays US Agg Bond TR USD
+823,Fidelity® Trend,Fidelity Investments,FTRNX,S&P 500 TR USD
+824,Fidelity® Value,Fidelity Investments,FDVLX,S&P 500 TR USD
+825,Fidelity® Value Discovery,Fidelity Investments,FVDFX,S&P 500 TR USD
+826,Fidelity® Worldwide,Fidelity Investments,FWWFX,MSCI ACWI Ex USA NR USD
+827,Strategic Advisers® Core,Fidelity Investments,FCSAX,S&P 500 TR USD
+828,Strategic Advisers® Core Inc Multi-Mgr,Fidelity Investments,FWHBX,Barclays US Agg Bond TR USD
+829,Strategic Advisers® Core Income,Fidelity Investments,FPCIX,Barclays US Agg Bond TR USD
+830,Strategic Advisers® Core Multi-Mgr,Fidelity Investments,FLAUX,S&P 500 TR USD
+831,Strategic Advisers® Emerging Markets,Fidelity Investments,FSAMX,MSCI ACWI Ex USA NR USD
+832,Strategic Advisers® Emg Mkts Fd of Fds,Fidelity Investments,FLILX,MSCI ACWI Ex USA NR USD
+833,Strategic Advisers® Growth,Fidelity Investments,FSGFX,S&P 500 TR USD
+834,Strategic Advisers® Growth Multi-Mgr,Fidelity Investments,FMELX,S&P 500 TR USD
+835,Strategic Advisers® Inc Opps Fd of Fds,Fidelity Investments,FSADX,Barclays US Agg Bond TR USD
+836,Strategic Advisers® Income Opportunities,Fidelity Investments,FPIOX,Barclays US Agg Bond TR USD
+837,Strategic Advisers® International,Fidelity Investments,FILFX,MSCI ACWI Ex USA NR USD
+838,Strategic Advisers® International II,Fidelity Investments,FUSIX,MSCI ACWI Ex USA NR USD
+839,Strategic Advisers® Intl Multi-Mgr,Fidelity Investments,FMJDX,MSCI ACWI Ex USA NR USD
+840,Strategic Advisers® Multi-Manager 2005,Fidelity Investments,FEHPX,Morningstar Moderate Target Risk
+841,Strategic Advisers® Multi-Manager 2010,Fidelity Investments,FEMPX,Morningstar Moderate Target Risk
+842,Strategic Advisers® Multi-Manager 2015,Fidelity Investments,FEJPX,Morningstar Moderate Target Risk
+843,Strategic Advisers® Multi-Manager 2020,Fidelity Investments,FEKPX,Morningstar Moderate Target Risk
+844,Strategic Advisers® Multi-Manager 2025,Fidelity Investments,FEDPX,Morningstar Moderate Target Risk
+845,Strategic Advisers® Multi-Manager 2030,Fidelity Investments,FECPX,Morningstar Moderate Target Risk
+846,Strategic Advisers® Multi-Manager 2035,Fidelity Investments,FENPX,Morningstar Moderate Target Risk
+847,Strategic Advisers® Multi-Manager 2040,Fidelity Investments,FEWPX,Morningstar Moderate Target Risk
+848,Strategic Advisers® Multi-Manager 2045,Fidelity Investments,FEZPX,Morningstar Moderate Target Risk
+849,Strategic Advisers® Multi-Manager 2050,Fidelity Investments,FEYPX,Morningstar Moderate Target Risk
+850,Strategic Advisers® Multi-Manager 2055,Fidelity Investments,FESPX,Morningstar Moderate Target Risk
+851,Strategic Advisers® Multi-Manager Inc,Fidelity Investments,FEBPX,Morningstar Moderate Target Risk
+852,Strategic Advisers® Short Duration,Fidelity Investments,FAUDX,Barclays US Agg Bond TR USD
+853,Strategic Advisers® S-M Cp Multi-Mgr,Fidelity Investments,FNAPX,S&P 500 TR USD
+854,Strategic Advisers® Small-Mid Cap,Fidelity Investments,FSCFX,S&P 500 TR USD
+855,Strategic Advisers® Value,Fidelity Investments,FVSAX,S&P 500 TR USD
+856,Strategic Advisers® Value Multi-Mgr,Fidelity Investments,FKMOX,S&P 500 TR USD
+857,Franklin Adjustable US Govt Secs A,Franklin Templeton Investments,FISAX,Barclays US Agg Bond TR USD
+858,Franklin AL Tax-Free Income A,Franklin Templeton Investments,FRALX,Barclays Municipal TR USD
+859,Franklin All Cap Value A,Franklin Templeton Investments,FRAVX,S&P 500 TR USD
+860,Franklin AZ Tax-Free Income A,Franklin Templeton Investments,FTAZX,Barclays Municipal TR USD
+861,Franklin Balance Sheet Investment A,Franklin Templeton Investments,FRBSX,S&P 500 TR USD
+862,Franklin Balanced A,Franklin Templeton Investments,FBLAX,Morningstar Moderate Target Risk
+863,Franklin Biotechnology Discovery A,Franklin Templeton Investments,FBDIX,MSCI ACWI NR USD
+864,Franklin CA High Yield Municipal A,Franklin Templeton Investments,FCAMX,Barclays Municipal TR USD
+865,Franklin CA Insured Tax-Free Inc A,Franklin Templeton Investments,FRCIX,Barclays Municipal TR USD
+866,Franklin CA Interm-Term Tx-Fr Income A,Franklin Templeton Investments,FKCIX,Barclays Municipal TR USD
+867,Franklin CA Tax-Free Income A,Franklin Templeton Investments,FKTFX,Barclays Municipal TR USD
+868,Franklin CO Tax-Free Income A,Franklin Templeton Investments,FRCOX,Barclays Municipal TR USD
+869,Franklin Conservative Allocation A,Franklin Templeton Investments,FTCIX,Morningstar Moderate Target Risk
+870,Franklin Convertible Securities A,Franklin Templeton Investments,FISCX,Morningstar Moderate Target Risk
+871,Franklin Corefolio Allocation A,Franklin Templeton Investments,FTCOX,S&P 500 TR USD
+872,Franklin CT Tax-Free Income A,Franklin Templeton Investments,FXCTX,Barclays Municipal TR USD
+873,Franklin Double Tax-Free Income A,Franklin Templeton Investments,FPRTX,Barclays Municipal TR USD
+874,Franklin DynaTech A,Franklin Templeton Investments,FKDNX,S&P 500 TR USD
+875,Franklin Emerging Market Debt Opps,Franklin Templeton Investments,FEMDX,Barclays US Agg Bond TR USD
+876,Franklin Equity Income A,Franklin Templeton Investments,FISEX,S&P 500 TR USD
+877,Franklin Federal Interm-Term T/F Inc A,Franklin Templeton Investments,FKITX,Barclays Municipal TR USD
+878,Franklin Federal Limited-Term T/F Inc A,Franklin Templeton Investments,FFTFX,Barclays Municipal TR USD
+879,Franklin Federal Tax-Free Income A,Franklin Templeton Investments,FKTIX,Barclays Municipal TR USD
+880,Franklin FL Tax-Free Income A,Franklin Templeton Investments,FRFLX,Barclays Municipal TR USD
+881,Franklin Flex Cap Growth A,Franklin Templeton Investments,FKCGX,S&P 500 TR USD
+882,Franklin Floating Rate Daily Access A,Franklin Templeton Investments,FAFRX,Barclays US Agg Bond TR USD
+883,Franklin Focused Core Equity A,Franklin Templeton Investments,FCEQX,S&P 500 TR USD
+884,Franklin Founding Funds Allocation A,Franklin Templeton Investments,FFALX,Morningstar Moderate Target Risk
+885,Franklin GA Tax-Free Income A,Franklin Templeton Investments,FTGAX,Barclays Municipal TR USD
+886,Franklin Global Allocation A,Franklin Templeton Investments,FGAAX,Morningstar Moderate Target Risk
+887,Franklin Global Government Bond A,Franklin Templeton Investments,FGGAX,Barclays US Agg Bond TR USD
+888,Franklin Global Listed Infras A,Franklin Templeton Investments,FLGIX,MSCI ACWI Ex USA NR USD
+889,Franklin Global Real Estate A,Franklin Templeton Investments,FGRRX,MSCI ACWI NR USD
+890,Franklin Gold and Precious Metals A,Franklin Templeton Investments,FKRCX,MSCI ACWI NR USD
+891,Franklin Growth A,Franklin Templeton Investments,FKGRX,S&P 500 TR USD
+892,Franklin Growth Allocation A,Franklin Templeton Investments,FGTIX,Morningstar Moderate Target Risk
+893,Franklin Growth Opportunities A,Franklin Templeton Investments,FGRAX,S&P 500 TR USD
+894,Franklin High Income A,Franklin Templeton Investments,FHAIX,Barclays US Agg Bond TR USD
+895,Franklin High Yield Tax-Free Inc A,Franklin Templeton Investments,FRHIX,Barclays Municipal TR USD
+896,Franklin Income A,Franklin Templeton Investments,FKINX,Morningstar Moderate Target Risk
+897,Franklin India Growth A,Franklin Templeton Investments,FINGX,MSCI ACWI Ex USA NR USD
+898,Franklin Insured Tax-Free Income A,Franklin Templeton Investments,FTFIX,Barclays Municipal TR USD
+899,Franklin Intl Growth A,Franklin Templeton Investments,FNGAX,MSCI ACWI Ex USA NR USD
+900,Franklin Intl Small Cap Growth Adv,Franklin Templeton Investments,FKSCX,MSCI ACWI Ex USA NR USD
+901,Franklin K2 Alternative Strategies A,Franklin Templeton Investments,FAAAX,Morningstar Moderate Target Risk
+902,Franklin KY Tax-Free Income A,Franklin Templeton Investments,FRKYX,Barclays Municipal TR USD
+903,Franklin LA Tax-Free Income A,Franklin Templeton Investments,FKLAX,Barclays Municipal TR USD
+904,Franklin Large Cap Equity Adv,Franklin Templeton Investments,FLCIX,S&P 500 TR USD
+905,Franklin Large Cap Value A,Franklin Templeton Investments,FLVAX,S&P 500 TR USD
+906,Franklin LifeSmart™ 2015 Retire Trgt A,Franklin Templeton Investments,FTRAX,Morningstar Moderate Target Risk
+907,Franklin LifeSmart™ 2025 Retire Trgt A,Franklin Templeton Investments,FTRTX,Morningstar Moderate Target Risk
+908,Franklin LifeSmart™ 2035 Retire Trgt A,Franklin Templeton Investments,FRTAX,Morningstar Moderate Target Risk
+909,Franklin LifeSmart™ 2045 Retire Trgt A,Franklin Templeton Investments,FTTAX,Morningstar Moderate Target Risk
+910,Franklin Low Duration Total Return A,Franklin Templeton Investments,FLDAX,Barclays US Agg Bond TR USD
+911,Franklin MA Tax-Free Income A,Franklin Templeton Investments,FMISX,Barclays Municipal TR USD
+912,Franklin MD Tax-Free Income A,Franklin Templeton Investments,FMDTX,Barclays Municipal TR USD
+913,Franklin MI Tax-Free Inc A,Franklin Templeton Investments,FTTMX,Barclays Municipal TR USD
+914,Franklin MicroCap Value A,Franklin Templeton Investments,FRMCX,S&P 500 TR USD
+915,Franklin Mid Cap Value A,Franklin Templeton Investments,FMVAX,S&P 500 TR USD
+916,Franklin MN Tax-Free Inc A,Franklin Templeton Investments,FMINX,Barclays Municipal TR USD
+917,Franklin MO Tax-Free Income A,Franklin Templeton Investments,FRMOX,Barclays Municipal TR USD
+918,Franklin Moderate Allocation A,Franklin Templeton Investments,FMTIX,Morningstar Moderate Target Risk
+919,Franklin Multi Asset Real Return Class A,Franklin Templeton Investments,FTMAX,Morningstar Moderate Target Risk
+920,Franklin Mutual Beacon Z,Franklin Templeton Investments,BEGRX,S&P 500 TR USD
+921,Franklin Mutual European Z,Franklin Templeton Investments,MEURX,MSCI ACWI Ex USA NR USD
+922,Franklin Mutual Financial Services A,Franklin Templeton Investments,TFSIX,MSCI ACWI NR USD
+923,Franklin Mutual Global Discovery Z,Franklin Templeton Investments,MDISX,MSCI ACWI Ex USA NR USD
+924,Franklin Mutual International A,Franklin Templeton Investments,FMIAX,MSCI ACWI Ex USA NR USD
+925,Franklin Mutual Quest Z,Franklin Templeton Investments,MQIFX,MSCI ACWI Ex USA NR USD
+926,Franklin Mutual Shares Z,Franklin Templeton Investments,MUTHX,S&P 500 TR USD
+927,Franklin Natural Resources A,Franklin Templeton Investments,FRNRX,MSCI ACWI NR USD
+928,Franklin NC Tax-Free Income A,Franklin Templeton Investments,FXNCX,Barclays Municipal TR USD
+929,Franklin NJ Tax-Free Income A,Franklin Templeton Investments,FRNJX,Barclays Municipal TR USD
+930,Franklin NY Intermediate T/F Income A,Franklin Templeton Investments,FKNIX,Barclays Municipal TR USD
+931,Franklin NY Tax-Free Income A,Franklin Templeton Investments,FNYTX,Barclays Municipal TR USD
+932,Franklin OH Tax-Free Inc A,Franklin Templeton Investments,FTOIX,Barclays Municipal TR USD
+933,Franklin OR Tax-Free Income A,Franklin Templeton Investments,FRORX,Barclays Municipal TR USD
+934,Franklin PA Tax-Free Income A,Franklin Templeton Investments,FRPAX,Barclays Municipal TR USD
+935,Franklin Real Estate Securities A,Franklin Templeton Investments,FREEX,MSCI ACWI NR USD
+936,Franklin Real Return A,Franklin Templeton Investments,FRRAX,Barclays US Agg Bond TR USD
+937,Franklin Rising Dividends A,Franklin Templeton Investments,FRDPX,S&P 500 TR USD
+938,Franklin Small Cap Growth A,Franklin Templeton Investments,FSGRX,S&P 500 TR USD
+939,Franklin Small Cap Value A,Franklin Templeton Investments,FRVLX,S&P 500 TR USD
+940,Franklin Small-Mid Cap Growth A,Franklin Templeton Investments,FRSGX,S&P 500 TR USD
+941,Franklin Strategic Income A,Franklin Templeton Investments,FRSTX,Barclays US Agg Bond TR USD
+942,Franklin Strategic Mortgage A1,Franklin Templeton Investments,FSMIX,Barclays US Agg Bond TR USD
+943,Franklin TN Municipal Bond A,Franklin Templeton Investments,FRTIX,Barclays Municipal TR USD
+944,Franklin Total Return A,Franklin Templeton Investments,FKBAX,Barclays US Agg Bond TR USD
+945,Franklin US Government Secs A,Franklin Templeton Investments,FKUSX,Barclays US Agg Bond TR USD
+946,Franklin Utilities A,Franklin Templeton Investments,FKUTX,MSCI ACWI NR USD
+947,Franklin VA Tax-Free Income A,Franklin Templeton Investments,FRVAX,Barclays Municipal TR USD
+948,Franklin World Perspectives A,Franklin Templeton Investments,FWPAX,MSCI ACWI Ex USA NR USD
+949,Templeton BRIC A,Franklin Templeton Investments,TABRX,MSCI ACWI Ex USA NR USD
+950,Templeton China World A,Franklin Templeton Investments,TCWAX,MSCI ACWI Ex USA NR USD
+951,Templeton Developing Markets A,Franklin Templeton Investments,TEDMX,MSCI ACWI Ex USA NR USD
+952,Templeton Emerging Markets Bal A,Franklin Templeton Investments,TAEMX,MSCI ACWI Ex USA NR USD
+953,Templeton Emerging Markets Bond A,Franklin Templeton Investments,FEMGX,Barclays US Agg Bond TR USD
+954,Templeton Emerging Markets Small Cap A,Franklin Templeton Investments,TEMMX,MSCI ACWI Ex USA NR USD
+955,Templeton Foreign A,Franklin Templeton Investments,TEMFX,MSCI ACWI Ex USA NR USD
+956,Templeton Foreign Smaller Companies A,Franklin Templeton Investments,FINEX,MSCI ACWI Ex USA NR USD
+957,Templeton Frontier Markets A,Franklin Templeton Investments,TFMAX,MSCI ACWI Ex USA NR USD
+958,Templeton Global Balanced A1,Franklin Templeton Investments,TINCX,Morningstar Moderate Target Risk
+959,Templeton Global Bond A,Franklin Templeton Investments,TPINX,Barclays US Agg Bond TR USD
+960,Templeton Global Opportunities A,Franklin Templeton Investments,TEGOX,MSCI ACWI Ex USA NR USD
+961,Templeton Global Smaller Comp A,Franklin Templeton Investments,TEMGX,MSCI ACWI Ex USA NR USD
+962,Templeton Global Total Return A,Franklin Templeton Investments,TGTRX,Barclays US Agg Bond TR USD
+963,Templeton Growth A,Franklin Templeton Investments,TEPLX,MSCI ACWI Ex USA NR USD
+964,Templeton Hard Currency A,Franklin Templeton Investments,ICPHX,BofAML USD LIBOR 3 Mon CM
+965,Templeton Ins Foreign Smaller Co Ser Adv,Franklin Templeton Investments,TFSCX,MSCI ACWI Ex USA NR USD
+966,Templeton Inst Global Equity Series Adv,Franklin Templeton Investments,TGESX,MSCI ACWI Ex USA NR USD
+967,Templeton Instl Emerging Markets Ser Adv,Franklin Templeton Investments,TEEMX,MSCI ACWI Ex USA NR USD
+968,Templeton Instl Foreign Eq Ser Primary,Franklin Templeton Investments,TFEQX,MSCI ACWI Ex USA NR USD
+969,Templeton International Bond A,Franklin Templeton Investments,TBOAX,Barclays US Agg Bond TR USD
+970,Templeton World A,Franklin Templeton Investments,TEMWX,MSCI ACWI Ex USA NR USD
+971,Blackrock ACWI Ex-US Index Instl,BlackRock,BDOIX,MSCI ACWI Ex USA NR USD
+972,BlackRock Aggressive Growth Prepared A,BlackRock,BAAPX,S&P 500 TR USD
+973,BlackRock All-Cap Engy &amp; Res Investor A,BlackRock,BACAX,MSCI ACWI NR USD
+974,BlackRock Allocation Tgt Shares Ser C,BlackRock,BRACX,Barclays US Agg Bond TR USD
+975,BlackRock Allocation Tgt Shares Ser M,BlackRock,BRAMX,Barclays US Agg Bond TR USD
+976,BlackRock Allocation Tgt Shares Ser P,BlackRock,BATPX,Barclays US Agg Bond TR USD
+977,BlackRock Allocation Tgt Shares Ser Svc,BlackRock,BRASX,Barclays US Agg Bond TR USD
+978,BlackRock Balanced Capital Instl,BlackRock,MACPX,Morningstar Moderate Target Risk
+979,BlackRock Basic Value Instl,BlackRock,MABAX,S&P 500 TR USD
+980,BlackRock Bond Index K,BlackRock,WFBIX,Barclays US Agg Bond TR USD
+981,BlackRock CA Muni Bond Inv B,BlackRock,MBCMX,Barclays Municipal TR USD
+982,BlackRock Capital Appreciation Inv A,BlackRock,MDFGX,S&P 500 TR USD
+983,BlackRock Commodity Strategies Inv A,BlackRock,BCSAX,Morningstar Long-Only Commodity TR
+984,BlackRock Conservative Prepared Inv A,BlackRock,BACPX,Morningstar Moderate Target Risk
+985,BlackRock Core Bond Instl,BlackRock,BFMCX,Barclays US Agg Bond TR USD
+986,BlackRock CoreAlpha Bond Instl,BlackRock,BCRIX,Barclays US Agg Bond TR USD
+987,BlackRock Disciplined Sm Cap Cor Inv A,BlackRock,BDSAX,S&P 500 TR USD
+988,BlackRock Emerg Mkts Flex Dyn Bd Inv A,BlackRock,BAEDX,Barclays US Agg Bond TR USD
+989,BlackRock Emerging Market Allc Inv A,BlackRock,BEEAX,MSCI ACWI Ex USA NR USD
+990,BlackRock Emerging Markets Div Inv A,BlackRock,BACHX,MSCI ACWI Ex USA NR USD
+991,BlackRock Emerging Mkt L/S Eq Investor A,BlackRock,BLSAX,Barclays US Agg Bond TR USD
+992,BlackRock Emerging Mkts Instl,BlackRock,MADCX,MSCI ACWI Ex USA NR USD
+993,BlackRock Energy &amp; Resources Inv A,BlackRock,SSGRX,MSCI ACWI NR USD
+994,BlackRock Equity Dividend Inv B,BlackRock,MBDVX,S&P 500 TR USD
+995,BlackRock EuroFund Instl,BlackRock,MAEFX,MSCI ACWI Ex USA NR USD
+996,BlackRock Exchange BlackRock,BlackRock,STSEX,S&P 500 TR USD
+997,BlackRock Flexible Equity Investor A,BlackRock,BMCAX,S&P 500 TR USD
+998,BlackRock Floating Rate Income Inv A,BlackRock,BFRAX,Barclays US Agg Bond TR USD
+999,BlackRock Focus Growth Inv A,BlackRock,MDFOX,S&P 500 TR USD
+1000,BlackRock Global Allocation Inv B,BlackRock,MBLOX,Morningstar Moderate Target Risk
+1001,BlackRock Global Dividend Inv A,BlackRock,BABDX,MSCI ACWI Ex USA NR USD
+1002,BlackRock Global Long/Short Credit Inv A,BlackRock,BGCAX,Barclays US Agg Bond TR USD
+1003,BlackRock Global Long/Short Equity Inv A,BlackRock,BDMAX,Barclays US Agg Bond TR USD
+1004,BlackRock Global Opportunities Inv A,BlackRock,BROAX,MSCI ACWI Ex USA NR USD
+1005,BlackRock Global SmallCap Inv A,BlackRock,MDGCX,MSCI ACWI Ex USA NR USD
+1006,BlackRock GNMA Inv A,BlackRock,BGPAX,Barclays US Agg Bond TR USD
+1007,BlackRock Growth Prepared Inv A,BlackRock,BAGPX,Morningstar Moderate Target Risk
+1008,BlackRock Health Sciences Opps Inv A,BlackRock,SHSAX,MSCI ACWI NR USD
+1009,BlackRock High Yield Bond Inv A,BlackRock,BHYAX,Barclays US Agg Bond TR USD
+1010,BlackRock High Yield Municipal Inv A,BlackRock,MDYHX,Barclays Municipal TR USD
+1011,BlackRock Inflation Protected Bond Inv A,BlackRock,BPRAX,Barclays US Agg Bond TR USD
+1012,BlackRock International Index Instl,BlackRock,MAIIX,MSCI ACWI Ex USA NR USD
+1013,BlackRock International Inv A,BlackRock,MDILX,MSCI ACWI Ex USA NR USD
+1014,BlackRock International Opp Inv A,BlackRock,BREAX,MSCI ACWI Ex USA NR USD
+1015,BlackRock Investment Grade Bd Inv A,BlackRock,BLADX,Barclays US Agg Bond TR USD
+1016,BlackRock Large Cap Core Inv A,BlackRock,MDLRX,S&P 500 TR USD
+1017,BlackRock Large Cap Core Plus Inv A,BlackRock,BALPX,S&P 500 TR USD
+1018,BlackRock Large Cap Core Retirement K,BlackRock,MKLRX,S&P 500 TR USD
+1019,BlackRock Large Cap Growth Inv A,BlackRock,MDLHX,S&P 500 TR USD
+1020,BlackRock Large Cap Growth Retirement K,BlackRock,MKLHX,S&P 500 TR USD
+1021,BlackRock Large Cap Value Inv A,BlackRock,MDLVX,S&P 500 TR USD
+1022,BlackRock Large Cap Value Retirement K,BlackRock,MKLVX,S&P 500 TR USD
+1023,BlackRock Latin America Inv A,BlackRock,MDLTX,MSCI ACWI Ex USA NR USD
+1024,BlackRock LifePath 2020 Instl,BlackRock,STLCX,Morningstar Moderate Target Risk
+1025,BlackRock LifePath 2025 Investor A,BlackRock,LPBAX,Morningstar Moderate Target Risk
+1026,BlackRock LifePath 2030 Instl,BlackRock,STLDX,Morningstar Moderate Target Risk
+1027,BlackRock LifePath 2035 Investor A,BlackRock,LPJAX,Morningstar Moderate Target Risk
+1028,BlackRock LifePath 2040 Instl,BlackRock,STLEX,Morningstar Moderate Target Risk
+1029,BlackRock LifePath 2045 Investor A,BlackRock,LPHAX,Morningstar Moderate Target Risk
+1030,BlackRock LifePath 2050 Investor A,BlackRock,LPRFX,Morningstar Moderate Target Risk
+1031,BlackRock LifePath 2055 Investor A,BlackRock,LPVAX,Morningstar Moderate Target Risk
+1032,BlackRock LifePath Active 2015 Inv A,BlackRock,BAPBX,Morningstar Moderate Target Risk
+1033,BlackRock LifePath Active 2020 Inv A,BlackRock,BAPCX,Morningstar Moderate Target Risk
+1034,BlackRock LifePath Active 2025 Inv A,BlackRock,BAPDX,Morningstar Moderate Target Risk
+1035,BlackRock LifePath Active 2030 Inv A,BlackRock,BAPEX,Morningstar Moderate Target Risk
+1036,BlackRock LifePath Active 2035 Inv A,BlackRock,BAPGX,Morningstar Moderate Target Risk
+1037,BlackRock LifePath Active 2040 Inv A,BlackRock,BAPHX,Morningstar Moderate Target Risk
+1038,BlackRock LifePath Active 2045 Inv A,BlackRock,BAPJX,Morningstar Moderate Target Risk
+1039,BlackRock LifePath Active 2050 Inv A,BlackRock,BAPKX,Morningstar Moderate Target Risk
+1040,BlackRock LifePath Active 2055 Inv A,BlackRock,BAPLX,Morningstar Moderate Target Risk
+1041,BlackRock Lifepath Index 2020 Instl,BlackRock,LIQIX,Morningstar Moderate Target Risk
+1042,BlackRock Lifepath Index 2025 Instl,BlackRock,LIBIX,Morningstar Moderate Target Risk
+1043,BlackRock Lifepath Index 2030 Instl,BlackRock,LINIX,Morningstar Moderate Target Risk
+1044,BlackRock Lifepath Index 2035 Instl,BlackRock,LIJIX,Morningstar Moderate Target Risk
+1045,BlackRock Lifepath Index 2040 Instl,BlackRock,LIKIX,Morningstar Moderate Target Risk
+1046,BlackRock Lifepath Index 2045 Instl,BlackRock,LIHIX,Morningstar Moderate Target Risk
+1047,BlackRock Lifepath Index 2050 Instl,BlackRock,LIPIX,Morningstar Moderate Target Risk
+1048,BlackRock Lifepath Index 2055 Instl,BlackRock,LIVIX,Morningstar Moderate Target Risk
+1049,BlackRock Lifepath Index Retire Instl,BlackRock,LIRIX,Morningstar Moderate Target Risk
+1050,BlackRock LifePath Retirement Instl,BlackRock,STLAX,Morningstar Moderate Target Risk
+1051,BlackRock Long-Horizon Equity Inv A,BlackRock,MDEGX,MSCI ACWI Ex USA NR USD
+1052,BlackRock Low Duration Bd Instl,BlackRock,BFMSX,Barclays US Agg Bond TR USD
+1053,BlackRock Managed Volatility Inv A,BlackRock,PCBAX,Morningstar Moderate Target Risk
+1054,BlackRock Mid Cap Value Opps Inv A,BlackRock,MDRFX,S&P 500 TR USD
+1055,BlackRock Mid-Cap Growth Equity Inv A,BlackRock,BMGAX,S&P 500 TR USD
+1056,BlackRock Moderate Prepared Inv A,BlackRock,BAMPX,Morningstar Moderate Target Risk
+1057,BlackRock Multi-Asset Income Investor A,BlackRock,BAICX,Morningstar Moderate Target Risk
+1058,BlackRock Multi-Asset Real Return Inv A,BlackRock,BRRAX,Morningstar Moderate Target Risk
+1059,BlackRock National Municipal Instl,BlackRock,MANLX,Barclays Municipal TR USD
+1060,BlackRock Natural Resources Inv B,BlackRock,MBGRX,MSCI ACWI NR USD
+1061,BlackRock NJ Municipal Bond Instl,BlackRock,MANJX,Barclays Municipal TR USD
+1062,BlackRock NY Municipal Bond Instl,BlackRock,MANKX,Barclays Municipal TR USD
+1063,BlackRock PA Municipal Bond Instl,BlackRock,MAPYX,Barclays Municipal TR USD
+1064,BlackRock Pacific Instl,BlackRock,MAPCX,MSCI ACWI Ex USA NR USD
+1065,BlackRock Real Estate Securities Inv A,BlackRock,BAREX,MSCI ACWI NR USD
+1066,BlackRock Russell 1000® Index Instl,BlackRock,BRGNX,S&P 500 TR USD
+1067,BlackRock S&amp;P 500 Stock K,BlackRock,WFSPX,S&P 500 TR USD
+1068,BlackRock Science &amp; Technology Opp Inv A,BlackRock,BGSAX,MSCI ACWI NR USD
+1069,BlackRock Secured Credit Portfolio Inv A,BlackRock,BMSAX,Barclays US Agg Bond TR USD
+1070,BlackRock Short Obligations BlackRock,BlackRock,BBSOX,Barclays US Agg Bond TR USD
+1071,BlackRock Short-Term Municipal Instl,BlackRock,MALMX,Barclays Municipal TR USD
+1072,BlackRock Short-Term Treasury Instl Dly,BlackRock,BDSTX,Barclays US Agg Bond TR USD
+1073,BlackRock Small Cap Growth Equity Instl,BlackRock,PSGIX,S&P 500 TR USD
+1074,BlackRock Small Cap Growth II Inv A,BlackRock,MDSWX,S&P 500 TR USD
+1075,BlackRock Small Cap Index Instl,BlackRock,MASKX,S&P 500 TR USD
+1076,BlackRock Strategic Income Opps Inv A,BlackRock,BASIX,Barclays US Agg Bond TR USD
+1077,BlackRock Strategic Muni Opps Instl,BlackRock,MAMTX,Barclays Municipal TR USD
+1078,BlackRock Strategic Risk Allocation InvA,BlackRock,BSTAX,Morningstar Moderate Target Risk
+1079,BlackRock Total Return Inv C,BlackRock,MFHQX,Barclays US Agg Bond TR USD
+1080,BlackRock Ultra-Short Obligs BlackRock,BlackRock,BBUSX,Barclays US Agg Bond TR USD
+1081,BlackRock US Government Bond Instl,BlackRock,PNIGX,Barclays US Agg Bond TR USD
+1082,BlackRock US Mortgage Portfolio Instl,BlackRock,MSUMX,Barclays US Agg Bond TR USD
+1083,BlackRock US Opportunities Inv A,BlackRock,BMEAX,S&P 500 TR USD
+1084,BlackRock Value Opportunities Instl,BlackRock,MASPX,S&P 500 TR USD
+1085,BlackRock World Income Instl,BlackRock,MAWIX,Barclays US Agg Bond TR USD
+1086,Managed Account Global SmallCap,BlackRock,MGCSX,MSCI ACWI Ex USA NR USD
+1087,Managed Account Mid Cap Value Opp,BlackRock,MMCVX,S&P 500 TR USD
+1088,Active Port® Multi-Mgr Alt Strategies A,Columbia,CPASX,Morningstar Moderate Target Risk
+1089,Active Port® Multi-Mgr Core Plus Bond A,Columbia,CMCPX,Barclays US Agg Bond TR USD
+1090,Active Port® Multi-Mgr Small Cp Equity A,Columbia,CSCEX,S&P 500 TR USD
+1091,Active Portfolios® Multi-Manager Gr A,Columbia,CSLGX,S&P 500 TR USD
+1092,Active Portfolios® Multi-Manager Value A,Columbia,CDEIX,S&P 500 TR USD
+1093,CMG Ultra Short Term Bond,Columbia,CMGUX,Barclays US Agg Bond TR USD
+1094,Columbia Absolute Ret Ccy &amp; Inc A,Columbia,RARAX,BofAML USD LIBOR 3 Mon CM
+1095,Columbia Absolute Ret Emg Mkts Mcr A,Columbia,CMMAX,Barclays US Agg Bond TR USD
+1096,Columbia Absolute Ret Enh Multi-Strat A,Columbia,CEMAX,Morningstar Moderate Target Risk
+1097,Columbia Absolute Ret Multi-Strat A,Columbia,CMSAX,Morningstar Moderate Target Risk
+1098,Columbia Acorn Emerging Markets A,Columbia,CAGAX,MSCI ACWI Ex USA NR USD
+1099,Columbia Acorn European A,Columbia,CAEAX,MSCI ACWI Ex USA NR USD
+1100,Columbia Acorn International Select Z,Columbia,ACFFX,MSCI ACWI Ex USA NR USD
+1101,Columbia Acorn International Z,Columbia,ACINX,MSCI ACWI Ex USA NR USD
+1102,Columbia Acorn Select Z,Columbia,ACTWX,S&P 500 TR USD
+1103,Columbia Acorn USA Z,Columbia,AUSAX,S&P 500 TR USD
+1104,Columbia Acorn Z,Columbia,ACRNX,S&P 500 TR USD
+1105,Columbia AMT-Free CA Interm Muni Bd Z,Columbia,NCMAX,Barclays Municipal TR USD
+1106,Columbia AMT-Free CT Interm Muni Bd Z,Columbia,SCTEX,Barclays Municipal TR USD
+1107,Columbia AMT-Free GA Interm Muni Bd Z,Columbia,NGAMX,Barclays Municipal TR USD
+1108,Columbia AMT-Free Interm Muni Bd Z,Columbia,SETMX,Barclays Municipal TR USD
+1109,Columbia AMT-Free MA Interm Muni Bd Z,Columbia,SEMAX,Barclays Municipal TR USD
+1110,Columbia AMT-Free MD Interm Muni Bd A,Columbia,NMDMX,Barclays Municipal TR USD
+1111,Columbia AMT-Free NC Interm Muni Bd Z,Columbia,NNIBX,Barclays Municipal TR USD
+1112,Columbia AMT-Free NY Interm Muni Bd T,Columbia,GANYX,Barclays Municipal TR USD
+1113,Columbia AMT-Free OR Interm Muni Bd Z,Columbia,CMBFX,Barclays Municipal TR USD
+1114,Columbia AMT-Free SC Interm Muni Bd Z,Columbia,NSCMX,Barclays Municipal TR USD
+1115,Columbia AMT-Free Tax-Exempt Bond A,Columbia,INTAX,Barclays Municipal TR USD
+1116,Columbia AMT-Free VA Interm Muni Bd Z,Columbia,NVABX,Barclays Municipal TR USD
+1117,Columbia Asia Pacific ex-Japan R5,Columbia,TAPRX,MSCI ACWI Ex USA NR USD
+1118,Columbia Balanced Z,Columbia,CBALX,Morningstar Moderate Target Risk
+1119,Columbia Bond Z,Columbia,UMMGX,Barclays US Agg Bond TR USD
+1120,Columbia California Tax-Exempt A,Columbia,CLMPX,Barclays Municipal TR USD
+1121,Columbia Capital Allocation Agrsv A,Columbia,AXBAX,Morningstar Moderate Target Risk
+1122,Columbia Capital Allocation Cnsrv A,Columbia,ABDAX,Morningstar Moderate Target Risk
+1123,Columbia Capital Allocation Mod Agrsv A,Columbia,NBIAX,Morningstar Moderate Target Risk
+1124,Columbia Capital Allocation Mod Cnsrv A,Columbia,NLGAX,Morningstar Moderate Target Risk
+1125,Columbia Capital Allocation Moderate A,Columbia,ABUAX,Morningstar Moderate Target Risk
+1126,Columbia Commodity Strategy I,Columbia,CCIYX,Morningstar Long-Only Commodity TR
+1127,Columbia Contrarian Core Z,Columbia,SMGIX,S&P 500 TR USD
+1128,Columbia Convertible Securities A,Columbia,PACIX,Morningstar Moderate Target Risk
+1129,Columbia Corporate Income Z,Columbia,SRINX,Barclays US Agg Bond TR USD
+1130,Columbia Diversified Equity Income A,Columbia,INDZX,S&P 500 TR USD
+1131,Columbia Diversified Real Return A,Columbia,CDRAX,Morningstar Moderate Target Risk
+1132,Columbia Dividend Income T,Columbia,GEQAX,S&P 500 TR USD
+1133,Columbia Dividend Opportunity A,Columbia,INUTX,S&P 500 TR USD
+1134,Columbia Emerging Markets Bond A,Columbia,REBAX,Barclays US Agg Bond TR USD
+1135,Columbia Emerging Markets Z,Columbia,UMEMX,MSCI ACWI Ex USA NR USD
+1136,Columbia Equity Value B,Columbia,INEGX,S&P 500 TR USD
+1137,Columbia European Equity A,Columbia,AXEAX,MSCI ACWI Ex USA NR USD
+1138,Columbia Flexible Capital Income A,Columbia,CFIAX,Morningstar Moderate Target Risk
+1139,Columbia Floating Rate A,Columbia,RFRAX,Barclays US Agg Bond TR USD
+1140,Columbia Global Bond A,Columbia,IGBFX,Barclays US Agg Bond TR USD
+1141,Columbia Global Dividend Opportunity Z,Columbia,CSVFX,MSCI ACWI Ex USA NR USD
+1142,Columbia Global Energy &amp; Natural Res Z,Columbia,UMESX,MSCI ACWI NR USD
+1143,Columbia Global Equity A,Columbia,IGLGX,MSCI ACWI Ex USA NR USD
+1144,Columbia Global Infrastructure Fund A,Columbia,RRIAX,S&P 500 TR USD
+1145,Columbia Global Opportunities A,Columbia,IMRFX,Morningstar Moderate Target Risk
+1146,Columbia Global Technology Growth Z,Columbia,CMTFX,MSCI ACWI NR USD
+1147,Columbia Greater China A,Columbia,NGCAX,MSCI ACWI Ex USA NR USD
+1148,Columbia High Yield Bond A,Columbia,INEAX,Barclays US Agg Bond TR USD
+1149,Columbia High Yield Muni Z,Columbia,SRHMX,Barclays Municipal TR USD
+1150,Columbia Income Builder A,Columbia,RBBAX,Morningstar Moderate Target Risk
+1151,Columbia Income Opportunities A,Columbia,AIOAX,Barclays US Agg Bond TR USD
+1152,Columbia Infl Protected Secs A,Columbia,APSAX,Barclays US Agg Bond TR USD
+1153,Columbia Intermediate Bond Z,Columbia,SRBFX,Barclays US Agg Bond TR USD
+1154,Columbia International Bond A,Columbia,CNBAX,Barclays US Agg Bond TR USD
+1155,Columbia International Value A,Columbia,NIVLX,MSCI ACWI Ex USA NR USD
+1156,Columbia Large Cap Enhanced Core A,Columbia,NMIAX,S&P 500 TR USD
+1157,Columbia Large Cap Growth T,Columbia,GAEGX,S&P 500 TR USD
+1158,Columbia Large Cap Index Z,Columbia,NINDX,S&P 500 TR USD
+1159,Columbia Large Core Quantitative A,Columbia,AQEAX,S&P 500 TR USD
+1160,Columbia Large Growth Quantitative A,Columbia,RDLAX,S&P 500 TR USD
+1161,Columbia Large Value Quantitative A,Columbia,RLCAX,S&P 500 TR USD
+1162,Columbia LifeGoal Growth A,Columbia,NLGIX,S&P 500 TR USD
+1163,Columbia Limited Duration Credit A,Columbia,ALDAX,Barclays US Agg Bond TR USD
+1164,Columbia Marsico 21st Century A,Columbia,NMTAX,S&P 500 TR USD
+1165,Columbia Marsico Flexible Capital A,Columbia,CCMAX,S&P 500 TR USD
+1166,Columbia Marsico Focused Equities A,Columbia,NFEAX,S&P 500 TR USD
+1167,Columbia Marsico Global A,Columbia,COGAX,MSCI ACWI Ex USA NR USD
+1168,Columbia Marsico Growth A,Columbia,NMGIX,S&P 500 TR USD
+1169,Columbia Marsico Intl Opp A,Columbia,MAIOX,MSCI ACWI Ex USA NR USD
+1170,Columbia Masters International Eq A,Columbia,CMTAX,MSCI ACWI Ex USA NR USD
+1171,Columbia Mid Cap Growth Z,Columbia,CLSPX,S&P 500 TR USD
+1172,Columbia Mid Cap Index Z,Columbia,NMPAX,S&P 500 TR USD
+1173,Columbia Mid Cap Value A,Columbia,CMUAX,S&P 500 TR USD
+1174,Columbia Minnesota Tax-Exempt A,Columbia,IMNTX,Barclays Municipal TR USD
+1175,Columbia Multi-Advisor Intl Equity Z,Columbia,NIEQX,MSCI ACWI Ex USA NR USD
+1176,Columbia Multi-Advisor Sm Cp Val A,Columbia,ASVAX,S&P 500 TR USD
+1177,Columbia New York Tax-Exempt A,Columbia,COLNX,Barclays Municipal TR USD
+1178,Columbia Overseas Value Z,Columbia,COSZX,MSCI ACWI Ex USA NR USD
+1179,Columbia Pacific/Asia Z,Columbia,USPAX,MSCI ACWI Ex USA NR USD
+1180,Columbia Real Estate Equity Z,Columbia,CREEX,MSCI ACWI NR USD
+1181,Columbia Risk Allocation A,Columbia,CRAAX,Morningstar Moderate Target Risk
+1182,Columbia Select Large Cap Equity Fund Z,Columbia,NSEPX,S&P 500 TR USD
+1183,Columbia Select Large Cap Growth Z,Columbia,UMLGX,S&P 500 TR USD
+1184,Columbia Select Large-Cap Value A,Columbia,SLVAX,S&P 500 TR USD
+1185,Columbia Select Smaller-Cap Value A,Columbia,SSCVX,S&P 500 TR USD
+1186,Columbia Seligman Comms &amp; Info A,Columbia,SLMCX,MSCI ACWI NR USD
+1187,Columbia Seligman Global Technology A,Columbia,SHGTX,MSCI ACWI NR USD
+1188,Columbia Short Term Bond Z,Columbia,NSTMX,Barclays US Agg Bond TR USD
+1189,Columbia Short Term Muni Bd Z,Columbia,NSMIX,Barclays Municipal TR USD
+1190,Columbia Small Cap Core Z,Columbia,SMCEX,S&P 500 TR USD
+1191,Columbia Small Cap Growth I Z,Columbia,CMSCX,S&P 500 TR USD
+1192,Columbia Small Cap Index A,Columbia,NMSAX,S&P 500 TR USD
+1193,Columbia Small Cap Value Fund I A,Columbia,CSMIX,S&P 500 TR USD
+1194,Columbia Small Cap Value Fund II A,Columbia,COVAX,S&P 500 TR USD
+1195,Columbia Small/Mid Cap Value A,Columbia,AMVAX,S&P 500 TR USD
+1196,Columbia Strategic Income A,Columbia,COSIX,Barclays US Agg Bond TR USD
+1197,Columbia Tax-Exempt A,Columbia,COLTX,Barclays Municipal TR USD
+1198,Columbia Thermostat Z,Columbia,COTZX,Morningstar Moderate Target Risk
+1199,Columbia US Government Mortgage A,Columbia,AUGAX,Barclays US Agg Bond TR USD
+1200,Columbia US Treasury Index Z,Columbia,IUTIX,Barclays US Agg Bond TR USD
+1201,Columbia Value and Restructuring Z,Columbia,UMBIX,S&P 500 TR USD
+1202,Oppenheimer Active Allc A,Oppenheimer Funds,OAAAX,Morningstar Moderate Target Risk
+1203,Oppenheimer Capital Appreciation A,Oppenheimer Funds,OPTFX,S&P 500 TR USD
+1204,Oppenheimer Capital Income A,Oppenheimer Funds,OPPEX,Morningstar Moderate Target Risk
+1205,Oppenheimer Commodity Strat Total Ret A,Oppenheimer Funds,QRAAX,Morningstar Long-Only Commodity TR
+1206,Oppenheimer Conservative Inv A,Oppenheimer Funds,OACIX,Morningstar Moderate Target Risk
+1207,Oppenheimer Core Bond A,Oppenheimer Funds,OPIGX,Barclays US Agg Bond TR USD
+1208,Oppenheimer Corporate Bond A,Oppenheimer Funds,OFIAX,Barclays US Agg Bond TR USD
+1209,Oppenheimer Developing Markets A,Oppenheimer Funds,ODMAX,MSCI ACWI Ex USA NR USD
+1210,Oppenheimer Discovery A,Oppenheimer Funds,OPOCX,S&P 500 TR USD
+1211,Oppenheimer Discovery Mid Cap Growth A,Oppenheimer Funds,OEGAX,S&P 500 TR USD
+1212,Oppenheimer Diversified Alts A,Oppenheimer Funds,ODAAX,Morningstar Moderate Target Risk
+1213,Oppenheimer Dividend Opportunity A,Oppenheimer Funds,OSVAX,S&P 500 TR USD
+1214,Oppenheimer Emerging Markets Lcl Dbt A,Oppenheimer Funds,OEMAX,Barclays US Agg Bond TR USD
+1215,Oppenheimer Equity A,Oppenheimer Funds,OEQAX,S&P 500 TR USD
+1216,Oppenheimer Equity Income A,Oppenheimer Funds,OAEIX,S&P 500 TR USD
+1217,Oppenheimer Equity Inv A,Oppenheimer Funds,OAAIX,MSCI ACWI Ex USA NR USD
+1218,Oppenheimer Flexible Strategies A,Oppenheimer Funds,QVOPX,Morningstar Moderate Target Risk
+1219,Oppenheimer Global A,Oppenheimer Funds,OPPAX,MSCI ACWI Ex USA NR USD
+1220,Oppenheimer Global Allocation A,Oppenheimer Funds,QVGIX,Morningstar Moderate Target Risk
+1221,Oppenheimer Global High Yield A,Oppenheimer Funds,OGYAX,Barclays US Agg Bond TR USD
+1222,Oppenheimer Global Multi Strategies A,Oppenheimer Funds,OARAX,Morningstar Moderate Target Risk
+1223,Oppenheimer Global Opportunities A,Oppenheimer Funds,OPGIX,MSCI ACWI Ex USA NR USD
+1224,Oppenheimer Global Real Estate A,Oppenheimer Funds,OGRAX,MSCI ACWI NR USD
+1225,Oppenheimer Global Strategic Inc A,Oppenheimer Funds,OPSIX,Barclays US Agg Bond TR USD
+1226,Oppenheimer Global Value A,Oppenheimer Funds,GLVAX,MSCI ACWI Ex USA NR USD
+1227,Oppenheimer Gold &amp; Special Minerals A,Oppenheimer Funds,OPGSX,MSCI ACWI NR USD
+1228,Oppenheimer International Bond A,Oppenheimer Funds,OIBAX,Barclays US Agg Bond TR USD
+1229,Oppenheimer International Diversified A,Oppenheimer Funds,OIDAX,MSCI ACWI Ex USA NR USD
+1230,Oppenheimer International Growth A,Oppenheimer Funds,OIGAX,MSCI ACWI Ex USA NR USD
+1231,Oppenheimer International Small Co A,Oppenheimer Funds,OSMAX,MSCI ACWI Ex USA NR USD
+1232,Oppenheimer International Value A,Oppenheimer Funds,QIVAX,MSCI ACWI Ex USA NR USD
+1233,Oppenheimer Limited-Term Bond A,Oppenheimer Funds,OUSGX,Barclays US Agg Bond TR USD
+1234,Oppenheimer Limited-Term Government A,Oppenheimer Funds,OPGVX,Barclays US Agg Bond TR USD
+1235,Oppenheimer Main Street A,Oppenheimer Funds,MSIGX,S&P 500 TR USD
+1236,Oppenheimer Main Street Mid Cap A,Oppenheimer Funds,OPMSX,S&P 500 TR USD
+1237,Oppenheimer Main Street Select A,Oppenheimer Funds,OMSOX,S&P 500 TR USD
+1238,Oppenheimer Main Street Small Cap A,Oppenheimer Funds,OSCAX,S&P 500 TR USD
+1239,Oppenheimer Moderate Inv A,Oppenheimer Funds,OAMIX,Morningstar Moderate Target Risk
+1240,Oppenheimer Real Estate A,Oppenheimer Funds,OREAX,MSCI ACWI NR USD
+1241,Oppenheimer Rising Dividends A,Oppenheimer Funds,OARDX,S&P 500 TR USD
+1242,Oppenheimer Rochester® AMT-Free Munis A,Oppenheimer Funds,OPTAX,Barclays Municipal TR USD
+1243,Oppenheimer Rochester® AMT-Free NY MuniA,Oppenheimer Funds,OPNYX,Barclays Municipal TR USD
+1244,Oppenheimer Rochester® AZ Municipal A,Oppenheimer Funds,ORAZX,Barclays Municipal TR USD
+1245,Oppenheimer Rochester® CA Municipal A,Oppenheimer Funds,OPCAX,Barclays Municipal TR USD
+1246,Oppenheimer Rochester® Fund Municipals A,Oppenheimer Funds,RMUNX,Barclays Municipal TR USD
+1247,Oppenheimer Rochester® High Yld Muni A,Oppenheimer Funds,ORNAX,Barclays Municipal TR USD
+1248,Oppenheimer Rochester® Interm Term MuniA,Oppenheimer Funds,ORRWX,Barclays Municipal TR USD
+1249,Oppenheimer Rochester® Ltd Term CA MuniA,Oppenheimer Funds,OLCAX,Barclays Municipal TR USD
+1250,Oppenheimer Rochester® Ltd Term Muni A,Oppenheimer Funds,OPITX,Barclays Municipal TR USD
+1251,Oppenheimer Rochester® LtdTerm NY MunisA,Oppenheimer Funds,LTNYX,Barclays Municipal TR USD
+1252,Oppenheimer Rochester® MA Municipal A,Oppenheimer Funds,ORMAX,Barclays Municipal TR USD
+1253,Oppenheimer Rochester® MD Municipal A,Oppenheimer Funds,ORMDX,Barclays Municipal TR USD
+1254,Oppenheimer Rochester® Michigan Muni A,Oppenheimer Funds,ORMIX,Barclays Municipal TR USD
+1255,Oppenheimer Rochester® MN Municipal A,Oppenheimer Funds,OPAMX,Barclays Municipal TR USD
+1256,Oppenheimer Rochester® NC Municipal A,Oppenheimer Funds,OPNCX,Barclays Municipal TR USD
+1257,Oppenheimer Rochester® NJ Municipal A,Oppenheimer Funds,ONJAX,Barclays Municipal TR USD
+1258,Oppenheimer Rochester® Ohio Municipal A,Oppenheimer Funds,OROHX,Barclays Municipal TR USD
+1259,Oppenheimer Rochester® PA Municipal A,Oppenheimer Funds,OPATX,Barclays Municipal TR USD
+1260,Oppenheimer Rochester® Short Term Muni A,Oppenheimer Funds,ORSTX,Barclays Municipal TR USD
+1261,Oppenheimer Rochester® VA Municipal A,Oppenheimer Funds,ORVAX,Barclays Municipal TR USD
+1262,Oppenheimer Senior Floating Rate A,Oppenheimer Funds,OOSAX,Barclays US Agg Bond TR USD
+1263,Oppenheimer Senior Floating Rt Pls A,Oppenheimer Funds,OSFAX,Barclays US Agg Bond TR USD
+1264,Oppenheimer Small &amp; Mid Cap Value A,Oppenheimer Funds,QVSCX,S&P 500 TR USD
+1265,Oppenheimer SteelPath MLP Alpha A,Oppenheimer Funds,MLPAX,MSCI ACWI NR USD
+1266,Oppenheimer SteelPath MLP Alpha Plus Y,Oppenheimer Funds,MLPNX,MSCI ACWI NR USD
+1267,Oppenheimer SteelPath MLP Income A,Oppenheimer Funds,MLPDX,MSCI ACWI NR USD
+1268,Oppenheimer SteelPath MLP Select 40 A,Oppenheimer Funds,MLPFX,MSCI ACWI NR USD
+1269,Oppenheimer Ultra-Short Duration Y,Oppenheimer Funds,OSDYX,Barclays US Agg Bond TR USD
+1270,Oppenheimer Value A,Oppenheimer Funds,CGRWX,S&P 500 TR USD
