@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FSTSX,MSCI ACWI Ex USA NR USD,84.2,0.82,5.29,16.91,USD,3,11.43,13.94,1.2,2.1,
+1,FSTSX,MSCI ACWI Ex USA NR USD,,,,,USD,5,,,,,
+2,FSTSX,MSCI ACWI Ex USA NR USD,,,,,USD,10,,,,,
+3,FSTSX,MSCI ACWI Ex USA NR USD,,,,,USD,15,,,,,

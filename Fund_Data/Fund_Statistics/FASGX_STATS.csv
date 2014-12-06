@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FASGX,Morningstar Moderate Target Risk,96.21,1.17,0.58,11.37,USD,3,7.62,13.37,1.68,3.22,
+1,FASGX,Morningstar Moderate Target Risk,97.73,1.28,-0.74,8.38,USD,5,10.92,10.79,0.99,1.7,23.00
+2,FASGX,Morningstar Moderate Target Risk,96.06,1.3,-2.05,3.57,USD,10,12.76,6.14,0.41,0.58,
+3,FASGX,Morningstar Moderate Target Risk,92.65,1.33,-3.09,1.7,USD,15,13.11,4.23,0.23,0.32,

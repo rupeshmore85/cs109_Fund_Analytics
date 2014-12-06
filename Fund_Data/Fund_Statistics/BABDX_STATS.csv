@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,BABDX,MSCI ACWI Ex USA NR USD,65.06,0.57,6.26,21.75,USD,3,8.98,12.39,1.34,2.26,
+1,BABDX,MSCI ACWI Ex USA NR USD,77.58,0.58,6.93,18.65,USD,5,10.75,10.84,1.01,1.7,21.00
+2,BABDX,MSCI ACWI Ex USA NR USD,,,,,USD,10,,,,,
+3,BABDX,MSCI ACWI Ex USA NR USD,,,,,USD,15,,,,,

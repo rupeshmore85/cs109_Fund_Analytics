@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FLVAX,S&P 500 TR USD,91.96,1.07,-3.46,17.09,USD,3,10.10,18.37,1.72,3.04,
+1,FLVAX,S&P 500 TR USD,91.96,1.07,-3.46,17.09,USD,5,14.51,12.48,0.88,1.42,70.00
+2,FLVAX,S&P 500 TR USD,91.96,1.07,-3.46,17.09,USD,10,15.95,5.49,0.32,0.45,
+3,FLVAX,S&P 500 TR USD,91.96,1.07,-3.46,17.09,USD,15,,,,,

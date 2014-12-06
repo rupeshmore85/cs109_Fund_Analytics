@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,JEPAX,S&P 500 TR USD,96.61,1.10,-1.06,19.82,USD,3,10.12,21.87,2.01,3.82,
+1,JEPAX,S&P 500 TR USD,96.61,1.10,-1.06,19.82,USD,5,,,,,
+2,JEPAX,S&P 500 TR USD,96.61,1.10,-1.06,19.82,USD,10,,,,,
+3,JEPAX,S&P 500 TR USD,96.61,1.10,-1.06,19.82,USD,15,,,,,

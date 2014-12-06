@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,HSKAX,Barclays US Agg Bond TR USD,0.03,0.02,-0.0,0.35,USD,3,3.23,0.07,0.02,0.02,
+1,HSKAX,Barclays US Agg Bond TR USD,0.04,-0.02,-1.48,75.09,USD,5,3.17,-1.53,-0.49,-0.6,2.00
+2,HSKAX,Barclays US Agg Bond TR USD,,,,,USD,10,,,,,
+3,HSKAX,Barclays US Agg Bond TR USD,,,,,USD,15,,,,,

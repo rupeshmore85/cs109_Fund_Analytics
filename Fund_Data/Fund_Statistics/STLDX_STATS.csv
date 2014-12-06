@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,STLDX,Morningstar Moderate Target Risk,97.7,1.12,-1.16,9.65,USD,3,7.26,10.91,1.46,2.5,
+1,STLDX,Morningstar Moderate Target Risk,98.43,1.23,-1.92,7.31,USD,5,10.44,9.05,0.88,1.44,24.00
+2,STLDX,Morningstar Moderate Target Risk,98.0,1.29,-2.54,3.17,USD,10,12.62,5.62,0.38,0.52,
+3,STLDX,Morningstar Moderate Target Risk,97.34,1.33,-3.6,1.33,USD,15,12.76,3.73,0.2,0.27,

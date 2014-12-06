@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,ABUAX,Morningstar Moderate Target Risk,97.74,0.89,0.86,11.79,USD,3,5.76,10.59,1.77,3.21,
+1,ABUAX,Morningstar Moderate Target Risk,98.75,0.94,0.51,9.62,USD,5,8.02,9.16,1.13,1.95,13.00
+2,ABUAX,Morningstar Moderate Target Risk,98.24,0.96,-0.3,5.07,USD,10,9.34,6.39,0.55,0.79,
+3,ABUAX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

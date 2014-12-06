@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FSDAX,MSCI ACWI NR USD,52.79,0.78,7.98,25.95,USD,3,11.26,20.24,1.7,3.22,
+1,FSDAX,MSCI ACWI NR USD,72.05,0.88,9.12,21.34,USD,5,15.05,18.84,1.22,2.19,41.00
+2,FSDAX,MSCI ACWI NR USD,70.98,0.94,4.75,10.12,USD,10,18.49,11.06,0.58,0.82,
+3,FSDAX,MSCI ACWI NR USD,62.59,0.87,8.54,11.93,USD,15,18.06,12.34,0.63,0.93,

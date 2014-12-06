@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FSAEX,S&P 500 TR USD,96.24,1.03,-0.69,20.09,USD,3,9.52,20.81,2.04,4.05,
+1,FSAEX,S&P 500 TR USD,96.24,1.03,-0.69,20.09,USD,5,13.89,15.71,1.12,1.91,53.00
+2,FSAEX,S&P 500 TR USD,96.24,1.03,-0.69,20.09,USD,10,,,,,
+3,FSAEX,S&P 500 TR USD,96.24,1.03,-0.69,20.09,USD,15,,,,,

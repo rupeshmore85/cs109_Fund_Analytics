@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,TEMMX,MSCI ACWI Ex USA NR USD,73.32,0.91,1.82,11.80,USD,3,13.57,10.8,0.82,1.33,
+1,TEMMX,MSCI ACWI Ex USA NR USD,74.73,0.96,2.75,8.16,USD,5,18.25,7.92,0.51,0.73,70.00
+2,TEMMX,MSCI ACWI Ex USA NR USD,,,,,USD,10,,,,,
+3,TEMMX,MSCI ACWI Ex USA NR USD,,,,,USD,15,,,,,

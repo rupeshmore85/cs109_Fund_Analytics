@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,BGSAX,MSCI ACWI NR USD,45.61,0.98,3.61,18.22,USD,3,15.22,17.87,1.16,1.94,
+1,BGSAX,MSCI ACWI NR USD,67.73,1.0,3.86,13.69,USD,5,17.75,13.84,0.82,1.37,54.00
+2,BGSAX,MSCI ACWI NR USD,74.92,0.96,3.21,8.38,USD,10,18.32,9.57,0.51,0.76,
+3,BGSAX,MSCI ACWI NR USD,,,,,USD,15,,,,,

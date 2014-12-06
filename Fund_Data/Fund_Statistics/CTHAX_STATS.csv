@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,CTHAX,Morningstar Moderate Target Risk,,,,,USD,3,,,,,
+1,CTHAX,Morningstar Moderate Target Risk,,,,,USD,5,,,,,
+2,CTHAX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,CTHAX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

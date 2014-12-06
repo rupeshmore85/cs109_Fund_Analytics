@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,AALTX,Morningstar Moderate Target Risk,95.56,1.3,2.23,12.80,USD,3,8.46,16.66,1.87,3.46,
+1,AALTX,Morningstar Moderate Target Risk,97.52,1.39,-0.35,8.73,USD,5,11.89,12.21,1.03,1.72,30.00
+2,AALTX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,AALTX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

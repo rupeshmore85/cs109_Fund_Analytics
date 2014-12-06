@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VQNPX,S&P 500 TR USD,99.20,1.02,0.24,21.16,USD,3,9.22,21.55,2.17,4.17,
+1,VQNPX,S&P 500 TR USD,99.20,1.02,0.24,21.16,USD,5,13.12,16.31,1.22,2.10,42.00
+2,VQNPX,S&P 500 TR USD,99.20,1.02,0.24,21.16,USD,10,15.06,7.28,0.44,0.61,
+3,VQNPX,S&P 500 TR USD,99.20,1.02,0.24,21.16,USD,15,15.56,4.48,0.23,0.32,

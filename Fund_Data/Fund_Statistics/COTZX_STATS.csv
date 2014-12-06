@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,COTZX,Morningstar Moderate Target Risk,86.0,0.68,2.12,14.00,USD,3,4.69,9.61,1.97,3.78,
+1,COTZX,Morningstar Moderate Target Risk,86.38,0.98,1.62,10.78,USD,5,8.88,10.61,1.18,2.16,13.00
+2,COTZX,Morningstar Moderate Target Risk,90.29,1.17,-0.88,4.46,USD,10,11.87,6.74,0.48,0.68,
+3,COTZX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

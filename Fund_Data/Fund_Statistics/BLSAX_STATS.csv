@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,BLSAX,Barclays US Agg Bond TR USD,3.75,0.33,0.86,5.26,USD,3,4.65,1.81,0.4,0.66,
+1,BLSAX,Barclays US Agg Bond TR USD,,,,,USD,5,,,,,
+2,BLSAX,Barclays US Agg Bond TR USD,,,,,USD,10,,,,,
+3,BLSAX,Barclays US Agg Bond TR USD,,,,,USD,15,,,,,

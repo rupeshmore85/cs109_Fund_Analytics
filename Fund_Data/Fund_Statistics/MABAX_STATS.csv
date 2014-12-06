@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,MABAX,S&P 500 TR USD,88.55,1.11,-2.41,18.34,USD,3,10.67,20.43,1.80,3.15,
+1,MABAX,S&P 500 TR USD,88.55,1.11,-2.41,18.34,USD,5,14.65,14.34,0.99,1.62,68.00
+2,MABAX,S&P 500 TR USD,88.55,1.11,-2.41,18.34,USD,10,15.66,7.63,0.45,0.64,
+3,MABAX,S&P 500 TR USD,88.55,1.11,-2.41,18.34,USD,15,16.04,6.52,0.35,0.50,

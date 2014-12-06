@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FNGAX,MSCI ACWI Ex USA NR USD,88.91,0.94,-0.39,9.34,USD,3,12.77,8.86,0.73,1.08,
+1,FNGAX,MSCI ACWI Ex USA NR USD,91.99,0.94,0.85,6.47,USD,5,16.14,6.18,0.45,0.66,72.00
+2,FNGAX,MSCI ACWI Ex USA NR USD,,,,,USD,10,,,,,
+3,FNGAX,MSCI ACWI Ex USA NR USD,,,,,USD,15,,,,,

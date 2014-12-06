@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FCVSX,Morningstar Moderate Target Risk,66.25,1.12,4.17,14.88,USD,3,8.82,16.8,1.81,3.82,
+1,FCVSX,Morningstar Moderate Target Risk,81.72,1.31,1.05,9.8,USD,5,12.26,12.95,1.05,1.77,24.00
+2,FCVSX,Morningstar Moderate Target Risk,79.1,1.61,-1.04,4.2,USD,10,17.54,8.3,0.46,0.62,
+3,FCVSX,Morningstar Moderate Target Risk,71.55,1.59,0.28,3.95,USD,15,17.85,8.23,0.43,0.61,

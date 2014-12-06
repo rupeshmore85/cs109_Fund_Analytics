@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VWAHX,Barclays Municipal TR USD,98.24,1.16,0.54,5.21,USD,3,4.5,6.13,1.34,2.28,
+1,VWAHX,Barclays Municipal TR USD,96.72,1.13,0.3,5.33,USD,5,4.36,6.1,1.37,2.29,62.00
+2,VWAHX,Barclays Municipal TR USD,89.73,1.15,-0.29,3.01,USD,10,5.31,4.99,0.65,0.98,
+3,VWAHX,Barclays Municipal TR USD,89.37,1.07,-0.21,3.27,USD,15,4.97,5.48,0.7,1.07,

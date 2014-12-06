@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FSTMX,S&P 500 TR USD,98.71,1.04,-0.84,19.94,USD,3,9.42,20.69,2.05,3.98,
+1,FSTMX,S&P 500 TR USD,98.71,1.04,-0.84,19.94,USD,5,13.53,16.28,1.18,2.05,43.00
+2,FSTMX,S&P 500 TR USD,98.71,1.04,-0.84,19.94,USD,10,15.22,8.42,0.51,0.72,
+3,FSTMX,S&P 500 TR USD,98.71,1.04,-0.84,19.94,USD,15,15.81,5.23,0.28,0.38,

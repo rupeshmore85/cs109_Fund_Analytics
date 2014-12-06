@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PONAX,Barclays US Agg Bond TR USD,33.89,0.85,8.67,13.75,USD,3,3.96,11.74,2.82,5.76,
+1,PONAX,Barclays US Agg Bond TR USD,23.93,0.73,8.38,16.16,USD,5,4.22,11.88,2.68,6.36,30.00
+2,PONAX,Barclays US Agg Bond TR USD,,,,,USD,10,,,,,
+3,PONAX,Barclays US Agg Bond TR USD,,,,,USD,15,,,,,

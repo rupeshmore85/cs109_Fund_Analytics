@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,JIISX,S&P 500 TR USD,96.07,1.06,0.60,21.61,USD,3,9.78,22.97,2.17,4.45,
+1,JIISX,S&P 500 TR USD,96.07,1.06,0.60,21.61,USD,5,14.50,17.08,1.16,1.98,66.00
+2,JIISX,S&P 500 TR USD,96.07,1.06,0.60,21.61,USD,10,15.97,7.64,0.45,0.62,
+3,JIISX,S&P 500 TR USD,96.07,1.06,0.60,21.61,USD,15,,,,,

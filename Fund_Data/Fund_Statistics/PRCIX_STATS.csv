@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PRCIX,Barclays US Agg Bond TR USD,93.64,1.05,0.39,3.32,USD,3,2.94,3.54,1.18,1.86,
+1,PRCIX,Barclays US Agg Bond TR USD,88.54,0.94,0.47,4.54,USD,5,2.8,4.33,1.5,2.62,57.00
+2,PRCIX,Barclays US Agg Bond TR USD,86.58,0.97,0.32,3.61,USD,10,3.36,5.03,1.01,1.64,
+3,PRCIX,Barclays US Agg Bond TR USD,89.55,0.96,0.18,3.88,USD,15,3.55,5.71,1.03,1.66,

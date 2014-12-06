@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FMILX,S&P 500 TR USD,84.80,1.04,-1.59,19.01,USD,3,10.20,19.81,1.83,3.60,
+1,FMILX,S&P 500 TR USD,84.80,1.04,-1.59,19.01,USD,5,13.88,16.89,1.19,2.10,39.00
+2,FMILX,S&P 500 TR USD,84.80,1.04,-1.59,19.01,USD,10,17.37,10.11,0.56,0.80,
+3,FMILX,S&P 500 TR USD,84.80,1.04,-1.59,19.01,USD,15,23.81,7.31,0.33,0.51,

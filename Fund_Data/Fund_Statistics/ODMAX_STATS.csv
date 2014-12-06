@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,ODMAX,MSCI ACWI Ex USA NR USD,85.49,1.04,-1.2,8.45,USD,3,14.33,8.82,0.66,1.02,
+1,ODMAX,MSCI ACWI Ex USA NR USD,86.55,1.0,2.05,7.53,USD,5,17.67,7.61,0.5,0.79,76.00
+2,ODMAX,MSCI ACWI Ex USA NR USD,88.34,1.12,6.29,10.08,USD,10,22.38,12.78,0.59,0.89,
+3,ODMAX,MSCI ACWI Ex USA NR USD,81.85,1.12,9.44,10.69,USD,15,22.41,13.93,0.61,0.94,

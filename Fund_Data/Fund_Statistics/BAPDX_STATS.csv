@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,BAPDX,Morningstar Moderate Target Risk,96.85,1.04,0.12,10.90,USD,3,6.78,11.45,1.63,2.86,
+1,BAPDX,Morningstar Moderate Target Risk,97.2,1.12,-0.53,8.51,USD,5,9.58,9.6,1.0,1.68,21.00
+2,BAPDX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,BAPDX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

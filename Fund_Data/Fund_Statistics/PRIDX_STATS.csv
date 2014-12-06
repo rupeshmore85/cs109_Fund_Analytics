@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PRIDX,MSCI ACWI Ex USA NR USD,85.11,0.83,6.48,18.48,USD,3,11.47,15.37,1.3,2.24,
+1,PRIDX,MSCI ACWI Ex USA NR USD,90.94,0.88,5.1,11.76,USD,5,15.24,10.48,0.73,1.13,46.00
+2,PRIDX,MSCI ACWI Ex USA NR USD,92.97,0.98,3.67,8.35,USD,10,19.11,9.7,0.5,0.71,
+3,PRIDX,MSCI ACWI Ex USA NR USD,81.07,1.02,4.02,5.92,USD,15,20.48,8.01,0.38,0.56,

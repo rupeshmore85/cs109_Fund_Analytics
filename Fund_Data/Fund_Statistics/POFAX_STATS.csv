@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,POFAX,Morningstar Moderate Target Risk,78.6,0.99,-1.46,9.10,USD,3,7.15,9.1,1.25,2.1,
+1,POFAX,Morningstar Moderate Target Risk,84.81,0.91,-0.68,8.17,USD,5,8.32,7.5,0.9,1.42,10.00
+2,POFAX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,POFAX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

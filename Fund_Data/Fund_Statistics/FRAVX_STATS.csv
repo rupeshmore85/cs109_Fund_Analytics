@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FRAVX,S&P 500 TR USD,74.43,1.09,-6.00,14.34,USD,3,11.43,15.70,1.33,2.27,
+1,FRAVX,S&P 500 TR USD,74.43,1.09,-6.00,14.34,USD,5,14.51,13.12,0.92,1.51,45.00
+2,FRAVX,S&P 500 TR USD,74.43,1.09,-6.00,14.34,USD,10,,,,,
+3,FRAVX,S&P 500 TR USD,74.43,1.09,-6.00,14.34,USD,15,,,,,

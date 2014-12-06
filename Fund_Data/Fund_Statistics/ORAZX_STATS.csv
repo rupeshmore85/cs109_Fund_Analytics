@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,ORAZX,Barclays Municipal TR USD,76.81,1.66,-2.64,3.02,USD,3,7.26,5.08,0.71,1.04,
+1,ORAZX,Barclays Municipal TR USD,77.3,1.62,-1.46,4.08,USD,5,7.0,6.69,0.95,1.42,85.00
+2,ORAZX,Barclays Municipal TR USD,,,,,USD,10,,,,,
+3,ORAZX,Barclays Municipal TR USD,,,,,USD,15,,,,,

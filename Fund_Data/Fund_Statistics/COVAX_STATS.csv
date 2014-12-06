@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,COVAX,S&P 500 TR USD,70.47,1.15,-4.79,15.88,USD,3,12.40,18.34,1.42,2.58,
+1,COVAX,S&P 500 TR USD,70.47,1.15,-4.79,15.88,USD,5,18.53,16.42,0.91,1.51,92.00
+2,COVAX,S&P 500 TR USD,70.47,1.15,-4.79,15.88,USD,10,19.54,8.24,0.43,0.61,
+3,COVAX,S&P 500 TR USD,70.47,1.15,-4.79,15.88,USD,15,,,,,

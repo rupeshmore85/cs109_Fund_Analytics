@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,AMRMX,S&P 500 TR USD,88.51,0.78,2.01,23.49,USD,3,7.50,18.38,2.30,4.58,
+1,AMRMX,S&P 500 TR USD,88.51,0.78,2.01,23.49,USD,5,10.53,14.37,1.33,2.35,23.00
+2,AMRMX,S&P 500 TR USD,88.51,0.78,2.01,23.49,USD,10,12.11,8.06,0.58,0.82,
+3,AMRMX,S&P 500 TR USD,88.51,0.78,2.01,23.49,USD,15,12.14,7.37,0.49,0.69,

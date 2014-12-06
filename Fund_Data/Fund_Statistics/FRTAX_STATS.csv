@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FRTAX,Morningstar Moderate Target Risk,89.99,1.2,-0.7,10.15,USD,3,8.08,12.26,1.47,2.62,
+1,FRTAX,Morningstar Moderate Target Risk,95.09,1.31,-1.29,7.91,USD,5,11.3,10.41,0.93,1.56,26.00
+2,FRTAX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,FRTAX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

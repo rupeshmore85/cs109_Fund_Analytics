@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FDMMX,Barclays Municipal TR USD,98.63,1.12,-0.46,4.29,USD,3,4.29,4.85,1.11,1.92,
+1,FDMMX,Barclays Municipal TR USD,98.15,1.06,-0.35,4.7,USD,5,4.05,5.06,1.22,2.15,68.00
+2,FDMMX,Barclays Municipal TR USD,98.54,1.01,-0.2,3.08,USD,10,4.44,4.64,0.69,1.04,
+3,FDMMX,Barclays Municipal TR USD,98.69,1.02,-0.21,3.28,USD,15,4.52,5.32,0.74,1.11,

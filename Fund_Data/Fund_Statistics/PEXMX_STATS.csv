@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PEXMX,S&P 500 TR USD,78.42,1.19,-3.66,17.26,USD,3,12.14,20.58,1.61,3.07,
+1,PEXMX,S&P 500 TR USD,78.42,1.19,-3.66,17.26,USD,5,16.93,18.26,1.08,1.86,74.00
+2,PEXMX,S&P 500 TR USD,78.42,1.19,-3.66,17.26,USD,10,18.62,9.60,0.51,0.73,
+3,PEXMX,S&P 500 TR USD,78.42,1.19,-3.66,17.26,USD,15,20.34,7.27,0.35,0.50,

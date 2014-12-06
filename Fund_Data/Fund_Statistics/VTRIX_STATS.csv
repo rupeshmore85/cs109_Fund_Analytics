@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VTRIX,MSCI ACWI Ex USA NR USD,96.39,1.03,1.6,11.53,USD,3,13.35,11.9,0.91,1.48,
+1,VTRIX,MSCI ACWI Ex USA NR USD,97.06,1.04,0.13,5.6,USD,5,17.37,5.91,0.41,0.63,91.00
+2,VTRIX,MSCI ACWI Ex USA NR USD,97.34,0.99,0.22,4.64,USD,10,18.93,6.13,0.33,0.47,
+3,VTRIX,MSCI ACWI Ex USA NR USD,93.86,0.98,1.18,3.37,USD,15,18.36,5.28,0.27,0.38,

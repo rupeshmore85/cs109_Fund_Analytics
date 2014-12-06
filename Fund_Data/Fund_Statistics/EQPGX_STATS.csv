@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,EQPGX,S&P 500 TR USD,67.81,1.03,-1.01,19.51,USD,3,11.30,20.14,1.68,3.30,
+1,EQPGX,S&P 500 TR USD,67.81,1.03,-1.01,19.51,USD,5,15.46,17.79,1.14,2.02,50.00
+2,EQPGX,S&P 500 TR USD,67.81,1.03,-1.01,19.51,USD,10,16.86,8.20,0.46,0.67,
+3,EQPGX,S&P 500 TR USD,67.81,1.03,-1.01,19.51,USD,15,18.31,3.37,0.17,0.23,

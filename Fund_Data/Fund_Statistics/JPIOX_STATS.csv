@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,JPIOX,MSCI ACWI Ex USA NR USD,92.65,1.0,1.11,11.02,USD,3,13.23,11.05,0.86,1.34,
+1,JPIOX,MSCI ACWI Ex USA NR USD,95.52,1.04,0.54,5.99,USD,5,17.45,6.3,0.43,0.65,92.00
+2,JPIOX,MSCI ACWI Ex USA NR USD,95.61,0.97,-0.09,4.32,USD,10,18.64,5.71,0.31,0.44,
+3,JPIOX,MSCI ACWI Ex USA NR USD,95.77,0.99,-0.79,1.32,USD,15,18.23,3.27,0.16,0.22,

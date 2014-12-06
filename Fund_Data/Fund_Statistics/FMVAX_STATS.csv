@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FMVAX,S&P 500 TR USD,82.89,0.96,-2.00,18.25,USD,3,9.49,17.49,1.75,3.04,
+1,FMVAX,S&P 500 TR USD,82.89,0.96,-2.00,18.25,USD,5,14.22,14.32,1.01,1.66,52.00
+2,FMVAX,S&P 500 TR USD,82.89,0.96,-2.00,18.25,USD,10,,,,,
+3,FMVAX,S&P 500 TR USD,82.89,0.96,-2.00,18.25,USD,15,,,,,

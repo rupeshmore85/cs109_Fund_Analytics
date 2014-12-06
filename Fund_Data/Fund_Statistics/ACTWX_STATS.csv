@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,ACTWX,S&P 500 TR USD,68.90,1.14,-5.75,14.84,USD,3,12.42,16.98,1.33,2.79,
+1,ACTWX,S&P 500 TR USD,68.90,1.14,-5.75,14.84,USD,5,17.98,11.88,0.71,1.17,91.00
+2,ACTWX,S&P 500 TR USD,68.90,1.14,-5.75,14.84,USD,10,20.39,7.63,0.39,0.55,
+3,ACTWX,S&P 500 TR USD,68.90,1.14,-5.75,14.84,USD,15,18.84,8.99,0.45,0.65,

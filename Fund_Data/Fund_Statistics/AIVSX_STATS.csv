@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,AIVSX,S&P 500 TR USD,95.63,0.92,1.39,22.52,USD,3,8.53,20.83,2.27,4.51,
+1,AIVSX,S&P 500 TR USD,95.63,0.92,1.39,22.52,USD,5,12.83,14.32,1.11,1.89,37.00
+2,AIVSX,S&P 500 TR USD,95.63,0.92,1.39,22.52,USD,10,13.60,7.82,0.51,0.73,
+3,AIVSX,S&P 500 TR USD,95.63,0.92,1.39,22.52,USD,15,13.39,6.49,0.39,0.56,

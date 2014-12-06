@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PIXAX,S&P 500 TR USD,90.71,1.06,2.62,23.91,USD,3,10.01,25.28,2.32,4.59,
+1,PIXAX,S&P 500 TR USD,90.71,1.06,2.62,23.91,USD,5,14.22,21.48,1.44,2.65,30.00
+2,PIXAX,S&P 500 TR USD,90.71,1.06,2.62,23.91,USD,10,,,,,
+3,PIXAX,S&P 500 TR USD,90.71,1.06,2.62,23.91,USD,15,,,,,

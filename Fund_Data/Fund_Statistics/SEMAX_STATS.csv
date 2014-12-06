@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,SEMAX,Barclays Municipal TR USD,95.68,0.88,-0.94,3.61,USD,3,3.43,3.22,0.92,1.53,
+1,SEMAX,Barclays Municipal TR USD,92.96,0.88,-0.66,4.27,USD,5,3.46,3.84,1.08,1.92,55.00
+2,SEMAX,Barclays Municipal TR USD,92.55,0.92,-0.62,2.59,USD,10,4.19,3.92,0.57,0.86,
+3,SEMAX,Barclays Municipal TR USD,93.95,0.93,-0.72,2.68,USD,15,4.2,4.46,0.59,0.9,

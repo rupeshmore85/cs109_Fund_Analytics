@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FKUSX,Barclays US Agg Bond TR USD,76.46,0.68,-0.48,2.22,USD,3,2.1,1.57,0.72,1.16,
+1,FKUSX,Barclays US Agg Bond TR USD,74.79,0.72,0.09,4.14,USD,5,2.33,3.03,1.26,2.26,45.00
+2,FKUSX,Barclays US Agg Bond TR USD,77.61,0.7,0.35,3.79,USD,10,2.55,4.17,1.0,1.9,
+3,FKUSX,Barclays US Agg Bond TR USD,79.92,0.68,0.39,4.28,USD,15,2.66,4.86,1.07,1.87,

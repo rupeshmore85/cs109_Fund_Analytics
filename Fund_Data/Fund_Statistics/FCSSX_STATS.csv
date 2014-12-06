@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FCSSX,Morningstar Long-Only Commodity TR,88.12,0.85,-3.68,-10.29,USD,3,12.03,-8.71,-0.7,-0.86,
+1,FCSSX,Morningstar Long-Only Commodity TR,93.07,0.93,-4.12,-4.63,USD,5,15.38,-4.24,-0.21,-0.27,32.00
+2,FCSSX,Morningstar Long-Only Commodity TR,,,,,USD,10,,,,,
+3,FCSSX,Morningstar Long-Only Commodity TR,,,,,USD,15,,,,,

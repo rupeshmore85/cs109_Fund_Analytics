@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VIGRX,S&P 500 TR USD,89.94,1.06,-1.26,19.48,USD,3,10.11,20.72,1.92,3.86,
+1,VIGRX,S&P 500 TR USD,89.94,1.06,-1.26,19.48,USD,5,14.01,16.83,1.18,2.09,48.00
+2,VIGRX,S&P 500 TR USD,89.94,1.06,-1.26,19.48,USD,10,15.20,9.00,0.54,0.79,
+3,VIGRX,S&P 500 TR USD,89.94,1.06,-1.26,19.48,USD,15,16.44,3.67,0.18,0.25,

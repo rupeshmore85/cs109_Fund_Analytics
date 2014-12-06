@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,CAIBX,Morningstar Moderate Target Risk,74.2,0.99,1.51,12.38,USD,3,7.36,12.35,1.62,2.99,
+1,CAIBX,Morningstar Moderate Target Risk,84.24,1.0,0.51,9.52,USD,5,9.15,9.55,1.04,1.79,14.00
+2,CAIBX,Morningstar Moderate Target Risk,89.53,1.08,-0.33,4.97,USD,10,11.03,6.88,0.52,0.73,
+3,CAIBX,Morningstar Moderate Target Risk,78.22,0.94,2.04,6.51,USD,15,10.16,8.12,0.63,0.91,

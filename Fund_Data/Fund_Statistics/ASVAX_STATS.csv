@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,ASVAX,S&P 500 TR USD,73.29,1.21,-6.40,14.63,USD,3,12.82,17.81,1.35,2.28,
+1,ASVAX,S&P 500 TR USD,73.29,1.21,-6.40,14.63,USD,5,18.23,15.11,0.86,1.40,88.00
+2,ASVAX,S&P 500 TR USD,73.29,1.21,-6.40,14.63,USD,10,19.69,7.91,0.41,0.60,
+3,ASVAX,S&P 500 TR USD,73.29,1.21,-6.40,14.63,USD,15,,,,,

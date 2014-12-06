@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FLCIX,S&P 500 TR USD,90.40,1.14,-6.05,14.68,USD,3,10.81,16.75,1.49,2.70,
+1,FLCIX,S&P 500 TR USD,90.40,1.14,-6.05,14.68,USD,5,14.46,12.74,0.90,1.48,65.00
+2,FLCIX,S&P 500 TR USD,90.40,1.14,-6.05,14.68,USD,10,15.29,6.44,0.39,0.55,
+3,FLCIX,S&P 500 TR USD,90.40,1.14,-6.05,14.68,USD,15,15.29,3.97,0.20,0.28,

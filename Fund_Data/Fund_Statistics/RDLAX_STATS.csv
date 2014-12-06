@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,RDLAX,S&P 500 TR USD,92.00,1.08,-1.17,19.64,USD,3,10.23,21.38,1.95,3.93,
+1,RDLAX,S&P 500 TR USD,92.00,1.08,-1.17,19.64,USD,5,14.18,16.76,1.16,2.04,56.00
+2,RDLAX,S&P 500 TR USD,92.00,1.08,-1.17,19.64,USD,10,,,,,
+3,RDLAX,S&P 500 TR USD,92.00,1.08,-1.17,19.64,USD,15,,,,,

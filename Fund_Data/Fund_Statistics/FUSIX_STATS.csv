@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FUSIX,MSCI ACWI Ex USA NR USD,93.05,0.95,3.12,13.44,USD,3,12.6,12.85,1.02,1.68,
+1,FUSIX,MSCI ACWI Ex USA NR USD,96.36,1.01,1.4,6.97,USD,5,16.87,7.1,0.49,0.74,90.00
+2,FUSIX,MSCI ACWI Ex USA NR USD,,,,,USD,10,,,,,
+3,FUSIX,MSCI ACWI Ex USA NR USD,,,,,USD,15,,,,,

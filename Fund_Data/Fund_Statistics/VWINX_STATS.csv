@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VWINX,Morningstar Moderate Target Risk,66.43,0.52,4.18,19.13,USD,3,4.1,10.07,2.36,4.91,
+1,VWINX,Morningstar Moderate Target Risk,73.44,0.47,4.91,19.98,USD,5,4.67,9.55,1.97,4.23,2.00
+2,VWINX,Morningstar Moderate Target Risk,78.7,0.57,2.62,10.32,USD,10,6.18,7.42,0.94,1.44,
+3,VWINX,Morningstar Moderate Target Risk,60.39,0.5,3.42,11.67,USD,15,6.03,7.74,0.94,1.5,

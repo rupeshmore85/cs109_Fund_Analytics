@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,INEGX,S&P 500 TR USD,92.61,1.05,-4.52,15.84,USD,3,9.89,16.74,1.62,2.90,
+1,INEGX,S&P 500 TR USD,92.61,1.05,-4.52,15.84,USD,5,14.89,11.43,0.80,1.29,73.00
+2,INEGX,S&P 500 TR USD,92.61,1.05,-4.52,15.84,USD,10,16.24,6.43,0.37,0.52,
+3,INEGX,S&P 500 TR USD,92.61,1.05,-4.52,15.84,USD,15,16.73,4.41,0.23,0.32,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,RPMGX,S&P 500 TR USD,74.70,1.03,-0.95,19.64,USD,3,10.74,20.21,1.77,3.58,
+1,RPMGX,S&P 500 TR USD,74.70,1.03,-0.95,19.64,USD,5,14.85,18.48,1.22,2.25,34.00
+2,RPMGX,S&P 500 TR USD,74.70,1.03,-0.95,19.64,USD,10,17.11,11.26,0.62,0.91,
+3,RPMGX,S&P 500 TR USD,74.70,1.03,-0.95,19.64,USD,15,18.12,10.18,0.52,0.76,

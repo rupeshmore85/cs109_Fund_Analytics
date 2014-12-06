@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,RRIAX,S&P 500 TR USD,61.08,1.25,-4.73,16.25,USD,3,14.48,20.39,1.36,2.60,
+1,RRIAX,S&P 500 TR USD,61.08,1.25,-4.73,16.25,USD,5,21.22,16.17,0.81,1.34,97.00
+2,RRIAX,S&P 500 TR USD,61.08,1.25,-4.73,16.25,USD,10,,,,,
+3,RRIAX,S&P 500 TR USD,61.08,1.25,-4.73,16.25,USD,15,,,,,

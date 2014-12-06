@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FKINX,Morningstar Moderate Target Risk,79.0,0.95,1.74,12.71,USD,3,6.84,12.16,1.71,3.34,
+1,FKINX,Morningstar Moderate Target Risk,85.58,0.97,1.67,10.85,USD,5,8.84,10.58,1.18,2.08,10.00
+2,FKINX,Morningstar Moderate Target Risk,83.91,1.1,-0.27,4.99,USD,10,11.54,6.98,0.51,0.72,
+3,FKINX,Morningstar Moderate Target Risk,71.51,0.95,2.4,6.85,USD,15,10.67,8.48,0.64,0.91,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FASIX,Morningstar Moderate Target Risk,81.46,0.4,1.33,14.06,USD,3,2.83,5.69,1.95,4.0,
+1,FASIX,Morningstar Moderate Target Risk,89.28,0.39,2.0,14.36,USD,5,3.49,5.68,1.58,3.18,3.00
+2,FASIX,Morningstar Moderate Target Risk,87.44,0.49,0.76,7.19,USD,10,4.99,5.02,0.7,1.01,
+3,FASIX,Morningstar Moderate Target Risk,85.69,0.48,0.84,6.3,USD,15,4.91,5.01,0.62,0.91,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,JLTAX,MSCI ACWI Ex USA NR USD,68.2,1.19,-12.0,-1.21,USD,3,18.47,-1.38,0.01,0.02,
+1,JLTAX,MSCI ACWI Ex USA NR USD,72.61,1.12,-5.48,-0.19,USD,5,21.66,-0.13,0.1,0.14,94.00
+2,JLTAX,MSCI ACWI Ex USA NR USD,,,,,USD,10,,,,,
+3,JLTAX,MSCI ACWI Ex USA NR USD,,,,,USD,15,,,,,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PACIX,Morningstar Moderate Target Risk,77.72,1.1,3.49,14.31,USD,3,7.94,15.76,1.88,3.89,
+1,PACIX,Morningstar Moderate Target Risk,87.6,1.16,1.66,10.54,USD,5,10.45,12.3,1.16,1.99,16.00
+2,PACIX,Morningstar Moderate Target Risk,83.29,1.14,-0.79,4.47,USD,10,12.04,6.61,0.47,0.63,
+3,PACIX,Morningstar Moderate Target Risk,77.73,1.09,0.22,4.34,USD,15,11.73,6.7,0.45,0.63,

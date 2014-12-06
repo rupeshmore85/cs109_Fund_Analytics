@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,OPOCX,S&P 500 TR USD,49.35,1.12,-4.72,15.48,USD,3,14.40,17.37,1.19,1.98,
+1,OPOCX,S&P 500 TR USD,49.35,1.12,-4.72,15.48,USD,5,17.57,18.27,1.04,1.79,57.00
+2,OPOCX,S&P 500 TR USD,49.35,1.12,-4.72,15.48,USD,10,18.70,8.79,0.46,0.66,
+3,OPOCX,S&P 500 TR USD,49.35,1.12,-4.72,15.48,USD,15,24.47,6.07,0.28,0.43,

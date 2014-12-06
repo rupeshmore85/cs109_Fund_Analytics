@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,JPFAX,S&P 500 TR USD,86.76,1.14,-2.54,18.30,USD,3,11.10,20.99,1.78,3.55,
+1,JPFAX,S&P 500 TR USD,86.76,1.14,-2.54,18.30,USD,5,,,,,
+2,JPFAX,S&P 500 TR USD,86.76,1.14,-2.54,18.30,USD,10,,,,,
+3,JPFAX,S&P 500 TR USD,86.76,1.14,-2.54,18.30,USD,15,,,,,

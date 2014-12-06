@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,MALMX,Barclays Municipal TR USD,48.04,0.08,0.21,7.47,USD,3,0.41,0.62,1.35,2.18,
+1,MALMX,Barclays Municipal TR USD,45.54,0.09,0.3,8.38,USD,5,0.5,0.82,1.49,2.6,16.00
+2,MALMX,Barclays Municipal TR USD,46.68,0.15,-0.04,3.02,USD,10,0.94,1.98,0.46,0.77,
+3,MALMX,Barclays Municipal TR USD,50.2,0.16,-0.13,2.7,USD,15,0.98,2.39,0.43,0.68,

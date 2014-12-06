@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,CGRWX,S&P 500 TR USD,93.43,1.01,-2.93,17.44,USD,3,9.48,17.74,1.77,3.15,
+1,CGRWX,S&P 500 TR USD,93.43,1.01,-2.93,17.44,USD,5,14.00,12.38,0.90,1.46,61.00
+2,CGRWX,S&P 500 TR USD,93.43,1.01,-2.93,17.44,USD,10,15.72,6.53,0.39,0.54,
+3,CGRWX,S&P 500 TR USD,93.43,1.01,-2.93,17.44,USD,15,16.22,6.27,0.34,0.47,

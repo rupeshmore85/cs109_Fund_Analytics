@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,SRHMX,Barclays Municipal TR USD,90.36,1.2,1.82,6.32,USD,3,4.85,7.68,1.54,2.48,
+1,SRHMX,Barclays Municipal TR USD,87.64,1.16,1.68,6.58,USD,5,4.72,7.74,1.59,2.57,72.00
+2,SRHMX,Barclays Municipal TR USD,59.56,1.2,-0.64,2.64,USD,10,6.85,4.7,0.48,0.66,
+3,SRHMX,Barclays Municipal TR USD,60.5,1.06,-0.51,2.92,USD,15,5.96,5.06,0.53,0.73,

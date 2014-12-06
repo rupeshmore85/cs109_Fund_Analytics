@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,AMUSX,Barclays US Agg Bond TR USD,92.16,0.86,-0.98,1.77,USD,3,2.42,1.58,0.63,1.05,
+1,AMUSX,Barclays US Agg Bond TR USD,89.94,0.98,-0.97,2.99,USD,5,2.9,2.99,1.01,1.81,66.00
+2,AMUSX,Barclays US Agg Bond TR USD,87.58,0.91,-0.52,2.67,USD,10,3.16,3.96,0.76,1.41,
+3,AMUSX,Barclays US Agg Bond TR USD,90.48,0.9,-0.58,3.01,USD,15,3.33,4.67,0.81,1.4,

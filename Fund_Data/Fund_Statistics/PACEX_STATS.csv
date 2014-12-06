@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PACEX,Barclays US Agg Bond TR USD,,,,,USD,3,,,,,
+1,PACEX,Barclays US Agg Bond TR USD,,,,,USD,5,,,,,
+2,PACEX,Barclays US Agg Bond TR USD,,,,,USD,10,,,,,
+3,PACEX,Barclays US Agg Bond TR USD,,,,,USD,15,,,,,

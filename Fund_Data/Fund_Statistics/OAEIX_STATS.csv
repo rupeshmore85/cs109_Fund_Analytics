@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,OAEIX,S&P 500 TR USD,88.62,1.08,-1.52,19.22,USD,3,10.37,20.81,1.88,3.36,
+1,OAEIX,S&P 500 TR USD,88.62,1.08,-1.52,19.22,USD,5,14.59,15.13,1.04,1.73,53.00
+2,OAEIX,S&P 500 TR USD,88.62,1.08,-1.52,19.22,USD,10,15.81,8.95,0.53,0.78,
+3,OAEIX,S&P 500 TR USD,88.62,1.08,-1.52,19.22,USD,15,15.99,8.68,0.48,0.72,

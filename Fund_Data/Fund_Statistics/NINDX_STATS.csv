@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,NINDX,S&P 500 TR USD,100.00,1.00,-0.19,20.64,USD,3,9.04,20.68,2.13,4.09,
+1,NINDX,S&P 500 TR USD,100.00,1.00,-0.19,20.64,USD,5,12.98,15.75,1.19,2.06,38.00
+2,NINDX,S&P 500 TR USD,100.00,1.00,-0.19,20.64,USD,10,14.69,7.91,0.49,0.69,
+3,NINDX,S&P 500 TR USD,100.00,1.00,-0.19,20.64,USD,15,15.32,4.46,0.23,0.32,

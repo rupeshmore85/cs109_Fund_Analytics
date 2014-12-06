@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FSCRX,S&P 500 TR USD,70.00,1.15,-1.88,18.86,USD,3,12.44,21.78,1.65,3.08,
+1,FSCRX,S&P 500 TR USD,70.00,1.15,-1.88,18.86,USD,5,17.79,20.95,1.16,2.05,74.00
+2,FSCRX,S&P 500 TR USD,70.00,1.15,-1.88,18.86,USD,10,20.22,12.05,0.59,0.89,
+3,FSCRX,S&P 500 TR USD,70.00,1.15,-1.88,18.86,USD,15,,,,,

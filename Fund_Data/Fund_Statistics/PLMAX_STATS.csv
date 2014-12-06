@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PLMAX,BofAML USD LIBOR 3 Mon CM,11.59,67.51,-19.35,-0.00,USD,3,6.97,-0.13,0.01,0.01,
+1,PLMAX,BofAML USD LIBOR 3 Mon CM,7.99,53.31,-12.73,0.01,USD,5,8.53,0.4,0.08,0.11,12.00
+2,PLMAX,BofAML USD LIBOR 3 Mon CM,,,,,USD,10,,,,,
+3,PLMAX,BofAML USD LIBOR 3 Mon CM,,,,,USD,15,,,,,

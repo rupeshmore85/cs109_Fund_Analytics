@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VASVX,S&P 500 TR USD,83.52,0.98,0.02,20.76,USD,3,9.66,20.32,1.97,3.72,
+1,VASVX,S&P 500 TR USD,83.52,0.98,0.02,20.76,USD,5,13.79,16.45,1.17,2.04,37.00
+2,VASVX,S&P 500 TR USD,83.52,0.98,0.02,20.76,USD,10,15.73,9.57,0.56,0.82,
+3,VASVX,S&P 500 TR USD,83.52,0.98,0.02,20.76,USD,15,16.24,11.22,0.62,0.92,

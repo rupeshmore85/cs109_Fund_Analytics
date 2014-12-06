@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,CBALX,Morningstar Moderate Target Risk,88.17,0.93,4.9,16.62,USD,3,6.3,15.47,2.32,4.8,
+1,CBALX,Morningstar Moderate Target Risk,93.57,1.02,2.55,11.76,USD,5,8.88,12.04,1.32,2.37,17.00
+2,CBALX,Morningstar Moderate Target Risk,93.37,1.0,1.63,7.1,USD,10,9.97,8.62,0.73,1.11,
+3,CBALX,Morningstar Moderate Target Risk,92.29,1.03,-0.4,3.87,USD,15,10.12,5.95,0.43,0.62,

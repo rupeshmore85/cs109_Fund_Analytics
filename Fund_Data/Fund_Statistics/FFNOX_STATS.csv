@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FFNOX,Morningstar Moderate Target Risk,96.34,1.31,1.19,11.88,USD,3,8.52,15.63,1.75,3.15,
+1,FFNOX,Morningstar Moderate Target Risk,97.82,1.4,-0.58,8.54,USD,5,11.9,12.0,1.01,1.71,30.00
+2,FFNOX,Morningstar Moderate Target Risk,97.68,1.37,-1.57,4.0,USD,10,13.35,6.99,0.46,0.65,
+3,FFNOX,Morningstar Moderate Target Risk,96.86,1.41,-2.79,2.04,USD,15,13.58,4.85,0.27,0.38,

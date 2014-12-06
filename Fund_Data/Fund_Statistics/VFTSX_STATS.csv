@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VFTSX,S&P 500 TR USD,95.11,1.06,0.70,21.72,USD,3,9.83,23.10,2.17,4.26,
+1,VFTSX,S&P 500 TR USD,95.11,1.06,0.70,21.72,USD,5,13.64,16.75,1.20,2.12,42.00
+2,VFTSX,S&P 500 TR USD,95.11,1.06,0.70,21.72,USD,10,16.74,6.97,0.40,0.56,
+3,VFTSX,S&P 500 TR USD,95.11,1.06,0.70,21.72,USD,15,,,,,

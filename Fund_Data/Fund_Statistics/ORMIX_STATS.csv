@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,ORMIX,Barclays Municipal TR USD,73.89,1.44,-2.19,3.10,USD,3,6.42,4.53,0.71,1.06,
+1,ORMIX,Barclays Municipal TR USD,74.37,1.49,-1.56,3.92,USD,5,6.56,5.93,0.9,1.38,80.00
+2,ORMIX,Barclays Municipal TR USD,,,,,USD,10,,,,,
+3,ORMIX,Barclays Municipal TR USD,,,,,USD,15,,,,,

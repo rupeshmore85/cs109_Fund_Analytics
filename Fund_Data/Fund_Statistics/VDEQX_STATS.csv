@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VDEQX,S&P 500 TR USD,94.32,1.10,-1.73,19.08,USD,3,10.23,21.02,1.92,3.74,
+1,VDEQX,S&P 500 TR USD,94.32,1.10,-1.73,19.08,USD,5,14.54,16.09,1.10,1.89,61.00
+2,VDEQX,S&P 500 TR USD,94.32,1.10,-1.73,19.08,USD,10,,,,,
+3,VDEQX,S&P 500 TR USD,94.32,1.10,-1.73,19.08,USD,15,,,,,

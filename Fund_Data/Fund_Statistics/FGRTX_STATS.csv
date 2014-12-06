@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FGRTX,S&P 500 TR USD,95.54,1.04,0.32,21.26,USD,3,9.59,22.11,2.14,3.92,
+1,FGRTX,S&P 500 TR USD,95.54,1.04,0.32,21.26,USD,5,13.84,16.22,1.16,1.99,54.00
+2,FGRTX,S&P 500 TR USD,95.54,1.04,0.32,21.26,USD,10,15.40,8.51,0.51,0.74,
+3,FGRTX,S&P 500 TR USD,95.54,1.04,0.32,21.26,USD,15,14.72,5.14,0.28,0.40,

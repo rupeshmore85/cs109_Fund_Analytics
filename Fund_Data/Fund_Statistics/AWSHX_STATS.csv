@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,AWSHX,S&P 500 TR USD,92.21,0.85,1.20,22.27,USD,3,8.01,18.99,2.22,4.11,
+1,AWSHX,S&P 500 TR USD,92.21,0.85,1.20,22.27,USD,5,11.34,15.28,1.31,2.31,26.00
+2,AWSHX,S&P 500 TR USD,92.21,0.85,1.20,22.27,USD,10,13.34,7.63,0.51,0.70,
+3,AWSHX,S&P 500 TR USD,92.21,0.85,1.20,22.27,USD,15,13.66,6.59,0.39,0.55,

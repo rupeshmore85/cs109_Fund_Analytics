@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VWNDX,S&P 500 TR USD,91.39,1.10,-0.29,20.63,USD,3,10.42,22.78,2.03,3.86,
+1,VWNDX,S&P 500 TR USD,91.39,1.10,-0.29,20.63,USD,5,14.91,15.93,1.06,1.80,64.00
+2,VWNDX,S&P 500 TR USD,91.39,1.10,-0.29,20.63,USD,10,16.80,7.33,0.42,0.60,
+3,VWNDX,S&P 500 TR USD,91.39,1.10,-0.29,20.63,USD,15,17.01,7.37,0.39,0.57,

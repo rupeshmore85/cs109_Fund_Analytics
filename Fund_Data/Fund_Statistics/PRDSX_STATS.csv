@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PRDSX,S&P 500 TR USD,72.40,1.19,-4.10,16.77,USD,3,12.67,20.06,1.51,3.01,
+1,PRDSX,S&P 500 TR USD,72.40,1.19,-4.10,16.77,USD,5,17.97,20.76,1.14,2.10,74.00
+2,PRDSX,S&P 500 TR USD,72.40,1.19,-4.10,16.77,USD,10,18.86,10.57,0.55,0.82,
+3,PRDSX,S&P 500 TR USD,72.40,1.19,-4.10,16.77,USD,15,22.24,7.08,0.33,0.48,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FRAMX,Morningstar Moderate Target Risk,97.05,0.67,1.36,12.84,USD,3,4.35,8.68,1.93,3.64,
+1,FRAMX,Morningstar Moderate Target Risk,97.84,0.77,0.48,9.69,USD,5,6.57,7.54,1.13,1.96,9.00
+2,FRAMX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,FRAMX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

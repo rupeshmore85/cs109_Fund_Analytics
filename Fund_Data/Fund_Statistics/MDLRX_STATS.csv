@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,MDLRX,S&P 500 TR USD,90.77,1.08,-2.61,18.02,USD,3,10.21,19.45,1.80,3.39,
+1,MDLRX,S&P 500 TR USD,90.77,1.08,-2.61,18.02,USD,5,15.08,14.04,0.94,1.52,74.00
+2,MDLRX,S&P 500 TR USD,90.77,1.08,-2.61,18.02,USD,10,15.95,6.87,0.40,0.56,
+3,MDLRX,S&P 500 TR USD,90.77,1.08,-2.61,18.02,USD,15,,,,,

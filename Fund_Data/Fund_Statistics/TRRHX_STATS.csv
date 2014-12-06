@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,TRRHX,Morningstar Moderate Target Risk,97.16,1.27,0.45,11.24,USD,3,8.25,14.38,1.67,3.0,
+1,TRRHX,Morningstar Moderate Target Risk,98.01,1.4,-0.94,8.26,USD,5,11.9,11.61,0.98,1.65,31.00
+2,TRRHX,Morningstar Moderate Target Risk,97.34,1.42,-1.45,4.11,USD,10,13.89,7.35,0.47,0.67,
+3,TRRHX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

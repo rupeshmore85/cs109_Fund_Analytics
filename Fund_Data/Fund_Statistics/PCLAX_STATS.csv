@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PCLAX,Morningstar Long-Only Commodity TR,82.37,0.95,0.48,-5.91,USD,3,13.87,-5.56,-0.35,-0.44,
+1,PCLAX,Morningstar Long-Only Commodity TR,,,,,USD,5,,,,,
+2,PCLAX,Morningstar Long-Only Commodity TR,,,,,USD,10,,,,,
+3,PCLAX,Morningstar Long-Only Commodity TR,,,,,USD,15,,,,,

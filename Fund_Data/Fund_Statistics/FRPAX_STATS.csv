@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FRPAX,Barclays Municipal TR USD,94.27,1.24,-1.68,3.31,USD,3,4.88,4.16,0.85,1.34,
+1,FRPAX,Barclays Municipal TR USD,93.48,1.21,-1.39,3.85,USD,5,4.74,4.73,0.98,1.57,76.00
+2,FRPAX,Barclays Municipal TR USD,93.1,1.1,-0.7,2.61,USD,10,5.01,4.41,0.58,0.82,
+3,FRPAX,Barclays Municipal TR USD,93.93,1.05,-0.57,2.92,USD,15,4.77,5.04,0.64,0.93,

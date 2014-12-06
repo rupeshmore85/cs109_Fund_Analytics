@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,CMSCX,S&P 500 TR USD,58.90,1.32,-12.40,9.75,USD,3,15.59,12.96,0.86,1.34,
+1,CMSCX,S&P 500 TR USD,58.90,1.32,-12.40,9.75,USD,5,19.65,14.46,0.78,1.28,84.00
+2,CMSCX,S&P 500 TR USD,58.90,1.32,-12.40,9.75,USD,10,20.12,9.11,0.46,0.66,
+3,CMSCX,S&P 500 TR USD,58.90,1.32,-12.40,9.75,USD,15,22.79,7.37,0.34,0.51,

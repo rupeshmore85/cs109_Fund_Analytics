@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PEDIX,Barclays US Agg Bond TR USD,67.64,5.29,-8.71,1.04,USD,3,17.45,5.58,0.39,0.68,
+1,PEDIX,Barclays US Agg Bond TR USD,51.86,5.71,-8.78,2.15,USD,5,22.36,12.37,0.63,1.25,99.00
+2,PEDIX,Barclays US Agg Bond TR USD,,,,,USD,10,,,,,
+3,PEDIX,Barclays US Agg Bond TR USD,,,,,USD,15,,,,,

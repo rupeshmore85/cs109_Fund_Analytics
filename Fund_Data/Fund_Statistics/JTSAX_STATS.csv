@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,JTSAX,Morningstar Moderate Target Risk,95.25,1.46,0.09,10.96,USD,3,9.57,16.1,1.61,2.8,
+1,JTSAX,Morningstar Moderate Target Risk,97.21,1.58,-1.74,7.77,USD,5,13.53,12.35,0.93,1.53,46.00
+2,JTSAX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,JTSAX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

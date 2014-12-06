@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,OMEAX,S&P 500 TR USD,82.78,1.15,-3.85,16.94,USD,3,11.43,19.55,1.62,3.02,
+1,OMEAX,S&P 500 TR USD,82.78,1.15,-3.85,16.94,USD,5,16.42,17.46,1.06,1.82,72.00
+2,OMEAX,S&P 500 TR USD,82.78,1.15,-3.85,16.94,USD,10,18.35,9.19,0.49,0.71,
+3,OMEAX,S&P 500 TR USD,82.78,1.15,-3.85,16.94,USD,15,18.09,9.49,0.49,0.71,

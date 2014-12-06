@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,BCSAX,Morningstar Long-Only Commodity TR,69.81,0.81,-2.81,-9.68,USD,3,12.83,-7.78,-0.57,-0.69,
+1,BCSAX,Morningstar Long-Only Commodity TR,,,,,USD,5,,,,,
+2,BCSAX,Morningstar Long-Only Commodity TR,,,,,USD,10,,,,,
+3,BCSAX,Morningstar Long-Only Commodity TR,,,,,USD,15,,,,,

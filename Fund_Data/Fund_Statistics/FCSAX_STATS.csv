@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FCSAX,S&P 500 TR USD,97.78,1.02,-1.01,19.70,USD,3,9.32,20.12,2.02,3.81,
+1,FCSAX,S&P 500 TR USD,97.78,1.02,-1.01,19.70,USD,5,,,,,
+2,FCSAX,S&P 500 TR USD,97.78,1.02,-1.01,19.70,USD,10,,,,,
+3,FCSAX,S&P 500 TR USD,97.78,1.02,-1.01,19.70,USD,15,,,,,

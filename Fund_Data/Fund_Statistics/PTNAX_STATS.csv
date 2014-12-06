@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PTNAX,Morningstar Moderate Target Risk,41.91,0.44,0.71,12.17,USD,3,4.34,5.42,1.23,1.97,
+1,PTNAX,Morningstar Moderate Target Risk,48.77,0.38,2.06,14.58,USD,5,4.56,5.58,1.2,2.01,2.00
+2,PTNAX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,PTNAX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

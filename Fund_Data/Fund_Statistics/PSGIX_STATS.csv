@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PSGIX,S&P 500 TR USD,75.60,1.53,-12.39,11.39,USD,3,15.89,17.47,1.09,1.85,
+1,PSGIX,S&P 500 TR USD,75.60,1.53,-12.39,11.39,USD,5,19.70,16.26,0.86,1.42,92.00
+2,PSGIX,S&P 500 TR USD,75.60,1.53,-12.39,11.39,USD,10,20.08,9.25,0.47,0.67,
+3,PSGIX,S&P 500 TR USD,75.60,1.53,-12.39,11.39,USD,15,25.21,4.78,0.23,0.35,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VASGX,Morningstar Moderate Target Risk,97.87,1.24,0.85,11.61,USD,3,7.99,14.44,1.73,3.09,
+1,VASGX,Morningstar Moderate Target Risk,98.46,1.33,-0.71,8.43,USD,5,11.31,11.28,1.0,1.68,28.00
+2,VASGX,Morningstar Moderate Target Risk,97.94,1.37,-1.9,3.75,USD,10,13.37,6.65,0.44,0.6,
+3,VASGX,Morningstar Moderate Target Risk,97.15,1.4,-2.74,2.07,USD,15,13.44,4.87,0.28,0.38,

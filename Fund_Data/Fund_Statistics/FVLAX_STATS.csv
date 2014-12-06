@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FVLAX,S&P 500 TR USD,90.20,1.12,-2.81,17.95,USD,3,10.62,20.08,1.78,3.15,
+1,FVLAX,S&P 500 TR USD,90.20,1.12,-2.81,17.95,USD,5,15.27,11.86,0.81,1.25,82.00
+2,FVLAX,S&P 500 TR USD,90.20,1.12,-2.81,17.95,USD,10,17.37,4.98,0.28,0.38,
+3,FVLAX,S&P 500 TR USD,90.20,1.12,-2.81,17.95,USD,15,,,,,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FAHDX,Barclays US Agg Bond TR USD,16.58,0.81,8.83,14.40,USD,3,5.39,11.71,2.08,4.18,
+1,FAHDX,Barclays US Agg Bond TR USD,0.36,-0.18,11.34,-59.6,USD,5,8.44,10.85,1.26,2.14,1.00
+2,FAHDX,Barclays US Agg Bond TR USD,2.45,0.68,4.87,9.27,USD,10,14.21,7.82,0.5,0.7,
+3,FAHDX,Barclays US Agg Bond TR USD,1.33,0.46,4.47,11.82,USD,15,13.76,7.35,0.44,0.63,

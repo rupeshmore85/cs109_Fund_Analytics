@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FRBSX,S&P 500 TR USD,77.94,1.10,-5.36,15.07,USD,3,11.22,16.56,1.42,2.33,
+1,FRBSX,S&P 500 TR USD,77.94,1.10,-5.36,15.07,USD,5,15.84,13.45,0.87,1.39,84.00
+2,FRBSX,S&P 500 TR USD,77.94,1.10,-5.36,15.07,USD,10,17.97,6.09,0.34,0.46,
+3,FRBSX,S&P 500 TR USD,77.94,1.10,-5.36,15.07,USD,15,16.26,9.41,0.52,0.72,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,OPPEX,Morningstar Moderate Target Risk,73.26,0.43,3.89,20.11,USD,3,3.22,8.75,2.61,5.99,
+1,OPPEX,Morningstar Moderate Target Risk,86.48,0.5,3.71,16.9,USD,5,4.52,8.49,1.82,3.65,3.00
+2,OPPEX,Morningstar Moderate Target Risk,70.89,0.9,-3.23,1.46,USD,10,10.27,2.83,0.18,0.21,
+3,OPPEX,Morningstar Moderate Target Risk,66.65,0.98,-1.76,2.2,USD,15,11.36,4.11,0.24,0.32,

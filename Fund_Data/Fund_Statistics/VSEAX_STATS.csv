@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VSEAX,S&P 500 TR USD,75.52,1.05,-2.38,18.10,USD,3,10.97,19.13,1.66,3.25,
+1,VSEAX,S&P 500 TR USD,75.52,1.05,-2.38,18.10,USD,5,15.47,18.22,1.16,2.04,51.00
+2,VSEAX,S&P 500 TR USD,75.52,1.05,-2.38,18.10,USD,10,16.47,11.35,0.65,0.96,
+3,VSEAX,S&P 500 TR USD,75.52,1.05,-2.38,18.10,USD,15,17.17,11.11,0.59,0.89,

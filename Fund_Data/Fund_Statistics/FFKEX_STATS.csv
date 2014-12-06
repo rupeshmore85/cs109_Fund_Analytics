@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FFKEX,Morningstar Moderate Target Risk,96.24,1.2,-0.21,10.62,USD,3,7.82,12.82,1.58,2.8,
+1,FFKEX,Morningstar Moderate Target Risk,97.86,1.31,-1.54,7.73,USD,5,11.21,10.23,0.92,1.51,28.00
+2,FFKEX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,FFKEX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

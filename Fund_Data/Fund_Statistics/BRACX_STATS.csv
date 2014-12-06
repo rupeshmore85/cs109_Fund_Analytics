@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,BRACX,Barclays US Agg Bond TR USD,86.37,1.35,2.79,5.10,USD,3,3.95,6.96,1.71,3.13,
+1,BRACX,Barclays US Agg Bond TR USD,68.84,1.16,2.29,6.09,USD,5,3.94,7.14,1.76,3.48,69.00
+2,BRACX,Barclays US Agg Bond TR USD,66.62,1.47,-0.15,3.12,USD,10,5.82,6.1,0.78,1.16,
+3,BRACX,Barclays US Agg Bond TR USD,,,,,USD,15,,,,,

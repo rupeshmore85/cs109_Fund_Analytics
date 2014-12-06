@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FCEQX,S&P 500 TR USD,76.21,1.08,-1.79,18.81,USD,3,11.13,20.28,1.72,2.86,
+1,FCEQX,S&P 500 TR USD,76.21,1.08,-1.79,18.81,USD,5,15.54,15.12,0.98,1.57,71.00
+2,FCEQX,S&P 500 TR USD,76.21,1.08,-1.79,18.81,USD,10,,,,,
+3,FCEQX,S&P 500 TR USD,76.21,1.08,-1.79,18.81,USD,15,,,,,

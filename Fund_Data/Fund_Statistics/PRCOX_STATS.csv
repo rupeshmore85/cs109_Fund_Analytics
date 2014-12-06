@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PRCOX,S&P 500 TR USD,99.18,1.03,-0.91,19.84,USD,3,9.32,20.43,2.05,3.93,
+1,PRCOX,S&P 500 TR USD,99.18,1.03,-0.91,19.84,USD,5,13.22,15.15,1.13,1.94,43.00
+2,PRCOX,S&P 500 TR USD,99.18,1.03,-0.91,19.84,USD,10,14.78,8.00,0.49,0.70,
+3,PRCOX,S&P 500 TR USD,99.18,1.03,-0.91,19.84,USD,15,15.57,5.17,0.28,0.39,

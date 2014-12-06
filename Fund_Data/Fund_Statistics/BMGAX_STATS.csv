@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,BMGAX,S&P 500 TR USD,63.29,1.25,-5.42,15.63,USD,3,14.23,19.62,1.33,2.39,
+1,BMGAX,S&P 500 TR USD,63.29,1.25,-5.42,15.63,USD,5,17.92,15.26,0.88,1.44,89.00
+2,BMGAX,S&P 500 TR USD,63.29,1.25,-5.42,15.63,USD,10,19.50,8.35,0.44,0.61,
+3,BMGAX,S&P 500 TR USD,63.29,1.25,-5.42,15.63,USD,15,22.51,3.50,0.18,0.26,

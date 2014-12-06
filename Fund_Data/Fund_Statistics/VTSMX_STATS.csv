@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VTSMX,S&P 500 TR USD,98.66,1.03,-0.83,19.95,USD,3,9.40,20.67,2.05,3.99,
+1,VTSMX,S&P 500 TR USD,98.66,1.03,-0.83,19.95,USD,5,13.57,16.21,1.18,2.03,44.00
+2,VTSMX,S&P 500 TR USD,98.66,1.03,-0.83,19.95,USD,10,15.25,8.37,0.51,0.72,
+3,VTSMX,S&P 500 TR USD,98.66,1.03,-0.83,19.95,USD,15,15.82,5.26,0.28,0.39,

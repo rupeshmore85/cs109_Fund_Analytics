@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PSTKX,S&P 500 TR USD,98.67,1.03,1.34,22.47,USD,3,9.40,23.26,2.28,4.54,
+1,PSTKX,S&P 500 TR USD,98.67,1.03,1.34,22.47,USD,5,13.93,17.81,1.25,2.18,44.00
+2,PSTKX,S&P 500 TR USD,98.67,1.03,1.34,22.47,USD,10,16.79,8.40,0.48,0.66,
+3,PSTKX,S&P 500 TR USD,98.67,1.03,1.34,22.47,USD,15,16.66,5.20,0.27,0.37,

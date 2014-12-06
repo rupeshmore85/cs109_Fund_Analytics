@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FADAX,S&P 500 TR USD,91.67,1.13,-2.90,17.91,USD,3,10.65,20.26,1.79,3.26,
+1,FADAX,S&P 500 TR USD,91.67,1.13,-2.90,17.91,USD,5,16.56,15.14,0.93,1.52,89.00
+2,FADAX,S&P 500 TR USD,91.67,1.13,-2.90,17.91,USD,10,18.65,7.33,0.39,0.56,
+3,FADAX,S&P 500 TR USD,91.67,1.13,-2.90,17.91,USD,15,17.96,5.40,0.28,0.39,

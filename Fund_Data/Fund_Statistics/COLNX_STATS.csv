@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,COLNX,Barclays Municipal TR USD,98.22,1.19,-0.41,4.36,USD,3,4.58,5.25,1.13,1.84,
+1,COLNX,Barclays Municipal TR USD,96.93,1.2,-0.58,4.54,USD,5,4.62,5.53,1.17,1.89,82.00
+2,COLNX,Barclays Municipal TR USD,94.84,1.3,-1.06,2.41,USD,10,5.83,4.65,0.54,0.79,
+3,COLNX,Barclays Municipal TR USD,95.62,1.32,-1.04,2.65,USD,15,5.93,5.46,0.6,0.88,

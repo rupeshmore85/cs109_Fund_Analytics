@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,POMIX,S&P 500 TR USD,98.56,1.04,-0.84,19.95,USD,3,9.45,20.76,2.05,3.99,
+1,POMIX,S&P 500 TR USD,98.56,1.04,-0.84,19.95,USD,5,13.62,16.11,1.16,2.01,45.00
+2,POMIX,S&P 500 TR USD,98.56,1.04,-0.84,19.95,USD,10,15.30,8.31,0.50,0.71,
+3,POMIX,S&P 500 TR USD,98.56,1.04,-0.84,19.95,USD,15,15.86,5.16,0.27,0.38,

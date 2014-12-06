@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,MKLHX,S&P 500 TR USD,90.07,1.13,-1.14,19.76,USD,3,10.75,22.36,1.94,3.82,
+1,MKLHX,S&P 500 TR USD,90.07,1.13,-1.14,19.76,USD,5,15.42,16.49,1.07,1.79,75.00
+2,MKLHX,S&P 500 TR USD,90.07,1.13,-1.14,19.76,USD,10,,,,,
+3,MKLHX,S&P 500 TR USD,90.07,1.13,-1.14,19.76,USD,15,,,,,

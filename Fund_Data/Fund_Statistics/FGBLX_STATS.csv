@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FGBLX,Morningstar Moderate Target Risk,88.44,1.08,-2.18,8.56,USD,3,7.36,9.34,1.25,2.12,
+1,FGBLX,Morningstar Moderate Target Risk,93.61,1.17,-2.93,6.28,USD,5,10.18,7.41,0.75,1.22,20.00
+2,FGBLX,Morningstar Moderate Target Risk,92.3,1.11,-0.37,4.95,USD,10,11.16,7.01,0.53,0.78,
+3,FGBLX,Morningstar Moderate Target Risk,89.61,1.11,-0.5,3.75,USD,15,11.15,6.14,0.42,0.61,

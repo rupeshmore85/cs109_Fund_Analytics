@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PFCIX,Morningstar Moderate Target Risk,74.5,1.03,2.4,13.30,USD,3,7.6,13.74,1.73,3.46,
+1,PFCIX,Morningstar Moderate Target Risk,82.29,0.96,3.02,12.39,USD,5,8.96,12.02,1.31,2.39,9.00
+2,PFCIX,Morningstar Moderate Target Risk,84.76,1.22,-0.56,4.7,USD,10,12.78,7.26,0.5,0.69,
+3,PFCIX,Morningstar Moderate Target Risk,72.36,1.23,-0.55,3.53,USD,15,13.66,6.3,0.37,0.53,

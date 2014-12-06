@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FLCSX,S&P 500 TR USD,92.80,1.10,0.51,21.53,USD,3,10.33,23.76,2.13,4.13,
+1,FLCSX,S&P 500 TR USD,92.80,1.10,0.51,21.53,USD,5,15.10,17.32,1.13,1.95,65.00
+2,FLCSX,S&P 500 TR USD,92.80,1.10,0.51,21.53,USD,10,18.07,9.30,0.50,0.73,
+3,FLCSX,S&P 500 TR USD,92.80,1.10,0.51,21.53,USD,15,17.83,4.18,0.21,0.29,

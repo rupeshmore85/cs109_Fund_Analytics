@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VTCIX,S&P 500 TR USD,99.08,1.03,-0.50,20.32,USD,3,9.34,20.96,2.09,4.06,
+1,VTCIX,S&P 500 TR USD,99.08,1.03,-0.50,20.32,USD,5,13.49,16.23,1.18,2.04,45.00
+2,VTCIX,S&P 500 TR USD,99.08,1.03,-0.50,20.32,USD,10,15.16,8.52,0.52,0.73,
+3,VTCIX,S&P 500 TR USD,99.08,1.03,-0.50,20.32,USD,15,16.50,4.93,0.26,0.35,

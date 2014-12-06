@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PEHAX,Morningstar Moderate Target Risk,74.65,0.82,-1.27,9.00,USD,3,6.09,7.48,1.21,2.0,
+1,PEHAX,Morningstar Moderate Target Risk,78.86,0.69,0.02,8.99,USD,5,6.52,6.24,0.95,1.51,6.00
+2,PEHAX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,PEHAX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

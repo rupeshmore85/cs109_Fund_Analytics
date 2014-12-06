@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,NMGIX,S&P 500 TR USD,72.58,1.05,-3.21,17.13,USD,3,11.14,18.03,1.55,2.86,
+1,NMGIX,S&P 500 TR USD,72.58,1.05,-3.21,17.13,USD,5,15.46,14.61,0.96,1.64,66.00
+2,NMGIX,S&P 500 TR USD,72.58,1.05,-3.21,17.13,USD,10,16.47,7.21,0.41,0.60,
+3,NMGIX,S&P 500 TR USD,72.58,1.05,-3.21,17.13,USD,15,17.24,4.31,0.22,0.31,

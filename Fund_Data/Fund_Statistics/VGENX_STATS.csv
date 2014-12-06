@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VGENX,MSCI ACWI NR USD,64.03,1.19,-14.65,1.03,USD,3,15.68,1.29,0.16,0.21,
+1,VGENX,MSCI ACWI NR USD,75.82,1.22,-6.93,3.28,USD,5,20.38,4.08,0.29,0.42,98.00
+2,VGENX,MSCI ACWI NR USD,65.59,1.14,1.92,5.92,USD,10,23.32,8.26,0.4,0.58,
+3,VGENX,MSCI ACWI NR USD,52.42,0.98,8.78,10.39,USD,15,22.17,12.1,0.54,0.84,

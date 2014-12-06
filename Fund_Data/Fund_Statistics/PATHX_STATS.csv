@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PATHX,MSCI ACWI Ex USA NR USD,85.24,0.65,3.35,15.50,USD,3,8.95,10.09,1.12,1.83,
+1,PATHX,MSCI ACWI Ex USA NR USD,,,,,USD,5,,,,,
+2,PATHX,MSCI ACWI Ex USA NR USD,,,,,USD,10,,,,,
+3,PATHX,MSCI ACWI Ex USA NR USD,,,,,USD,15,,,,,

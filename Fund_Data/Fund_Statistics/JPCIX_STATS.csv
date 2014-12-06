@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,JPCIX,Barclays US Agg Bond TR USD,0.0,0.0,0.15,1954-12-05 00:00:00,USD,3,0.09,0.21,1.73,2.85,
+1,JPCIX,Barclays US Agg Bond TR USD,,,,,USD,5,,,,,
+2,JPCIX,Barclays US Agg Bond TR USD,,,,,USD,10,,,,,
+3,JPCIX,Barclays US Agg Bond TR USD,,,,,USD,15,,,,,

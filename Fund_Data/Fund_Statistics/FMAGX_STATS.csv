@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FMAGX,S&P 500 TR USD,90.86,1.10,-0.93,19.94,USD,3,10.46,22.05,1.96,4.06,
+1,FMAGX,S&P 500 TR USD,90.86,1.10,-0.93,19.94,USD,5,15.27,13.59,0.91,1.45,77.00
+2,FMAGX,S&P 500 TR USD,90.86,1.10,-0.93,19.94,USD,10,18.39,6.11,0.34,0.46,
+3,FMAGX,S&P 500 TR USD,90.86,1.10,-0.93,19.94,USD,15,17.88,2.94,0.14,0.20,

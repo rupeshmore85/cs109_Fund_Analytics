@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VCVSX,Morningstar Moderate Target Risk,82.55,1.01,1.2,12.04,USD,3,7.08,12.21,1.66,3.22,
+1,VCVSX,Morningstar Moderate Target Risk,87.44,1.12,0.26,9.23,USD,5,10.07,10.37,1.03,1.74,17.00
+2,VCVSX,Morningstar Moderate Target Risk,82.86,1.14,0.2,5.39,USD,10,12.12,7.68,0.55,0.76,
+3,VCVSX,Morningstar Moderate Target Risk,71.37,1.14,0.68,4.68,USD,15,12.85,7.32,0.46,0.66,

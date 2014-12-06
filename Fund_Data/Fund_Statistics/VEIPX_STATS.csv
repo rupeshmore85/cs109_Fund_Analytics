@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VEIPX,S&P 500 TR USD,89.15,0.90,0.61,21.47,USD,3,8.61,19.37,2.11,3.77,
+1,VEIPX,S&P 500 TR USD,89.15,0.90,0.61,21.47,USD,5,11.39,16.36,1.39,2.47,24.00
+2,VEIPX,S&P 500 TR USD,89.15,0.90,0.61,21.47,USD,10,13.50,8.73,0.58,0.81,
+3,VEIPX,S&P 500 TR USD,89.15,0.90,0.61,21.47,USD,15,13.62,7.42,0.45,0.64,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FFIDX,S&P 500 TR USD,93.84,1.05,-2.46,18.13,USD,3,9.82,19.13,1.84,3.68,
+1,FFIDX,S&P 500 TR USD,93.84,1.05,-2.46,18.13,USD,5,13.74,14.05,1.02,1.70,54.00
+2,FFIDX,S&P 500 TR USD,93.84,1.05,-2.46,18.13,USD,10,15.40,7.67,0.46,0.65,
+3,FFIDX,S&P 500 TR USD,93.84,1.05,-2.46,18.13,USD,15,16.23,4.40,0.23,0.31,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VNYTX,Barclays Municipal TR USD,98.54,1.11,-0.18,4.56,USD,3,4.29,5.14,1.18,1.96,
+1,VNYTX,Barclays Municipal TR USD,97.92,1.05,-0.27,4.78,USD,5,4.0,5.08,1.24,2.08,66.00
+2,VNYTX,Barclays Municipal TR USD,97.97,1.08,-0.58,2.72,USD,10,4.74,4.44,0.61,0.88,
+3,VNYTX,Barclays Municipal TR USD,97.51,1.12,-0.53,2.99,USD,15,4.98,5.31,0.67,1.0,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,TFVAX,Barclays Municipal TR USD,99.05,0.96,-0.96,3.69,USD,3,3.7,3.62,0.96,1.58,
+1,TFVAX,Barclays Municipal TR USD,99.01,0.98,-0.85,4.14,USD,5,3.74,4.14,1.08,1.82,58.00
+2,TFVAX,Barclays Municipal TR USD,97.42,0.93,-0.77,2.43,USD,10,4.11,3.79,0.55,0.82,
+3,TFVAX,Barclays Municipal TR USD,97.39,0.95,-0.83,2.59,USD,15,4.23,4.43,0.58,0.87,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FCVAX,S&P 500 TR USD,71.30,1.18,-4.22,16.59,USD,3,12.66,19.68,1.49,2.61,
+1,FCVAX,S&P 500 TR USD,71.30,1.18,-4.22,16.59,USD,5,17.20,17.07,1.00,1.69,73.00
+2,FCVAX,S&P 500 TR USD,71.30,1.18,-4.22,16.59,USD,10,19.60,10.42,0.53,0.78,
+3,FCVAX,S&P 500 TR USD,71.30,1.18,-4.22,16.59,USD,15,,,,,

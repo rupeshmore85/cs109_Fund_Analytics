@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,BFRAX,Barclays US Agg Bond TR USD,10.38,0.23,4.6,23.59,USD,3,1.92,5.45,2.74,6.46,
+1,BFRAX,Barclays US Agg Bond TR USD,1.14,-0.13,6.13,-43.09,USD,5,3.49,5.76,1.6,2.57,4.00
+2,BFRAX,Barclays US Agg Bond TR USD,0.1,0.07,2.31,33.11,USD,10,7.26,3.84,0.35,0.43,
+3,BFRAX,Barclays US Agg Bond TR USD,0.01,0.02,2.13,111.95,USD,15,6.24,4.02,0.35,0.44,

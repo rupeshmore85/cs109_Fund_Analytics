@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,LIPIX,Morningstar Moderate Target Risk,97.08,1.44,-0.48,10.50,USD,3,9.34,15.22,1.56,2.69,
+1,LIPIX,Morningstar Moderate Target Risk,,,,,USD,5,,,,,
+2,LIPIX,Morningstar Moderate Target Risk,,,,,USD,10,,,,,
+3,LIPIX,Morningstar Moderate Target Risk,,,,,USD,15,,,,,

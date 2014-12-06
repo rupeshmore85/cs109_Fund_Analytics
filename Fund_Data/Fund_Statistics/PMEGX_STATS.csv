@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PMEGX,S&P 500 TR USD,74.67,1.05,-0.86,19.80,USD,3,11.02,20.92,1.78,3.61,
+1,PMEGX,S&P 500 TR USD,74.67,1.05,-0.86,19.80,USD,5,15.27,19.15,1.22,2.27,37.00
+2,PMEGX,S&P 500 TR USD,74.67,1.05,-0.86,19.80,USD,10,17.58,11.60,0.63,0.92,
+3,PMEGX,S&P 500 TR USD,74.67,1.05,-0.86,19.80,USD,15,18.70,10.56,0.53,0.78,

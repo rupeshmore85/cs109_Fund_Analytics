@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,ATMAX,Barclays US Agg Bond TR USD,19.92,0.38,1.8,7.63,USD,3,2.34,3.0,1.25,2.07,
+1,ATMAX,Barclays US Agg Bond TR USD,1.56,0.11,1.59,18.71,USD,5,2.42,2.08,0.83,1.35,17.00
+2,ATMAX,Barclays US Agg Bond TR USD,,,,,USD,10,,,,,
+3,ATMAX,Barclays US Agg Bond TR USD,,,,,USD,15,,,,,

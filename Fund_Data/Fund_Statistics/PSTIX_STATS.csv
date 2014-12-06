@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PSTIX,S&P 500 TR USD,91.29,-0.94,2.91,15.64,USD,3,8.88,-14.61,-1.73,-1.84,
+1,PSTIX,S&P 500 TR USD,91.29,-0.94,2.91,15.64,USD,5,12.22,-12.05,-0.99,-1.21,1.00
+2,PSTIX,S&P 500 TR USD,91.29,-0.94,2.91,15.64,USD,10,13.49,-3.83,-0.34,-0.50,
+3,PSTIX,S&P 500 TR USD,91.29,-0.94,2.91,15.64,USD,15,,,,,

@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,JMUEX,S&P 500 TR USD,96.12,1.09,-0.99,19.88,USD,3,10.07,21.76,2.01,3.87,
+1,JMUEX,S&P 500 TR USD,96.12,1.09,-0.99,19.88,USD,5,14.03,15.75,1.11,1.94,53.00
+2,JMUEX,S&P 500 TR USD,96.12,1.09,-0.99,19.88,USD,10,15.06,9.44,0.58,0.84,
+3,JMUEX,S&P 500 TR USD,96.12,1.09,-0.99,19.88,USD,15,16.15,5.60,0.30,0.42,

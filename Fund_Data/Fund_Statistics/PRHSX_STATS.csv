@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,PRHSX,MSCI ACWI NR USD,38.73,0.81,22.0,46.92,USD,3,13.75,38.24,2.45,6.03,
+1,PRHSX,MSCI ACWI NR USD,57.31,0.79,18.2,36.26,USD,5,15.16,28.72,1.75,3.62,12.00
+2,PRHSX,MSCI ACWI NR USD,58.46,0.75,11.27,21.35,USD,10,16.17,17.53,0.99,1.57,
+3,PRHSX,MSCI ACWI NR USD,35.6,0.73,11.8,18.01,USD,15,20.1,15.12,0.71,1.16,

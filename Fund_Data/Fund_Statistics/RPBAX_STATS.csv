@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,RPBAX,Morningstar Moderate Target Risk,96.61,1.07,1.57,12.41,USD,3,6.95,13.35,1.84,3.39,
+1,RPBAX,Morningstar Moderate Target Risk,98.0,1.13,0.47,9.48,USD,5,9.61,10.77,1.11,1.93,20.00
+2,RPBAX,Morningstar Moderate Target Risk,97.87,1.12,-0.33,5.02,USD,10,10.98,7.17,0.55,0.78,
+3,RPBAX,Morningstar Moderate Target Risk,97.02,1.08,-0.54,3.76,USD,15,10.42,6.04,0.43,0.61,

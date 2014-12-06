@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,JPMNX,Barclays US Agg Bond TR USD,1.52,-0.14,2.61,-15.30,USD,3,3.12,2.23,0.7,1.06,
+1,JPMNX,Barclays US Agg Bond TR USD,1.1,-0.12,0.54,-0.06,USD,5,3.22,0.08,0.02,0.02,2.00
+2,JPMNX,Barclays US Agg Bond TR USD,0.56,0.08,0.76,12.82,USD,10,3.32,2.48,0.3,0.43,
+3,JPMNX,Barclays US Agg Bond TR USD,0.29,0.05,0.22,6.94,USD,15,3.4,2.33,0.12,0.17,

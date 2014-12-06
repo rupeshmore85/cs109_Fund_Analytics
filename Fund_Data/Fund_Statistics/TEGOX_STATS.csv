@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,TEGOX,MSCI ACWI Ex USA NR USD,90.55,0.94,4.3,14.88,USD,3,12.59,14.01,1.1,1.78,
+1,TEGOX,MSCI ACWI Ex USA NR USD,94.74,0.97,2.43,8.17,USD,5,16.42,8.03,0.55,0.84,84.00
+2,TEGOX,MSCI ACWI Ex USA NR USD,95.16,0.91,1.06,5.74,USD,10,17.58,6.75,0.38,0.53,
+3,TEGOX,MSCI ACWI Ex USA NR USD,93.28,0.91,1.44,3.88,USD,15,17.12,5.51,0.29,0.4,

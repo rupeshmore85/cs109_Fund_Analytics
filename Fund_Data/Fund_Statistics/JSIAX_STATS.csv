@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,JSIAX,Barclays US Agg Bond TR USD,21.73,0.5,2.68,8.31,USD,3,2.94,4.26,1.42,2.75,
+1,JSIAX,Barclays US Agg Bond TR USD,,,,,USD,5,,,,,
+2,JSIAX,Barclays US Agg Bond TR USD,,,,,USD,10,,,,,
+3,JSIAX,Barclays US Agg Bond TR USD,,,,,USD,15,,,,,

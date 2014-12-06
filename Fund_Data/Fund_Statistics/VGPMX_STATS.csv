@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,VGPMX,MSCI ACWI NR USD,29.24,1.31,-43.33,-18.80,USD,3,25.4,-24.48,-0.97,-1.14,
+1,VGPMX,MSCI ACWI NR USD,42.34,1.22,-21.83,-9.76,USD,5,27.3,-11.86,-0.33,-0.43,80.00
+2,VGPMX,MSCI ACWI NR USD,56.66,1.44,-4.6,-0.51,USD,10,31.67,0.78,0.14,0.2,
+3,VGPMX,MSCI ACWI NR USD,40.85,1.17,6.15,4.64,USD,15,30.21,7.42,0.33,0.47,

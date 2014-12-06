@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,QVGIX,Morningstar Moderate Target Risk,87.08,1.18,-3.74,7.30,USD,3,8.07,8.68,1.07,1.79,
+1,QVGIX,Morningstar Moderate Target Risk,92.92,1.24,-3.94,5.54,USD,5,10.83,6.93,0.67,1.05,
+2,QVGIX,Morningstar Moderate Target Risk,88.33,1.28,-4.6,1.42,USD,10,13.13,3.34,0.2,0.28,
+3,QVGIX,Morningstar Moderate Target Risk,77.03,1.22,-3.01,1.48,USD,15,13.22,3.77,0.2,0.28,

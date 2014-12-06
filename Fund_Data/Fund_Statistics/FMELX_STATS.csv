@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FMELX,S&P 500 TR USD,87.33,1.08,-2.81,17.81,USD,3,10.46,19.32,1.75,3.33,
+1,FMELX,S&P 500 TR USD,87.33,1.08,-2.81,17.81,USD,5,,,,,
+2,FMELX,S&P 500 TR USD,87.33,1.08,-2.81,17.81,USD,10,,,,,
+3,FMELX,S&P 500 TR USD,87.33,1.08,-2.81,17.81,USD,15,,,,,

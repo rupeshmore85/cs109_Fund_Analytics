@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,FAVAX,S&P 500 TR USD,93.53,1.01,0.53,21.48,USD,3,9.47,21.80,2.14,4.08,
+1,FAVAX,S&P 500 TR USD,93.53,1.01,0.53,21.48,USD,5,14.84,15.66,1.05,1.71,75.00
+2,FAVAX,S&P 500 TR USD,93.53,1.01,0.53,21.48,USD,10,16.84,7.04,0.40,0.56,
+3,FAVAX,S&P 500 TR USD,93.53,1.01,0.53,21.48,USD,15,,,,,

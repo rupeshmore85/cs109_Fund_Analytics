@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,SCTEX,Barclays Municipal TR USD,96.46,0.85,-0.82,3.72,USD,3,3.29,3.21,0.96,1.58,
+1,SCTEX,Barclays Municipal TR USD,94.4,0.85,-0.64,4.26,USD,5,3.32,3.7,1.09,1.89,53.00
+2,SCTEX,Barclays Municipal TR USD,94.31,0.85,-0.69,2.45,USD,10,3.8,3.61,0.54,0.82,
+3,SCTEX,Barclays Municipal TR USD,95.38,0.88,-0.82,2.54,USD,15,3.97,4.21,0.56,0.85,

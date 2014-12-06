@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,AMECX,Morningstar Moderate Target Risk,84.33,0.92,3.82,15.32,USD,3,6.37,14.12,2.1,4.16,
+1,AMECX,Morningstar Moderate Target Risk,92.23,0.97,2.7,12.04,USD,5,8.54,11.77,1.34,2.46,12.00
+2,AMECX,Morningstar Moderate Target Risk,91.54,1.06,0.14,5.46,USD,10,10.69,7.31,0.57,0.8,
+3,AMECX,Morningstar Moderate Target Risk,84.8,0.98,1.62,6.01,USD,15,10.1,7.86,0.61,0.87,

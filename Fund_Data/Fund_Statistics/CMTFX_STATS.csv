@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,CMTFX,MSCI ACWI NR USD,56.98,1.02,9.14,24.87,USD,3,14.16,25.34,1.67,3.17,
+1,CMTFX,MSCI ACWI NR USD,74.04,1.05,7.6,17.7,USD,5,17.74,18.68,1.06,1.81,61.00
+2,CMTFX,MSCI ACWI NR USD,71.75,1.06,3.74,8.27,USD,10,20.7,10.3,0.51,0.72,
+3,CMTFX,MSCI ACWI NR USD,,,,,USD,15,,,,,

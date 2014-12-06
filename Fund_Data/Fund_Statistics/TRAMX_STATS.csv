@@ -1,0 +1,5 @@
+,Fund_Ticker,Benchmark_Index,R_Squared,Beta,Alpha,Treynor_Ratio,Currency,Year_Trailing,Std_Dev,Return,Sharpe_Ratio,Sortino_Ratio,Bear_MktPercentile_Rank
+0,TRAMX,MSCI ACWI Ex USA NR USD,47.64,0.55,12.46,34.56,USD,3,10.25,19.2,1.77,3.56,
+1,TRAMX,MSCI ACWI Ex USA NR USD,57.23,0.61,7.34,18.23,USD,5,13.27,11.22,0.86,1.43,21.00
+2,TRAMX,MSCI ACWI Ex USA NR USD,,,,,USD,10,,,,,
+3,TRAMX,MSCI ACWI Ex USA NR USD,,,,,USD,15,,,,,
