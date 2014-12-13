@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+
+<title>Fund Analytics</title>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet"
+	target="_blank" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet"
+	target="_blank" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+
+<!-- Custom Fonts -->
+<link
+	target="_blank" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
+	rel="stylesheet">
+
+<!-- Custom CSS -->
+<link target="_blank" href="css/sb-admin.css" rel="stylesheet">
+<script src="http://d3js.org/d3.v3.min.js"></script>
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+ <style>
+
+svg {
+  font: 10px sans-serif;
+}
+
+.area {
+  fill: steelblue;
+  clip-path: url(#clip);
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.brush .extent {
+  stroke: #fff;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+</style>
+
+</head>
+
+<body>
+
+	<div id="wrapper">
+  <!-- Navigation Start-->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html"> Mutual Fund Predictive Analytics</a>
+            </div>
+            <!-- Top Menu Items -->
+            <ul class="nav navbar-right top-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color: white"> Contact Us <i class="fa fa-envelope"></i> <b class="caret"></b></a>
+                    <ul class="dropdown-menu message-dropdown">
+                        <li class="message-preview">
+                            <a href="MAILTO:rupeshmore85@gmail.com">
+                                <div class="media">
+                                    <span class="pull-left">
+                                       <img class="media-object" src="/img/rupesh.jpg" alt="Rupesh" height="50" width="50">
+                                    </span>
+                                    <div class="media-body">
+                                        <h5 class="media-heading"><strong>Rupesh More</strong>
+                                        </h5>
+                                        <p>rupeshmore85@gmail.com</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="message-preview">
+                            <a href="MAILTO:ashwini.acpce@gmail.com">
+                                <div class="media">
+                                    <span class="pull-left">
+                                        <img class="media-object" src="/img/ashwini.jpg" alt="Ashwini" height="50" width="50">
+                                    </span>
+                                    <div class="media-body">
+                                        <h5 class="media-heading"><strong>Ashwini Patil</strong>
+                                        </h5>
+                                        
+                                        <p>ashwini.acpce@gmail.com</p>
+                                        
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                
+            </ul>
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav">
+                    <li class="active">
+                        <a href="index.html"><i class="fa fa-fw fa-home"></i> Home</a>
+                    </li>
+
+ 					<li>
+                        <a href="RandomForest.html"><i class="fa fa-fw fa-tree"></i> Random Forest Classifier</a>
+                    </li>
+                    
+                 	<li>
+                        <a href="featureImp.html"><i class="fa fa-fw fa-location-arrow"></i> Feature Importance</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#demo_3"><i class="fa fa-fw fa-bar-chart-o"></i> 3 Years Investment<i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="demo_3" class="collapse">
+                            <li class="active">
+                                <a href="Top3yrsFund.html">Top Performing Funds</a>
+                            </li>
+                            <li>
+                                <a href="Fund_AreaChart_3yrs.html">Top Funds Area Chart</a>
+                            </li>
+                             <li>
+                                <a href="Portfolio_3yrs.html">Top Fund Portfolio</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#demo_5"><i class="fa fa-fw fa-bar-chart-o"></i> 5 Years Investment<i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="demo_5" class="collapse in">
+                            <li class="active">
+                                <a href="Top5yrsFund.html">Top Performing Funds</a>
+                            </li>
+                            <li>
+                                <a href="Fund_AreaChart_5yrs.html">Top Funds Area Chart</a>
+                            </li>
+                             <li>
+                                <a href="Portfolio_5yrs.html">Top Fund Portfolio</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#demo_10"><i class="fa fa-fw fa-bar-chart-o"></i> 10 Years Investment<i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="demo_10" class="collapse">
+     					<li class="active">
+                                <a href="Top10yrsFund.html">Top Performing Funds</a>
+                            </li>
+                            <li>
+                                <a href="Fund_AreaChart_10yrs.html">Top Funds Area Chart</a>
+                            </li>
+                             <li>
+                                <a href="Portfolio_10yrs.html">Top Fund Portfolio</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="Poor_fund.html"><i class="fa fa-fw fa-file"></i> Poor Performing Funds</a>
+                    </li>
+                     <li>
+                        <a href="ExpenseRatio.html"><i class="fa fa-fw fa-usd"></i>Expense Ratio Vs Return</a>
+                    </li>
+                   
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </nav>
+        
+
+		<!-- Navigation ends copy till this line to all pages -->
+		<div id="page-wrapper">
+
+			<div class="container-fluid">
+
+				<!-- Page Heading -->
+				<div class="row">
+					<div class="col-lg-12">
+						<h3 class="page-header">Area Chart for Top Performing Funds for 5 years Investment
+							</h3>
+					</div>
+				</div>
+				<!-- /.row -->
+
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="alert">
+							We have randomly selected 5 funds from the set of predicted top performing funds for 5 years.
+							 We can see their historical NAV values using Area Chart.
+							Click on a Fun Ticker button to view its historical NAV.
+							
+							This chart is developed using interactive <a href="http://d3js.org/"> <b>D3 visualization </b> </a>. 
+							We can select the draggable area present at the bottom of chart 
+							to view the data for the selective time-frame.
+						</div>
+						
+					</div>
+				</div>
+				<!-- /.row -->
+				<!--  Charts Section -->
+				<div class="row">
+				<div class="col-md-1"> 
+					<button id="PIXAX" type="button" class="btn btn-success">PIXAX</button>
+					<br><br>
+					<button id="PSTKX" type="button" class="btn btn-success">PSTKX</button>
+					<br><br>
+					<button id="FLMVX" type="button" class="btn btn-success">FLMVX</button>
+					<br><br>
+					<button id="VIVAX" type="button" class="btn btn-success">VIVAX</button>
+					<br><br>
+					<button id="VPCCX" type="button" class="btn btn-success">VPCCX</button>
+				
+				</div>
+					<!-- Plot for 3 years investment -->
+					<div class="col-md-11">
+						<div class="panel panel-info">
+							<div class="panel-heading">
+								<h3 class="panel-title">
+									<i class="fa fa-line-chart"></i> Fund Historical NAV values
+								</h3>
+							</div>
+							<div class="panel-body">
+								<div class="flot-chart" id="d3AreaChart" >
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+	
+
+
+
+
+			</div>
+			<!-- /.container-fluid -->
+
+		</div>
+		<!-- /#page-wrapper -->
+
+	</div>
+	<!-- /#wrapper -->
+
+	<!-- jQuery -->
+	<!-- Optional: Include the jQuery library -->
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+<script>
+
+
+	$( document ).ready(function() {
+	  // Handler for .ready() called.
+		showAreaChart("PIXAX");
+	});
+
+	$( "#PIXAX" ).click(function() {
+		showAreaChart("PIXAX");
+	  });
+	
+	$( "#PSTKX" ).click(function() {
+		showAreaChart("PSTKX");
+	  });
+	
+
+	$( "#FLMVX" ).click(function() {
+		showAreaChart("FLMVX");
+	  });
+
+	$( "#VIVAX" ).click(function() {
+		showAreaChart("VIVAX");
+	  });
+
+	$( "#VPCCX" ).click(function() {
+		showAreaChart("VPCCX");
+	  });
+
+function showAreaChart(ticker){
+	
+	d3.selectAll("svg").remove();
+	
+	var margin = {top: 10, right: 10, bottom: 100, left: 40},
+    margin2 = {top: 330, right: 10, bottom: 20, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom,
+    height2 = 400 - margin2.top - margin2.bottom;
+
+var parseDate = d3.time.format("%_d-%b-%Y").parse;
+
+var x = d3.time.scale().range([0, width]),
+    x2 = d3.time.scale().range([0, width]),
+    y = d3.scale.linear().range([height, 0]),
+    y2 = d3.scale.linear().range([height2, 0]);
+
+var xAxis = d3.svg.axis().scale(x).orient("bottom"),
+    xAxis2 = d3.svg.axis().scale(x2).orient("bottom"),
+    yAxis = d3.svg.axis().scale(y).orient("left");
+
+var brush = d3.svg.brush()
+    .x(x2)
+    .on("brush", brushed);
+
+var area = d3.svg.area()
+    .interpolate("monotone")
+    .x(function(d) { return x(d.date); })
+    .y0(height)
+    .y1(function(d) { return y(d.price); });
+
+var area2 = d3.svg.area()
+    .interpolate("monotone")
+    .x(function(d) { return x2(d.date); })
+    .y0(height2)
+    .y1(function(d) { return y2(d.price); });
+
+var svg = d3.select("#d3AreaChart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom);
+
+svg.append("defs").append("clipPath")
+    .attr("id", "clip")
+  .append("rect")
+    .attr("width", width)
+    .attr("height", height);
+
+var focus = svg.append("g")
+    .attr("class", "focus")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var context = svg.append("g")
+    .attr("class", "context")
+    .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")");
+
+
+d3.csv("/Fund_Data/Fund_Nav/"+ticker+"_5y.csv", type, function(error, data) {
+  x.domain(d3.extent(data.map(function(d) { return d.date; })));
+  y.domain([0, d3.max(data.map(function(d) { return d.price; }))]);
+  x2.domain(x.domain());
+  y2.domain(y.domain());
+
+  focus.append("path")
+      .datum(data)
+      .attr("class", "area")
+      .attr("d", area);
+
+  focus.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+  focus.append("g")
+      .attr("class", "y axis")
+      .call(yAxis);
+
+  focus.append("text")
+        .attr("x", (width / 2))             
+        .attr("y", 2 )
+        .attr("text-anchor", "middle")  
+        .style("font-size", "12px") 
+        .style("text-decoration", "underline")  
+        .text(ticker+" Nav for 10 Years ");
+
+  context.append("path")
+      .datum(data)
+      .attr("class", "area")
+      .attr("d", area2);
+
+  context.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height2 + ")")
+      .call(xAxis2);
+
+  context.append("g")
+      .attr("class", "x brush")
+      .call(brush)
+    .selectAll("rect")
+      .attr("y", -6)
+      .attr("height", height2 + 7);
+
+  context.append("text")
+        .attr("x", (width / 2))             
+        .attr("y", 2 )
+        .attr("text-anchor", "middle")  
+        .style("font-size", "12px") 
+        .style("text-decoration", "underline")  
+        .text("Draggable Area");
+
+
+	});
+	
+	function brushed() {
+	  x.domain(brush.empty() ? x2.domain() : brush.extent());
+	  focus.select(".area").attr("d", area);
+	  focus.select(".x.axis").call(xAxis);
+	}
+	
+	function type(d) {
+	  d.date = parseDate(d.date);
+	  d.price = +d.price;
+	  return d;
+	}
+}
+
+
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Fund Analytics</title>
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet"  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+	
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+	
+	 <!-- Custom Fonts -->
+	<link  href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	
+    <!-- Custom CSS -->
+    <link  href="css/sb-admin.css" rel="stylesheet">   
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Navigation Start-->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html"> Mutual Fund Predictive Analytics</a>
+            </div>
+            <!-- Top Menu Items -->
+            <ul class="nav navbar-right top-nav">
+             	<li>
+                        <a target="_blank" href="https://github.com/rupeshmore85/cs109_Fund_Analytics/blob/master/README.md">
+                         Python Process Book</a>
+            	</li>
+            	 <li>
+                        <a target="_blank" href="https://github.com/rupeshmore85/cs109_Fund_Analytics/tree/master/Fund_Data"> Fund Data</a>
+            	</li>
+            	 <li>
+                        <a target="_blank" href="#"> Screen Cast</a>
+            	</li>
+            	
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color: white"> Contact Us <i class="fa fa-envelope"></i> <b class="caret"></b></a>
+                    <ul class="dropdown-menu message-dropdown">
+                        <li class="message-preview">
+                            <a href="MAILTO:rupeshmore85@gmail.com">
+                                <div class="media">
+                                    <span class="pull-left">
+                                       <img class="media-object" src="/img/rupesh.jpg" alt="Rupesh" height="50" width="50">
+                                    </span>
+                                    <div class="media-body">
+                                        <h5 class="media-heading"><strong>Rupesh More</strong>
+                                        </h5>
+                                        <p>rupeshmore85@gmail.com</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="message-preview">
+                            <a href="MAILTO:ashwini.acpce@gmail.com">
+                                <div class="media">
+                                    <span class="pull-left">
+                                        <img class="media-object" src="/img/ashwini.jpg" alt="Ashwini" height="50" width="50">
+                                    </span>
+                                    <div class="media-body">
+                                        <h5 class="media-heading"><strong>Ashwini Patil</strong>
+                                        </h5>
+                                        
+                                        <p>ashwini.acpce@gmail.com</p>
+                                        
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                
+            </ul>
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav">
+                    <li class="active">
+                        <a href="index.html"><i class="fa fa-fw fa-home"></i> Home</a>
+                    </li>
+
+ 					<li>
+                        <a href="RandomForest.html"><i class="fa fa-fw fa-tree"></i> Random Forest Classifier</a>
+                    </li>
+                    
+                 	<li>
+                        <a href="featureImp.html"><i class="fa fa-fw fa-location-arrow"></i> Feature Importance</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#demo_3"><i class="fa fa-fw fa-bar-chart-o"></i> 3 Years Investment<i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="demo_3" class="collapse">
+                            <li class="active">
+                                <a href="Top3yrsFund.html">Top Performing Funds</a>
+                            </li>
+                            <li>
+                                <a href="Fund_AreaChart_3yrs.html">Top Funds Area Chart</a>
+                            </li>
+                             <li>
+                                <a href="Portfolio_3yrs.html">Top Fund Portfolio</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#demo_5"><i class="fa fa-fw fa-bar-chart-o"></i> 5 Years Investment<i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="demo_5" class="collapse">
+                            <li class="active">
+                                <a href="Top5yrsFund.html">Top Performing Funds</a>
+                            </li>
+                            <li>
+                                <a href="Fund_AreaChart_5yrs.html">Top Funds Area Chart</a>
+                            </li>
+                             <li>
+                                <a href="Portfolio_5yrs.html">Top Fund Portfolio</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li>
+                        <a href="javascript:;" data-toggle="collapse" data-target="#demo_10"><i class="fa fa-fw fa-bar-chart-o"></i> 10 Years Investment<i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="demo_10" class="collapse">
+     					<li class="active">
+                                <a href="Top10yrsFund.html">Top Performing Funds</a>
+                            </li>
+                            <li>
+                                <a href="Fund_AreaChart_10yrs.html">Top Funds Area Chart</a>
+                            </li>
+                             <li>
+                                <a href="Portfolio_10yrs.html">Top Fund Portfolio</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="Poor_fund.html"><i class="fa fa-fw fa-file"></i> Poor Performing Funds</a>
+                    </li>
+                     <li>
+                        <a href="ExpenseRatio.html"><i class="fa fa-fw fa-usd"></i>Expense Ratio Vs Return</a>
+                    </li>
+                     <li>
+                        <a href="ExpenseRatio.html"><i class="fa fa-fw fa-usd"></i>Python Code and Data</a>
+                    </li>
+                   
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </nav>
+
+<!-- Navigation ends copy till this line to all pages -->
+        <div id="page-wrapper">
+
+            <div class="container-fluid">
+
+                <!-- Page Heading -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h3 class="page-header">
+                            Mutual Fund Predictive Analytics <small>Statistics Overview</small>
+                        </h3>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="alert">
+                        
+                        <h4>Predicting top performing Mutual Funds for short term/long term investment</h4>
+                        
+                        <p>
+                        	The analysis was done on the historical returns data available. We selected top 10 Fund Families based on largest 
+                        	Asset Under Management (AUM). 
+                        	The data for this analysis is gathered from <a target="_blank" href="http://www.morningstar.com/"> Morning Star </a> 
+                        	Website using Web Scraping and from <a target="_blank" href="http://finance.yahoo.com/">Yahoo Finance</a> 
+                        	using Yahoo finace API.
+                             
+                             The techniques used to predict good Mutual Funds involve 
+                             <a target="_blank" href="http://en.wikipedia.org/wiki/Linear_regression">Linear Regression </a>, 
+                             <a target="_blank" href="http://en.wikipedia.org/wiki/Random_forest">Random Forest</a> and 
+                             <a target="_blank" href="http://en.wikipedia.org/wiki/Cross-validation_%28statistics%29"> Cross Validation</a>.
+						</p>
+						<br>
+						<p>
+                        	It had approximately 1277 funds from these 10 fund families comprising of all the different 
+                        	Morningstar categories like Large,MidCap,Small, Growth,Blend,Value,Index funds etc.
+                        	
+                        	The data from Morningstar was scraped using <a target="_blank" href="http://www.crummy.com/software/BeautifulSoup/">Beautiful Soup </a>and <a target="_blank" href="http://pandas.pydata.org/"> Pandas</a> read_html libraries. 
+                        	Fund parameters like <a target="_blank" href="http://www.investopedia.com/terms/a/alpha.asp">Alpha</a>,
+                        	<a target="_blank" href="http://www.investopedia.com/terms/b/beta.asp">Beta</a> , 
+                        	<a target="_blank" href="http://www.investopedia.com/terms/s/sharperatio.asp">Sharpe Ratio </a>, 
+                        	<a target="_blank" href="http://www.investopedia.com/terms/s/sortinoratio.asp">Sortino Ratio </a>, 
+                        	<a target="_blank" href="http://www.investopedia.com/terms/s/standarddeviation.asp">Standard Deviation </a>, 
+                        	<a target="_blank" href="http://www.investopedia.com/terms/r/returnoninvestment.asp">Returns </a> information, 
+                        	Managemanet Information, Holdings information etc. was available in a annualized form on the website. 
+                        	The fund returns plots(funds comparison) were plotted using matplotlib libraries using Yahoo Finance API etc. 
+                        	The <a target="_blank" href="http://www.investopedia.com/terms/n/nav.asp">NAV</a> information is available on a daily basis on Yahoo Finance servers which helped us to plot these
+                        	 visualizations.
+                        	 
+                        	 </p>
+                        	 <br>
+                        	 Based on the analysis of 1200 Mutual Funds for past 10 years, we predicted top performing mutual funds for 3 years, 5 years and 10 years of investment.<br>
+                             
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+                <!--  Charts Section -->
+				<div class="row">
+				
+				<!-- Plot for 3 years investment -->
+					<div class="col-md-6">
+	                        <div class="panel panel-info">
+	                            <div class="panel-heading">
+	                                <h3 class="panel-title"><i class="fa fa-line-chart"></i> Top Performing Funds for 3 years</h3>
+	                            </div>
+	                            <div class="panel-body">
+	                                <div class="flot-chart">
+	                                    <img class="img-thumbnail" src="/img/3yrs_linePlot.png" alt="3 years Line Plot"> 
+	                                    </div>
+	                                </div>
+	            				 <div class="text-right">
+	                                    <a target="_blank" href="#">View Details <i class="fa fa-arrow-circle-right"></i></a>
+	                                </div>
+	                            </div>
+	                   </div>
+                        
+                   <!-- Plot for 5 years investment -->
+                      <div class="col-md-6">
+	                        <div class="panel panel-success">
+	                            <div class="panel-heading">
+	                                <h3 class="panel-title"><i class="fa fa-line-chart"></i> Top Performing Funds for 5 years</h3>
+	                            </div>
+	                            <div class="panel-body">
+	                                <div class="flot-chart">
+	                                    <img class="img-thumbnail" src="/img/5yrs_linePlot.png" alt="5 years Line Plot"> 
+	                                    </div>
+	                                </div>
+	            				 <div class="text-right">
+	                                    <a target="_blank" href="#">View Details <i class="fa fa-arrow-circle-right"></i></a>
+	                                </div>
+	                            </div>
+	                   </div>
+                        
+                  </div>
+
+				 
+
+				
+				</div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4">
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <div class="row">
+                                    <div class="col-xs-3">
+                                        <i class="fa fa-line-chart fa-3x"></i>
+                                    </div>
+                                    <div class="col-xs-9 text-right">
+                                        <div class="huge">79</div>
+                                        <div>Good Funds for 3 Years Investment!</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a  href="Top3yrsFund.html">
+                                <div class="panel-footer">
+                                    <span class="pull-left">View Details</span>
+                                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="panel panel-success">
+                            <div class="panel-heading">
+                                <div class="row">
+                                    <div class="col-xs-3">
+                                        <i class="fa fa-line-chart fa-3x"></i>
+                                    </div>
+                                    <div class="col-xs-9 text-right">
+                                        <div class="huge">61</div>
+                                        <div>Good Funds for 5 Years Investment!</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="Top5yrsFund.html">
+                                <div class="panel-footer">
+                                    <span class="pull-left">View Details</span>
+                                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="panel panel-danger">
+                            <div class="panel-heading">
+                                <div class="row">
+                                    <div class="col-xs-3">
+                                        <i class="fa fa-line-chart fa-3x"></i>
+                                    </div>
+                                    <div class="col-xs-9 text-right">
+                                        <div class="huge">12</div>
+                                        <div>Good Funds for 10 Years Investment!</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="Top10yrsFund.html">
+                                <div class="panel-footer">
+                                    <span class="pull-left">View Details</span>
+                                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+    
+
+            </div>
+            <!-- /.container-fluid -->
+
+        </div>
+        <!-- /#page-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+	 <!-- jQuery -->
+	<!-- Optional: Include the jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+   <!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+    <!-- Morris Charts JavaScript 
+    <script src="js/plugins/morris/raphael.min.js"></script>
+    <script src="js/plugins/morris/morris.min.js"></script>
+    <script src="js/plugins/morris/morris-data.js"></script>-->
+
+</body>
+
+</html>
